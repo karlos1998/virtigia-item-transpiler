@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2021",   // Wsparcie dla nowoczesnych funkcji, np. replaceAll()
+    "lib": ["ES2021", "DOM"], // Wsparcie dla nowoczesnych metod stringów i API przeglądarek
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  }
+}

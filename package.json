@@ -1,0 +1,18 @@
+{
+  "name": "item-transpiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "@types/dotenv": "^8.2.3",
+    "@types/fs-extra": "^11.0.4",
+    "@types/mysql": "^2.15.26",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.12.0"
+  }
+}

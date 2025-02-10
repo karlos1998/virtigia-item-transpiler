@@ -1,0 +1,13 @@
+ID: 27035
+🟡 Zmienione: {
+  "useOutfit": {
+    "old": {
+      "time": "0",
+      "src": "paid/m_magmrozu.gif"
+    },
+    "new": {
+      "time": 0,
+      "src": "paid/m_magmrozu.gif"
+    }
+  }
+}

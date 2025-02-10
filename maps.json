@@ -1,0 +1,10254 @@
+[
+    {
+      "id": 202302211,
+      "name": "Kopia Ithan - Urodziny 2023"
+    },
+    {
+      "id": 7408,
+      "name": "Jaskinia Łowców p.1 - świąteczna kryjówka (poziom: mistrzowski)"
+    },
+    {
+      "id": 7407,
+      "name": "Jaskinia Łowców p.1 - świąteczna kryjówka (poziom: trudny)"
+    },
+    {
+      "id": 7406,
+      "name": "Jaskinia Łowców p.1 - świąteczna kryjówka (poziom: normalny)"
+    },
+    {
+      "id": 7379,
+      "name": "Internat"
+    },
+    {
+      "id": 7378,
+      "name": "Chatka Mikołaja"
+    },
+    {
+      "id": 7375,
+      "name": "Piaskowa Pułapka - Grota Piaskowej Śmierci"
+    },
+    {
+      "id": 7374,
+      "name": "Piaskowa Pułapka p.1 - sala 4"
+    },
+    {
+      "id": 7373,
+      "name": "Piaskowa Pułapka p.1 - sala 3"
+    },
+    {
+      "id": 7372,
+      "name": "Piaskowa Pułapka p.1 - sala 2"
+    },
+    {
+      "id": 7371,
+      "name": "Piaskowa Pułapka p.1 - sala 1"
+    },
+    {
+      "id": 7370,
+      "name": "Opuszczony statek - pokład"
+    },
+    {
+      "id": 7369,
+      "name": "Opuszczony statek - pokład pod rufą"
+    },
+    {
+      "id": 7368,
+      "name": "Twierdza Rogogłowych - Sala Byka"
+    },
+    {
+      "id": 7367,
+      "name": "Korytarze Wygnańców p.3 - Komnata Przeklętego Daru"
+    },
+    {
+      "id": 7366,
+      "name": "Korytarze Wygnańców p.2 - Komnata Wygnańców"
+    },
+    {
+      "id": 7365,
+      "name": "Korytarze Wygnańców p.2 - Komora Budowniczego"
+    },
+    {
+      "id": 7364,
+      "name": "Korytarze Wygnańców p.2 - Sala Żądzy"
+    },
+    {
+      "id": 7363,
+      "name": "Korytarze Wygnańców p.1 - Sala Szlachetnych"
+    },
+    {
+      "id": 7362,
+      "name": "Korytarze Wygnańców p.1 - Hala Odszepieńców"
+    },
+    {
+      "id": 7361,
+      "name": "Korytarze Wygnańców p.1 - Komora Opuszczonych"
+    },
+    {
+      "id": 7360,
+      "name": "Korytarze Wygnańców p.1 - Bezdenne Przepaści"
+    },
+    {
+      "id": 7359,
+      "name": "Korytarze Wygnańców p.1 - Jaskinia Zagubionych"
+    },
+    {
+      "id": 7358,
+      "name": "Korytarze Wygnańców p.1 - Sala Ech"
+    },
+    {
+      "id": 7357,
+      "name": "Jama Morskiej Macki p.1 - sala 3"
+    },
+    {
+      "id": 7356,
+      "name": "Jama Morskiej Macki p.1 - sala 2"
+    },
+    {
+      "id": 7355,
+      "name": "Jama Morskiej Macki p.1 - sala 1"
+    },
+    {
+      "id": 7354,
+      "name": "Głębia Przeklętych Fal - sala"
+    },
+    {
+      "id": 7353,
+      "name": "Głębia Przeklętych Fal - przedsionek"
+    },
+    {
+      "id": 7352,
+      "name": "Piaszczysta Grota p.1 - sala 2"
+    },
+    {
+      "id": 7351,
+      "name": "Piaszczysta Grota p.1 - sala 1"
+    },
+    {
+      "id": 7350,
+      "name": "Kryształowa Grota p.6"
+    },
+    {
+      "id": 7349,
+      "name": "Kryształowa Grota p.5"
+    },
+    {
+      "id": 7348,
+      "name": "Kryształowa Grota p.4"
+    },
+    {
+      "id": 7347,
+      "name": "Kryształowa Grota p.3 - sala 2"
+    },
+    {
+      "id": 7346,
+      "name": "Kryształowa Grota p.3 - sala 1"
+    },
+    {
+      "id": 7345,
+      "name": "Kryształowa Grota - Sala Smutku"
+    },
+    {
+      "id": 7344,
+      "name": "Kryształowa Grota p.2 - sala 2"
+    },
+    {
+      "id": 7343,
+      "name": "Kryształowa Grota p.2 - sala 1"
+    },
+    {
+      "id": 7342,
+      "name": "Kryształowa Grota p.1"
+    },
+    {
+      "id": 7341,
+      "name": "Kryształowa Grota - przepaść"
+    },
+    {
+      "id": 7340,
+      "name": "Chata wójta Fistuły p.1"
+    },
+    {
+      "id": 7339,
+      "name": "Chata wójta Fistuły"
+    },
+    {
+      "id": 7338,
+      "name": "Chata Teściowej"
+    },
+    {
+      "id": 7337,
+      "name": "Góralska Pieczara p.3"
+    },
+    {
+      "id": 7336,
+      "name": "Góralska Pieczara p.2"
+    },
+    {
+      "id": 7335,
+      "name": "Góralska Pieczara p.1"
+    },
+    {
+      "id": 7334,
+      "name": "Wyjąca Jaskinia"
+    },
+    {
+      "id": 7333,
+      "name": "SP Margonem - składzik bagażowy (poziom: mistrzowski)"
+    },
+    {
+      "id": 7332,
+      "name": "SP Margonem - składzik bagażowy (poziom: trudny)"
+    },
+    {
+      "id": 7297,
+      "name": "SP Margonem - taras"
+    },
+    {
+      "id": 7296,
+      "name": "SP Margonem - luki bagażowe"
+    },
+    {
+      "id": 7295,
+      "name": "SP Margonem - maszynownia"
+    },
+    {
+      "id": 7294,
+      "name": "SP Margonem - korytarz techniczny"
+    },
+    {
+      "id": 7293,
+      "name": "SP Margonem - pokój załogi"
+    },
+    {
+      "id": 7292,
+      "name": "SP Margonem - pokój drugiej klasy"
+    },
+    {
+      "id": 7291,
+      "name": "SP Margonem - pokój drugiej klasy"
+    },
+    {
+      "id": 7290,
+      "name": "SP Margonem - pokój drugiej klasy"
+    },
+    {
+      "id": 7289,
+      "name": "SP Margonem - pokój drugiej klasy"
+    },
+    {
+      "id": 7287,
+      "name": "SP Margonem - pokój drugiej klasy"
+    },
+    {
+      "id": 7286,
+      "name": "SP Margonem - pokój drugiej klasy"
+    },
+    {
+      "id": 7285,
+      "name": "SP Margonem - pokój drugiej klasy"
+    },
+    {
+      "id": 7284,
+      "name": "SP Margonem - klatka schodowa p.1"
+    },
+    {
+      "id": 7283,
+      "name": "SP Margonem - pokój pierwszej klasy"
+    },
+    {
+      "id": 7282,
+      "name": "SP Margonem - pokój pierwszej klasy"
+    },
+    {
+      "id": 7281,
+      "name": "SP Margonem - pokój pierwszej klasy"
+    },
+    {
+      "id": 7280,
+      "name": "SP Margonem - pokój pierwszej klasy"
+    },
+    {
+      "id": 7279,
+      "name": "SP Margonem - pokój pierwszej klasy"
+    },
+    {
+      "id": 7278,
+      "name": "SP Margonem - pokój pierwszej klasy"
+    },
+    {
+      "id": 7277,
+      "name": "SP Margonem - klatka schodowa p.2"
+    },
+    {
+      "id": 7276,
+      "name": "SP Margonem - sala operowa"
+    },
+    {
+      "id": 7275,
+      "name": "SP Margonem - kasyno"
+    },
+    {
+      "id": 7274,
+      "name": "SP Margonem - kuchnia"
+    },
+    {
+      "id": 7273,
+      "name": "SP Margonem - klatka schodowa p.3"
+    },
+    {
+      "id": 7272,
+      "name": "SP Margonem - mostek kapitański"
+    },
+    {
+      "id": 7271,
+      "name": "SP Margonem - składzik bagażowy (poziom: normalny)"
+    },
+    {
+      "id": 7267,
+      "name": "SP Margonem - sala bankietowa"
+    },
+    {
+      "id": 7163,
+      "name": "Wakacyjna piramida Ra"
+    },
+    {
+      "id": 7162,
+      "name": "Piramida Ra (poziom: mistrzowski)"
+    },
+    {
+      "id": 7161,
+      "name": "Piramida Ra (poziom: trudny)"
+    },
+    {
+      "id": 7160,
+      "name": "Piramida Ra (poziom: normalny)"
+    },
+    {
+      "id": 7159,
+      "name": "Przedsionek piramidy Ra"
+    },
+    {
+      "id": 7158,
+      "name": "Wakacyjna piramida Tota"
+    },
+    {
+      "id": 7157,
+      "name": "Piramida Tota (poziom: mistrzowski)"
+    },
+    {
+      "id": 7156,
+      "name": "Piramida Tota (poziom: trudny)"
+    },
+    {
+      "id": 7155,
+      "name": "Piramida Tota (poziom: normalny)"
+    },
+    {
+      "id": 7154,
+      "name": "Przedsionek piramidy Tota"
+    },
+    {
+      "id": 7153,
+      "name": "Wakacyjna piramida Renenutet"
+    },
+    {
+      "id": 7152,
+      "name": "Piramida Renenutet (poziom: mistrzowski)"
+    },
+    {
+      "id": 7151,
+      "name": "Piramida Renenutet (poziom: trudny)"
+    },
+    {
+      "id": 7150,
+      "name": "Piramida Renenutet (poziom: normalny)"
+    },
+    {
+      "id": 7149,
+      "name": "Przedsionek piramidy Renenutet"
+    },
+    {
+      "id": 7148,
+      "name": "Wakacyjna piramida Ptaha"
+    },
+    {
+      "id": 7147,
+      "name": "Piramida Ptaha (poziom: mistrzowski)"
+    },
+    {
+      "id": 7146,
+      "name": "Piramida Ptaha (poziom: trudny)"
+    },
+    {
+      "id": 7145,
+      "name": "Piramida Ptaha (poziom: normalny)"
+    },
+    {
+      "id": 7144,
+      "name": "Przedsionek piramidy Ptaha"
+    },
+    {
+      "id": 7143,
+      "name": "Wakacyjna piramida Izydy"
+    },
+    {
+      "id": 7142,
+      "name": "Piramida Izydy (poziom: mistrzowski)"
+    },
+    {
+      "id": 7141,
+      "name": "Piramida Izydy (poziom: trudny)"
+    },
+    {
+      "id": 7140,
+      "name": "Piramida Izydy (poziom: normalny)"
+    },
+    {
+      "id": 7139,
+      "name": "Przedsionek piramidy Izydy"
+    },
+    {
+      "id": 7138,
+      "name": "Wakacyjna piramida Anubisa"
+    },
+    {
+      "id": 7137,
+      "name": "Piramida Anubisa (poziom: mistrzowski)"
+    },
+    {
+      "id": 7136,
+      "name": "Piramida Anubisa (poziom: trudny)"
+    },
+    {
+      "id": 7135,
+      "name": "Piramida Anubisa (poziom: normalny)"
+    },
+    {
+      "id": 7134,
+      "name": "Przedsionek piramidy Anubisa"
+    },
+    {
+      "id": 7133,
+      "name": "Wakacyjna piramida Bastet"
+    },
+    {
+      "id": 7132,
+      "name": "Piramida Bastet (poziom: mistrzowski)"
+    },
+    {
+      "id": 7131,
+      "name": "Piramida Bastet (poziom: trudny)"
+    },
+    {
+      "id": 7130,
+      "name": "Piramida Bastet (poziom: normalny)"
+    },
+    {
+      "id": 7129,
+      "name": "Przedsionek piramidy Bastet"
+    },
+    {
+      "id": 7128,
+      "name": "Akhetaten"
+    },
+    {
+      "id": 7098,
+      "name": "Chata studentów"
+    },
+    {
+      "id": 7076,
+      "name": "Zagrzybiały Kurkan"
+    },
+    {
+      "id": 7075,
+      "name": "Zagrzybiały Kurkan"
+    },
+    {
+      "id": 7074,
+      "name": "Zagrzybiały Kurkan"
+    },
+    {
+      "id": 7073,
+      "name": "Leśne bagnisko"
+    },
+    {
+      "id": 7072,
+      "name": "Mgliste Kurkany"
+    },
+    {
+      "id": 7071,
+      "name": "Grota Trzeszczących Kości p.1 - sala 2"
+    },
+    {
+      "id": 7070,
+      "name": "Grota Trzeszczących Kości p.1 - sala 1"
+    },
+    {
+      "id": 7069,
+      "name": "Piramida Pustynnego Władcy p.3"
+    },
+    {
+      "id": 7068,
+      "name": "Piramida Pustynnego Władcy p.2"
+    },
+    {
+      "id": 7067,
+      "name": "Piramida Pustynnego Władcy p.1"
+    },
+    {
+      "id": 7066,
+      "name": "Skalne Cmentarzysko p.4"
+    },
+    {
+      "id": 7065,
+      "name": "Skalne Cmentarzysko p.3"
+    },
+    {
+      "id": 7064,
+      "name": "Skalne Cmentarzysko p.2"
+    },
+    {
+      "id": 7063,
+      "name": "Skalne Cmentarzysko p.1"
+    },
+    {
+      "id": 7062,
+      "name": "Grobowiec Nieznających Spokoju"
+    },
+    {
+      "id": 7061,
+      "name": "Wulkan Politraki - Piekielne Czeluście"
+    },
+    {
+      "id": 7060,
+      "name": "Wulkan Politraki - przedsionek"
+    },
+    {
+      "id": 7059,
+      "name": "Wulkan Politraki p.2 - sala 2"
+    },
+    {
+      "id": 7058,
+      "name": "Wulkan Politraki p.2 - sala 1"
+    },
+    {
+      "id": 7057,
+      "name": "Wulkan Politraki p.1 - sala 3"
+    },
+    {
+      "id": 7056,
+      "name": "Wulkan Politraki p.1 - sala 2"
+    },
+    {
+      "id": 7055,
+      "name": "Wulkan Politraki p.1 - sala 1"
+    },
+    {
+      "id": 6990,
+      "name": "Góralski magazyn"
+    },
+    {
+      "id": 6989,
+      "name": "Chata Teściowej"
+    },
+    {
+      "id": 6988,
+      "name": "Lezysko Baraniego Kanoniera (poziom: mistrzowski)"
+    },
+    {
+      "id": 6987,
+      "name": "Lezysko Baraniego Kanoniera (poziom: trudny)"
+    },
+    {
+      "id": 6986,
+      "name": "Lezysko Baraniego Kanoniera (poziom: normalny)"
+    },
+    {
+      "id": 6982,
+      "name": "Wielkanocny Babi Wzgórek"
+    },
+    {
+      "id": 6956,
+      "name": "Kopalnia Żółtego Kruszcu p.2 - sala 2"
+    },
+    {
+      "id": 6955,
+      "name": "Kopalnia Żółtego Kruszcu p.2 - sala 1"
+    },
+    {
+      "id": 6954,
+      "name": "Kopalnia Żółtego Kruszcu p.1 - sala 2"
+    },
+    {
+      "id": 6953,
+      "name": "Kopalnia Żółtego Kruszcu p.1 - sala 1"
+    },
+    {
+      "id": 6952,
+      "name": "Siedziba rekieterów p.1"
+    },
+    {
+      "id": 6951,
+      "name": "Siedziba rekieterów"
+    },
+    {
+      "id": 6950,
+      "name": "Bandyckie Chowisko - skarbiec"
+    },
+    {
+      "id": 6949,
+      "name": "Bandyckie Chowisko"
+    },
+    {
+      "id": 6948,
+      "name": "Chata bandytów p.1"
+    },
+    {
+      "id": 6947,
+      "name": "Chata bandytów"
+    },
+    {
+      "id": 6946,
+      "name": "Zabłocona Jama p.2 - Sala Magicznego Błota"
+    },
+    {
+      "id": 6945,
+      "name": "Zabłocona Jama p.2 - Sala Duszącej Stęchlizny"
+    },
+    {
+      "id": 6944,
+      "name": "Zabłocona Jama p.2 - Sala Błotnistych Odmętów"
+    },
+    {
+      "id": 6943,
+      "name": "Zabłocona Jama p.2 - sala 3"
+    },
+    {
+      "id": 6942,
+      "name": "Zabłocona Jama p.2 - sala 2"
+    },
+    {
+      "id": 6941,
+      "name": "Zabłocona Jama p.2 - sala 1"
+    },
+    {
+      "id": 6940,
+      "name": "Zabłocona Jama p.1 - sala 2"
+    },
+    {
+      "id": 6939,
+      "name": "Zabłocona Jama p.1 - sala 1"
+    },
+    {
+      "id": 6938,
+      "name": "Podziemia Zniszczonej Wieży p.5"
+    },
+    {
+      "id": 6937,
+      "name": "Podziemia Zniszczonej Wieży p.4"
+    },
+    {
+      "id": 6936,
+      "name": "Podziemia Zniszczonej Wieży p.3"
+    },
+    {
+      "id": 6935,
+      "name": "Podziemia Zniszczonej Wieży p.2"
+    },
+    {
+      "id": 6934,
+      "name": "Podziemia Zniszczonej Wieży p.1"
+    },
+    {
+      "id": 6924,
+      "name": "Lodowy park"
+    },
+    {
+      "id": 6923,
+      "name": "Grota Zeszłorocznych Łakoci (poziom: mistrzowski)"
+    },
+    {
+      "id": 6922,
+      "name": "Grota Zeszłorocznych Łakoci (poziom: trudny)"
+    },
+    {
+      "id": 6921,
+      "name": "Grota Zeszłorocznych Łakoci (poziom: normalny)"
+    },
+    {
+      "id": 6862,
+      "name": "Dom Medina"
+    },
+    {
+      "id": 6859,
+      "name": "Obóz biedoty"
+    },
+    {
+      "id": 6858,
+      "name": "Zaśnieżony trakt"
+    },
+    {
+      "id": 6857,
+      "name": "Dom handlowy"
+    },
+    {
+      "id": 6856,
+      "name": "Fabryka Słodki Amok - hala produkcyjna"
+    },
+    {
+      "id": 6855,
+      "name": "Fabryka Słodki Amok - gabinet"
+    },
+    {
+      "id": 6854,
+      "name": "Fabryka Słodki Amok - hala główna"
+    },
+    {
+      "id": 6853,
+      "name": "Miasteczko Cukrowiec"
+    },
+    {
+      "id": 6803,
+      "name": "Hotel u Cecylii - piętro 2"
+    },
+    {
+      "id": 6796,
+      "name": "Hotel u Cecylii - piętro 1"
+    },
+    {
+      "id": 6790,
+      "name": "Hotel u Cecylii - lobby"
+    },
+    {
+      "id": 6789,
+      "name": "Karczma pod Zgniłą Dynią"
+    },
+    {
+      "id": 6785,
+      "name": "Grota Zeszłorocznych Dyń (poziom: mistrzowski)"
+    },
+    {
+      "id": 6784,
+      "name": "Grota Zeszłorocznych Dyń (poziom: trudny)"
+    },
+    {
+      "id": 6783,
+      "name": "Grota Zeszłorocznych Dyń (poziom: normalny)"
+    },
+    {
+      "id": 6782,
+      "name": "Miasteczko Deadlow"
+    },
+    {
+      "id": 6781,
+      "name": "Zagrzybiałe Ścieżki p.3"
+    },
+    {
+      "id": 6780,
+      "name": "Zagrzybiałe Ścieżki p.2"
+    },
+    {
+      "id": 6779,
+      "name": "Zagrzybiałe Ścieżki p.1 - sala 3"
+    },
+    {
+      "id": 6778,
+      "name": "Zagrzybiałe Ścieżki p.1 - sala 2"
+    },
+    {
+      "id": 6777,
+      "name": "Zagrzybiałe Ścieżki p.1 - sala 1"
+    },
+    {
+      "id": 6776,
+      "name": "Ślepe Wyrobisko"
+    },
+    {
+      "id": 6775,
+      "name": "Szyb Zdrajców"
+    },
+    {
+      "id": 6774,
+      "name": "Margoria - Sala Królewska"
+    },
+    {
+      "id": 6773,
+      "name": "Margoria"
+    },
+    {
+      "id": 6772,
+      "name": "Kopalnia Margorii"
+    },
+    {
+      "id": 6771,
+      "name": "Labirynt Margorii"
+    },
+    {
+      "id": 6770,
+      "name": "Szyb transportowy"
+    },
+    {
+      "id": 6679,
+      "name": "Komnata Konga Hin (poziom: mistrzowski)"
+    },
+    {
+      "id": 6678,
+      "name": "Komnata Konga Hin (poziom: trudny)"
+    },
+    {
+      "id": 6677,
+      "name": "Komnata Konga Hin (poziom: normalny)"
+    },
+    {
+      "id": 6676,
+      "name": "Przedsionek Konga Hin"
+    },
+    {
+      "id": 6674,
+      "name": "Komnata Konga Ha (poziom: mistrzowski)"
+    },
+    {
+      "id": 6673,
+      "name": "Komnata Konga Ha (poziom: trudny)"
+    },
+    {
+      "id": 6672,
+      "name": "Komnata Konga Ha (poziom: normalny)"
+    },
+    {
+      "id": 6671,
+      "name": "Przedsionek Konga Ha"
+    },
+    {
+      "id": 6669,
+      "name": "Komnata Konga Bo (poziom: mistrzowski)"
+    },
+    {
+      "id": 6668,
+      "name": "Komnata Konga Bo (poziom: trudny)"
+    },
+    {
+      "id": 6667,
+      "name": "Komnata Konga Bo (poziom: normalny)"
+    },
+    {
+      "id": 6666,
+      "name": "Przedsionek Konga Bo"
+    },
+    {
+      "id": 6664,
+      "name": "Komnata Konga Ho (poziom: mistrzowski)"
+    },
+    {
+      "id": 6663,
+      "name": "Komnata Konga Ho (poziom: trudny)"
+    },
+    {
+      "id": 6662,
+      "name": "Komnata Konga Ho (poziom: normalny)"
+    },
+    {
+      "id": 6661,
+      "name": "Przedsionek Konga Ho"
+    },
+    {
+      "id": 6659,
+      "name": "Komnata Konga La (poziom: mistrzowski)"
+    },
+    {
+      "id": 6658,
+      "name": "Komnata Konga La (poziom: trudny)"
+    },
+    {
+      "id": 6657,
+      "name": "Komnata Konga La (poziom: normalny)"
+    },
+    {
+      "id": 6656,
+      "name": "Przedsionek Konga La"
+    },
+    {
+      "id": 6654,
+      "name": "Komnata Konga Go (poziom: mistrzowski)"
+    },
+    {
+      "id": 6653,
+      "name": "Komnata Konga Go (poziom: trudny)"
+    },
+    {
+      "id": 6652,
+      "name": "Komnata Konga Go (poziom: normalny)"
+    },
+    {
+      "id": 6651,
+      "name": "Przedsionek Konga Go"
+    },
+    {
+      "id": 6649,
+      "name": "Komnata Konga Ka (poziom: mistrzowski)"
+    },
+    {
+      "id": 6648,
+      "name": "Komnata Konga Ka (poziom: trudny)"
+    },
+    {
+      "id": 6647,
+      "name": "Komnata Konga Ka (poziom: normalny)"
+    },
+    {
+      "id": 6646,
+      "name": "Przedsionek Konga Ka"
+    },
+    {
+      "id": 6645,
+      "name": "Wyspa Ahiko - Miasto Małp"
+    },
+    {
+      "id": 6644,
+      "name": "Wyspa Ahiko"
+    },
+    {
+      "id": 6642,
+      "name": "One Night Casino - zapomniana sala (poziom: mistrzowski)"
+    },
+    {
+      "id": 6640,
+      "name": "One Night Casino - zapomniana sala (poziom: trudny)"
+    },
+    {
+      "id": 6638,
+      "name": "One Night Casino - zapomniana sala (poziom: normalny)"
+    },
+    {
+      "id": 6637,
+      "name": "One Night Casino"
+    },
+    {
+      "id": 6636,
+      "name": "Wylęgarnia Choukkerów p.3"
+    },
+    {
+      "id": 6635,
+      "name": "Wylęgarnia Choukkerów p.2"
+    },
+    {
+      "id": 6634,
+      "name": "Wylęgarnia Choukkerów p.1"
+    },
+    {
+      "id": 6633,
+      "name": "Głębokie Skałki p.4"
+    },
+    {
+      "id": 6632,
+      "name": "Głębokie Skałki p.3"
+    },
+    {
+      "id": 6631,
+      "name": "Głębokie Skałki p.2"
+    },
+    {
+      "id": 6630,
+      "name": "Głębokie Skałki p.1"
+    },
+    {
+      "id": 6629,
+      "name": "Zdradzieckie Przejście p.2"
+    },
+    {
+      "id": 6628,
+      "name": "Zdradzieckie Przejście p.1"
+    },
+    {
+      "id": 6627,
+      "name": "Krypty Dusz Śniegu p.3 - komnata Lisza"
+    },
+    {
+      "id": 6626,
+      "name": "Krypty Dusz Śniegu p.3"
+    },
+    {
+      "id": 6625,
+      "name": "Krypty Dusz Śniegu p.2"
+    },
+    {
+      "id": 6624,
+      "name": "Krypty Dusz Śniegu p.1"
+    },
+    {
+      "id": 6623,
+      "name": "Erem Czarnego Słońca p.5"
+    },
+    {
+      "id": 6622,
+      "name": "Erem Czarnego Słońca p.3 - południe"
+    },
+    {
+      "id": 6621,
+      "name": "Erem Czarnego Słońca p.4 - sala 2"
+    },
+    {
+      "id": 6620,
+      "name": "Erem Czarnego Słońca p.4 - sala 1"
+    },
+    {
+      "id": 6619,
+      "name": "Erem Czarnego Słońca p.3"
+    },
+    {
+      "id": 6618,
+      "name": "Erem Czarnego Słońca p.2"
+    },
+    {
+      "id": 6617,
+      "name": "Erem Czarnego Słońca p.1 - północ"
+    },
+    {
+      "id": 6616,
+      "name": "Świątynia Andarum - lokum mnichów"
+    },
+    {
+      "id": 6615,
+      "name": "Świątynia Andarum - zbrojownia"
+    },
+    {
+      "id": 6614,
+      "name": "Świątynia Andarum - magazyn p.2"
+    },
+    {
+      "id": 6613,
+      "name": "Świątynia Andarum - magazyn p.1"
+    },
+    {
+      "id": 6612,
+      "name": "Świątynia Andarum - biblioteka"
+    },
+    {
+      "id": 6611,
+      "name": "Świątynia Andarum - podziemia"
+    },
+    {
+      "id": 6610,
+      "name": "Świątynia Andarum - zejście prawe"
+    },
+    {
+      "id": 6609,
+      "name": "Świątynia Andarum - zejście lewe"
+    },
+    {
+      "id": 6608,
+      "name": "Świątynia Andarum"
+    },
+    {
+      "id": 6553,
+      "name": "Gabinet Luster"
+    },
+    {
+      "id": 6549,
+      "name": "Dom Strachów i Dziwów"
+    },
+    {
+      "id": 6546,
+      "name": "Mrówcza Kolonia p.4 - królewskie gniazdo"
+    },
+    {
+      "id": 6545,
+      "name": "Mrówcza Kolonia p.3 - prawa komora jaj"
+    },
+    {
+      "id": 6544,
+      "name": "Mrówcza Kolonia p.3 - lewa komora jaj"
+    },
+    {
+      "id": 6543,
+      "name": "Mrówcza Kolonia p.2 - prawe korytarze"
+    },
+    {
+      "id": 6542,
+      "name": "Mrówcza Kolonia p.2 - lewe korytarze"
+    },
+    {
+      "id": 6541,
+      "name": "Mrówcza Kolonia p.1 - prawy tunel"
+    },
+    {
+      "id": 6540,
+      "name": "Mrówcza Kolonia p.1 - lewy tunel"
+    },
+    {
+      "id": 6537,
+      "name": "Kamienna Jaskinia - sala 3"
+    },
+    {
+      "id": 6536,
+      "name": "Kamienna Jaskinia - sala 2"
+    },
+    {
+      "id": 6535,
+      "name": "Kamienna Jaskinia - sala 1"
+    },
+    {
+      "id": 6525,
+      "name": "Kopalnia Krwawego Szaleństwa"
+    },
+    {
+      "id": 6524,
+      "name": "Kopalnia Krwawej Pychy"
+    },
+    {
+      "id": 6523,
+      "name": "Kopalnia Krwawej Zemsty"
+    },
+    {
+      "id": 6519,
+      "name": "Kryjówka Potwornego Kicaja (poziom: mistrzowski)"
+    },
+    {
+      "id": 6518,
+      "name": "Kryjówka Potwornego Kicaja (poziom: trudny)"
+    },
+    {
+      "id": 6517,
+      "name": "Kryjówka Potwornego Kicaja (poziom: normalny)"
+    },
+    {
+      "id": 6485,
+      "name": "Saloon"
+    },
+    {
+      "id": 6484,
+      "name": "Zachodnia Ćwiartka"
+    },
+    {
+      "id": 6478,
+      "name": "Sala Goblińskich Narad"
+    },
+    {
+      "id": 6477,
+      "name": "Jaskinia Ulotnych Wspomnień"
+    },
+    {
+      "id": 6476,
+      "name": "Więzienie Demonów"
+    },
+    {
+      "id": 6475,
+      "name": "Grota Bezszelestnych Kroków - sala 3"
+    },
+    {
+      "id": 6474,
+      "name": "Grota Bezszelestnych Kroków - sala 2"
+    },
+    {
+      "id": 6473,
+      "name": "Grota Bezszelestnych Kroków - sala 1"
+    },
+    {
+      "id": 6363,
+      "name": "Dom Pinkertonów"
+    },
+    {
+      "id": 6065,
+      "name": "Drzewo Życia p.3"
+    },
+    {
+      "id": 6064,
+      "name": "Drzewo Życia p.2"
+    },
+    {
+      "id": 6063,
+      "name": "Drzewo Życia p.1"
+    },
+    {
+      "id": 6062,
+      "name": "Jaskinia Suchych Pędów s.4"
+    },
+    {
+      "id": 6061,
+      "name": "Jaskinia Suchych Pędów s.3"
+    },
+    {
+      "id": 6060,
+      "name": "Jaskinia Suchych Pędów s.2"
+    },
+    {
+      "id": 6059,
+      "name": "Jaskinia Suchych Pędów s.1"
+    },
+    {
+      "id": 6058,
+      "name": "Źródło Wspomnień"
+    },
+    {
+      "id": 6057,
+      "name": "Grota Arbor s.2"
+    },
+    {
+      "id": 6056,
+      "name": "Grota Arbor s.1"
+    },
+    {
+      "id": 6055,
+      "name": "Drzewo Dusz p.2"
+    },
+    {
+      "id": 6054,
+      "name": "Drzewo Dusz p.1"
+    },
+    {
+      "id": 6053,
+      "name": "Krypty Bezsennych p.3"
+    },
+    {
+      "id": 6052,
+      "name": "Krypty Bezsennych p.2 s.2"
+    },
+    {
+      "id": 6051,
+      "name": "Krypty Bezsennych p.2 s.1"
+    },
+    {
+      "id": 6050,
+      "name": "Krypty Bezsennych p.1 s.2"
+    },
+    {
+      "id": 6049,
+      "name": "Krypty Bezsennych p.1 s.1"
+    },
+    {
+      "id": 5989,
+      "name": "Matecznik Szelestu"
+    },
+    {
+      "id": 5988,
+      "name": "Gvar Hamryd"
+    },
+    {
+      "id": 5987,
+      "name": "Rozlewisko Kai"
+    },
+    {
+      "id": 5986,
+      "name": "Kwieciste Kresy"
+    },
+    {
+      "id": 5985,
+      "name": "Las Porywów Wiatru"
+    },
+    {
+      "id": 5984,
+      "name": "Głusza Świstu"
+    },
+    {
+      "id": 5983,
+      "name": "Błota Sham Al"
+    },
+    {
+      "id": 5982,
+      "name": "Ruiny Tass Zhil"
+    },
+    {
+      "id": 5948,
+      "name": "Skarpiska Tolloków"
+    },
+    {
+      "id": 5947,
+      "name": "Komnata Krwawych Obrzędów"
+    },
+    {
+      "id": 5946,
+      "name": "Korytarz Ostatnich Nadziei"
+    },
+    {
+      "id": 5945,
+      "name": "Sale Rozdzierania"
+    },
+    {
+      "id": 5944,
+      "name": "Lochy Kultu"
+    },
+    {
+      "id": 5943,
+      "name": "Sala Tysiąca Świec"
+    },
+    {
+      "id": 5942,
+      "name": "Sala Spowiedzi Konających"
+    },
+    {
+      "id": 5941,
+      "name": "Tajemnicza Siedziba"
+    },
+    {
+      "id": 5940,
+      "name": "Przerażające Sypialnie"
+    },
+    {
+      "id": 5939,
+      "name": "Mroczne Komnaty"
+    },
+    {
+      "id": 5938,
+      "name": "Przedsionek Kultu"
+    },
+    {
+      "id": 5875,
+      "name": "Karczma pod Złośliwym Chochlikiem"
+    },
+    {
+      "id": 5873,
+      "name": "Rozstaje Wątpiących"
+    },
+    {
+      "id": 5872,
+      "name": "Nawiedzone Kazamaty p.4"
+    },
+    {
+      "id": 5871,
+      "name": "Nawiedzone Kazamaty p.3 s.2"
+    },
+    {
+      "id": 5870,
+      "name": "Nawiedzone Kazamaty p.3 s.1"
+    },
+    {
+      "id": 5869,
+      "name": "Nawiedzone Kazamaty p.2 s.2"
+    },
+    {
+      "id": 5868,
+      "name": "Nawiedzone Kazamaty p.2 s.1"
+    },
+    {
+      "id": 5867,
+      "name": "Nawiedzone Kazamaty p.1 s.2"
+    },
+    {
+      "id": 5866,
+      "name": "Nawiedzone Kazamaty p.1 s.1"
+    },
+    {
+      "id": 5865,
+      "name": "Komnata Czarnej Perły"
+    },
+    {
+      "id": 5864,
+      "name": "Komnaty Czarnej Gwardii - wschód"
+    },
+    {
+      "id": 5863,
+      "name": "Komnaty Czarnej Gwardii - zachód"
+    },
+    {
+      "id": 5862,
+      "name": "Sala Królewska"
+    },
+    {
+      "id": 5861,
+      "name": "Sala Rady Orków"
+    },
+    {
+      "id": 5860,
+      "name": "Nawiedzone Komnaty - wschód"
+    },
+    {
+      "id": 5859,
+      "name": "Nawiedzone Komnaty - zachód"
+    },
+    {
+      "id": 5858,
+      "name": "Sala Dowódcy Orków"
+    },
+    {
+      "id": 5857,
+      "name": "Nawiedzone Komnaty - przedsionek"
+    },
+    {
+      "id": 5856,
+      "name": "Grota Orczej Hordy p.2 s.3"
+    },
+    {
+      "id": 5855,
+      "name": "Grota Orczej Hordy p.2 s.2"
+    },
+    {
+      "id": 5854,
+      "name": "Grota Orczej Hordy p.2 s.1"
+    },
+    {
+      "id": 5853,
+      "name": "Grota Orczej Hordy p.1 s.2"
+    },
+    {
+      "id": 5852,
+      "name": "Grota Orczej Hordy p.1 s.1"
+    },
+    {
+      "id": 5850,
+      "name": "Grota Orczych Szamanów p.2 s.2"
+    },
+    {
+      "id": 5849,
+      "name": "Grota Orczych Szamanów p.2 s.1"
+    },
+    {
+      "id": 5848,
+      "name": "Grota Orczych Szamanów p.1 s.2"
+    },
+    {
+      "id": 5847,
+      "name": "Grota Orczych Szamanów p.1 s.1"
+    },
+    {
+      "id": 5744,
+      "name": "Posterunek straży Werbin"
+    },
+    {
+      "id": 5741,
+      "name": "Grzybowa Grota - wyjście"
+    },
+    {
+      "id": 5740,
+      "name": "Przeklęta Strażnica - podziemia p.2 s.3"
+    },
+    {
+      "id": 5739,
+      "name": "Przeklęta Strażnica - podziemia p.2 s.2"
+    },
+    {
+      "id": 5738,
+      "name": "Przeklęta Strażnica - podziemia p.2 s.1"
+    },
+    {
+      "id": 5737,
+      "name": "Przeklęta Strażnica - podziemia p.1 s.2"
+    },
+    {
+      "id": 5736,
+      "name": "Przeklęta Strażnica - podziemia p.1 s.1"
+    },
+    {
+      "id": 5735,
+      "name": "Przeklęta Strażnica p.2"
+    },
+    {
+      "id": 5734,
+      "name": "Przeklęta Strażnica p.1"
+    },
+    {
+      "id": 5733,
+      "name": "Przeklęta Strażnica"
+    },
+    {
+      "id": 5732,
+      "name": "Spichlerz Chochoła (poziom: mistrzowski)"
+    },
+    {
+      "id": 5731,
+      "name": "Spichlerz Chochoła (poziom: trudny)"
+    },
+    {
+      "id": 5730,
+      "name": "Spichlerz Chochoła (poziom: normalny)"
+    },
+    {
+      "id": 5710,
+      "name": "Teotihuacan"
+    },
+    {
+      "id": 5709,
+      "name": "Teotihuacan - przedsionek"
+    },
+    {
+      "id": 5708,
+      "name": "Topan p.13"
+    },
+    {
+      "id": 5707,
+      "name": "Topan p.12"
+    },
+    {
+      "id": 5706,
+      "name": "Topan p.11"
+    },
+    {
+      "id": 5705,
+      "name": "Topan p.10"
+    },
+    {
+      "id": 5704,
+      "name": "Topan p.9"
+    },
+    {
+      "id": 5703,
+      "name": "Topan p.8"
+    },
+    {
+      "id": 5702,
+      "name": "Topan p.7"
+    },
+    {
+      "id": 5701,
+      "name": "Topan p.6"
+    },
+    {
+      "id": 5700,
+      "name": "Topan p.5"
+    },
+    {
+      "id": 5699,
+      "name": "Topan p.4"
+    },
+    {
+      "id": 5698,
+      "name": "Topan p.3"
+    },
+    {
+      "id": 5697,
+      "name": "Topan p.2"
+    },
+    {
+      "id": 5696,
+      "name": "Topan p.1"
+    },
+    {
+      "id": 5695,
+      "name": "Zachodni Mictlan p.9"
+    },
+    {
+      "id": 5694,
+      "name": "Zachodni Mictlan p.8"
+    },
+    {
+      "id": 5693,
+      "name": "Zachodni Mictlan p.7"
+    },
+    {
+      "id": 5692,
+      "name": "Zachodni Mictlan p.6"
+    },
+    {
+      "id": 5691,
+      "name": "Zachodni Mictlan p.5"
+    },
+    {
+      "id": 5690,
+      "name": "Zachodni Mictlan p.4"
+    },
+    {
+      "id": 5689,
+      "name": "Zachodni Mictlan p.3"
+    },
+    {
+      "id": 5688,
+      "name": "Zachodni Mictlan p.2"
+    },
+    {
+      "id": 5687,
+      "name": "Zachodni Mictlan p.1"
+    },
+    {
+      "id": 5686,
+      "name": "Wschodni Axcaitl"
+    },
+    {
+      "id": 5685,
+      "name": "Wschodni Mictlan p.9"
+    },
+    {
+      "id": 5684,
+      "name": "Wschodni Mictlan p.8"
+    },
+    {
+      "id": 5683,
+      "name": "Wschodni Mictlan p.7"
+    },
+    {
+      "id": 5682,
+      "name": "Wschodni Mictlan p.6"
+    },
+    {
+      "id": 5681,
+      "name": "Wschodni Mictlan p.5"
+    },
+    {
+      "id": 5680,
+      "name": "Wschodni Mictlan p.4"
+    },
+    {
+      "id": 5679,
+      "name": "Wschodni Mictlan p.3"
+    },
+    {
+      "id": 5678,
+      "name": "Wschodni Mictlan p.2"
+    },
+    {
+      "id": 5677,
+      "name": "Wschodni Mictlan p.1"
+    },
+    {
+      "id": 5676,
+      "name": "Chantli"
+    },
+    {
+      "id": 5675,
+      "name": "Chantli"
+    },
+    {
+      "id": 5674,
+      "name": "Chantli"
+    },
+    {
+      "id": 5673,
+      "name": "Chantli"
+    },
+    {
+      "id": 5672,
+      "name": "Chantli Cuaitla Citlalina"
+    },
+    {
+      "id": 5671,
+      "name": "Oztotl Tzacua p.5"
+    },
+    {
+      "id": 5670,
+      "name": "Oztotl Tzacua p.4 s.2"
+    },
+    {
+      "id": 5669,
+      "name": "Oztotl Tzacua p.4 s.1"
+    },
+    {
+      "id": 5668,
+      "name": "Oztotl Tzacua p.3 s.2"
+    },
+    {
+      "id": 5667,
+      "name": "Oztotl Tzacua p.3 s.1"
+    },
+    {
+      "id": 5666,
+      "name": "Oztotl Tzacua p.2 s.2"
+    },
+    {
+      "id": 5665,
+      "name": "Oztotl Tzacua p.2 s.1"
+    },
+    {
+      "id": 5664,
+      "name": "Oztotl Tzacua p.1 s.2"
+    },
+    {
+      "id": 5663,
+      "name": "Oztotl Tzacua p.1 s.1"
+    },
+    {
+      "id": 5661,
+      "name": "Złota Góra p.3"
+    },
+    {
+      "id": 5660,
+      "name": "Złota Góra p.2 s.4"
+    },
+    {
+      "id": 5659,
+      "name": "Złota Góra p.2 s.3"
+    },
+    {
+      "id": 5658,
+      "name": "Złota Góra p.2 s.2"
+    },
+    {
+      "id": 5657,
+      "name": "Złota Góra p.2 s.1"
+    },
+    {
+      "id": 5656,
+      "name": "Złota Góra p.1 s.4"
+    },
+    {
+      "id": 5655,
+      "name": "Złota Góra p.1 s.3"
+    },
+    {
+      "id": 5654,
+      "name": "Złota Góra p.1 s.2"
+    },
+    {
+      "id": 5653,
+      "name": "Złota Góra p.1 s.1"
+    },
+    {
+      "id": 5642,
+      "name": "Chata Aptlake (wersja questowa)"
+    },
+    {
+      "id": 5639,
+      "name": "Opuszczona piramida - przedsionek"
+    },
+    {
+      "id": 5614,
+      "name": "Chata"
+    },
+    {
+      "id": 5491,
+      "name": "Przedsionek Quinametzin"
+    },
+    {
+      "id": 5490,
+      "name": "Altepetl Mahoptekan (wersja questowa)"
+    },
+    {
+      "id": 5489,
+      "name": "Niecka Xiuh Atl (wersja questowa)"
+    },
+    {
+      "id": 5399,
+      "name": "Kopalnia Kapiącego Miodu p.3"
+    },
+    {
+      "id": 5398,
+      "name": "Kopalnia Kapiącego Miodu p.2 - sala 2"
+    },
+    {
+      "id": 5397,
+      "name": "Kopalnia Kapiącego Miodu p.2 - sala 1"
+    },
+    {
+      "id": 5396,
+      "name": "Kopalnia Kapiącego Miodu p.1 - sala 2"
+    },
+    {
+      "id": 5395,
+      "name": "Kopalnia Kapiącego Miodu p.2 - sala Owadziej Matki"
+    },
+    {
+      "id": 5394,
+      "name": "Kopalnia Kapiącego Miodu p.1 - sala 1"
+    },
+    {
+      "id": 5293,
+      "name": "Skalne Turnie"
+    },
+    {
+      "id": 5147,
+      "name": "Gęstwina Pszczelego Królestwa"
+    },
+    {
+      "id": 5145,
+      "name": "Zacisze Czarownic"
+    },
+    {
+      "id": 4999,
+      "name": "Skarbiec Magicznych Mykonidów"
+    },
+    {
+      "id": 4998,
+      "name": "Namiot Kambiona"
+    },
+    {
+      "id": 4798,
+      "name": "Jama Kocich Ślepi"
+    },
+    {
+      "id": 4770,
+      "name": "Posiadłość Kruzo - stajnia"
+    },
+    {
+      "id": 4769,
+      "name": "Posiadłość Kruzo - magazyn"
+    },
+    {
+      "id": 4768,
+      "name": "Posiadłość Kruzo - strażnica zachodnia"
+    },
+    {
+      "id": 4767,
+      "name": "Posiadłość Kruzo - budynek gospodarczy"
+    },
+    {
+      "id": 4766,
+      "name": "Posiadłość Kruzo - sala główna"
+    },
+    {
+      "id": 4765,
+      "name": "Posiadłość Kruzo - przedsionek"
+    },
+    {
+      "id": 4764,
+      "name": "Włości rodu Kruzo"
+    },
+    {
+      "id": 4734,
+      "name": "Jaskinia przemytników"
+    },
+    {
+      "id": 4733,
+      "name": "Dom Mrocznego Zgrzyta - pracownia"
+    },
+    {
+      "id": 4730,
+      "name": "Redrock"
+    },
+    {
+      "id": 4727,
+      "name": "Sklep u Joego"
+    },
+    {
+      "id": 4711,
+      "name": "Rodzinna chata"
+    },
+    {
+      "id": 4671,
+      "name": "Kopalnia w Redrock"
+    },
+    {
+      "id": 4669,
+      "name": "Redrock"
+    },
+    {
+      "id": 4652,
+      "name": "Zakład balwierski"
+    },
+    {
+      "id": 4647,
+      "name": "Saloon"
+    },
+    {
+      "id": 4646,
+      "name": "Bank"
+    },
+    {
+      "id": 4632,
+      "name": "Posterunek szeryfa"
+    },
+    {
+      "id": 4631,
+      "name": "Osada plemienia Banok"
+    },
+    {
+      "id": 4630,
+      "name": "Czerwony Szlak"
+    },
+    {
+      "id": 4629,
+      "name": "Redrock"
+    },
+    {
+      "id": 4582,
+      "name": "Mokra Grota p.1 - przełaz"
+    },
+    {
+      "id": 4550,
+      "name": "Mokra Grota p.1 - boczny korytarz"
+    },
+    {
+      "id": 4549,
+      "name": "Śnieżycowy Las"
+    },
+    {
+      "id": 4548,
+      "name": "Śnieżna Granica"
+    },
+    {
+      "id": 4547,
+      "name": "Wilcza Skarpa"
+    },
+    {
+      "id": 4546,
+      "name": "Legowisko Wilczej Hordy"
+    },
+    {
+      "id": 4528,
+      "name": "Chata szabrowników"
+    },
+    {
+      "id": 4474,
+      "name": "Tawerna pod Kocim Wąsem"
+    },
+    {
+      "id": 4425,
+      "name": "Opuszczona kamienica"
+    },
+    {
+      "id": 4414,
+      "name": "Kamienica de Waldenów"
+    },
+    {
+      "id": 4403,
+      "name": "Pszczelarski magazyn"
+    },
+    {
+      "id": 4391,
+      "name": "Latający Holender"
+    },
+    {
+      "id": 4378,
+      "name": "Kajuta"
+    },
+    {
+      "id": 4362,
+      "name": "Wrak statku"
+    },
+    {
+      "id": 4361,
+      "name": "Wrak statku"
+    },
+    {
+      "id": 4299,
+      "name": "Kajuta"
+    },
+    {
+      "id": 4272,
+      "name": "Jezioro Mokosz"
+    },
+    {
+      "id": 4271,
+      "name": "Opuszczony statek - pokład"
+    },
+    {
+      "id": 4269,
+      "name": "Katakumby Antycznego Gniewu - sala"
+    },
+    {
+      "id": 4268,
+      "name": "Katakumby Antycznego Gniewu - przedsionek"
+    },
+    {
+      "id": 4267,
+      "name": "Grota Martwodrzewów - sala"
+    },
+    {
+      "id": 4266,
+      "name": "Grota Martwodrzewów - przedsionek"
+    },
+    {
+      "id": 4263,
+      "name": "Kamienica Zagadek"
+    },
+    {
+      "id": 4262,
+      "name": "Mokra Grota p.2 - korytarz"
+    },
+    {
+      "id": 4207,
+      "name": "Grota Przebiegłego Tkacza - sala"
+    },
+    {
+      "id": 4206,
+      "name": "Grota Przebiegłego Tkacza - przedsionek"
+    },
+    {
+      "id": 4200,
+      "name": "Dom Azalii"
+    },
+    {
+      "id": 4197,
+      "name": "Grobowiec Przeklętego Krakania - sala"
+    },
+    {
+      "id": 4196,
+      "name": "Grobowiec Przeklętego Krakania - przedsionek"
+    },
+    {
+      "id": 4185,
+      "name": "Skarpa Trzech Słów"
+    },
+    {
+      "id": 4165,
+      "name": "Kamienica Galeny i Sarda"
+    },
+    {
+      "id": 4162,
+      "name": "Przepaść Zadumy - sala"
+    },
+    {
+      "id": 4161,
+      "name": "Przepaść Zadumy - przedsionek"
+    },
+    {
+      "id": 4157,
+      "name": "Pieczara Kwiku - sala 2"
+    },
+    {
+      "id": 4156,
+      "name": "Pieczara Kwiku - sala 1"
+    },
+    {
+      "id": 4155,
+      "name": "Ukwiecona Skarpa"
+    },
+    {
+      "id": 4154,
+      "name": "Racicowy Matecznik"
+    },
+    {
+      "id": 4152,
+      "name": "Źródło Narumi"
+    },
+    {
+      "id": 4151,
+      "name": "Wertepy Rzezimieszków"
+    },
+    {
+      "id": 4067,
+      "name": "Czeluść Chimerycznej Natury - sala"
+    },
+    {
+      "id": 4066,
+      "name": "Czeluść Chimerycznej Natury - przedsionek"
+    },
+    {
+      "id": 4064,
+      "name": "Wieża Szlochów p.3"
+    },
+    {
+      "id": 4063,
+      "name": "Wieża Szlochów p.2"
+    },
+    {
+      "id": 4062,
+      "name": "Wieża Szlochów p.1"
+    },
+    {
+      "id": 4061,
+      "name": "Potępione Zamczysko - wschodnia komnata"
+    },
+    {
+      "id": 4060,
+      "name": "Potępione Zamczysko - zachodnia komnata"
+    },
+    {
+      "id": 4059,
+      "name": "Potępione Zamczysko - korytarz wschodni"
+    },
+    {
+      "id": 4058,
+      "name": "Potępione Zamczysko - korytarz zachodni"
+    },
+    {
+      "id": 4057,
+      "name": "Potępione Zamczysko - pracownia"
+    },
+    {
+      "id": 4056,
+      "name": "Potępione Zamczysko - sala ofiarna"
+    },
+    {
+      "id": 4055,
+      "name": "Potępione Zamczysko - lochy wschodnie"
+    },
+    {
+      "id": 4054,
+      "name": "Potępione Zamczysko - lochy zachodnie"
+    },
+    {
+      "id": 4053,
+      "name": "Potępione Zamczysko - korytarz wejściowy"
+    },
+    {
+      "id": 4052,
+      "name": "Pogranicze Wisielców"
+    },
+    {
+      "id": 4051,
+      "name": "Jęczywąwóz"
+    },
+    {
+      "id": 4050,
+      "name": "Plugawe Pustkowie"
+    },
+    {
+      "id": 4049,
+      "name": "Zachodnie Zbocze"
+    },
+    {
+      "id": 4048,
+      "name": "Potępione Zamczysko"
+    },
+    {
+      "id": 4047,
+      "name": "Zmarzlina Amaimona Soplorękiego - sala"
+    },
+    {
+      "id": 4046,
+      "name": "Zmarzlina Amaimona Soplorękiego - przedsionek"
+    },
+    {
+      "id": 4031,
+      "name": "Prosektorium"
+    },
+    {
+      "id": 4023,
+      "name": "Jaskinia na Mokradłach"
+    },
+    {
+      "id": 3987,
+      "name": "Dom Antoniego - piętro"
+    },
+    {
+      "id": 3986,
+      "name": "Dom Antoniego - parter"
+    },
+    {
+      "id": 3976,
+      "name": "Opuszczony statek - pokład pod rufą"
+    },
+    {
+      "id": 3890,
+      "name": "Zapomniany Święty Gaj p.1 - sala 1"
+    },
+    {
+      "id": 3884,
+      "name": "Pieczara Szaleńców - sala Regulusa Mętnookiego"
+    },
+    {
+      "id": 3883,
+      "name": "Pieczara Szaleńców - przedsionek"
+    },
+    {
+      "id": 3869,
+      "name": "Lazurytowa Grota p.3 - sala 1"
+    },
+    {
+      "id": 3839,
+      "name": "Magazyn Krasnoludów"
+    },
+    {
+      "id": 3777,
+      "name": "Kamienica Flawiana p.1"
+    },
+    {
+      "id": 3776,
+      "name": "Kamienica Flawiana"
+    },
+    {
+      "id": 3766,
+      "name": "Ostępy Szalbierskich Lasów"
+    },
+    {
+      "id": 3765,
+      "name": "Dolina Centaurów"
+    },
+    {
+      "id": 3764,
+      "name": "Płacząca Grota - sala Lamentu"
+    },
+    {
+      "id": 3763,
+      "name": "Płacząca Grota p.3"
+    },
+    {
+      "id": 3762,
+      "name": "Płacząca Grota p.2"
+    },
+    {
+      "id": 3761,
+      "name": "Płacząca Grota p.1 - sala 2"
+    },
+    {
+      "id": 3760,
+      "name": "Płacząca Grota p.1 - sala 1"
+    },
+    {
+      "id": 3759,
+      "name": "Wzgórze Płaczek"
+    },
+    {
+      "id": 3758,
+      "name": "Mglista Polana Vesy"
+    },
+    {
+      "id": 3742,
+      "name": "Przeklęty Zamek - komnata"
+    },
+    {
+      "id": 3741,
+      "name": "Przeklęty Zamek p.2"
+    },
+    {
+      "id": 3740,
+      "name": "Zarośnięta grota"
+    },
+    {
+      "id": 3738,
+      "name": "Dolina Pajęczych Korytarzy"
+    },
+    {
+      "id": 3737,
+      "name": "Otchłań Pajęczych Sieci"
+    },
+    {
+      "id": 3736,
+      "name": "Zapadlisko Zniewolonych"
+    },
+    {
+      "id": 3735,
+      "name": "Terytorium Furii"
+    },
+    {
+      "id": 3734,
+      "name": "Dolina Gniewu"
+    },
+    {
+      "id": 3733,
+      "name": "Wzgórza Obłędu"
+    },
+    {
+      "id": 3687,
+      "name": "Izba Pamięci"
+    },
+    {
+      "id": 3634,
+      "name": "Dom Roszana p.1"
+    },
+    {
+      "id": 3628,
+      "name": "Krzaczasta Grota - sala główna"
+    },
+    {
+      "id": 3627,
+      "name": "Krzaczasta Grota - korytarz"
+    },
+    {
+      "id": 3626,
+      "name": "Krzaczasta Grota - sala boczna"
+    },
+    {
+      "id": 3625,
+      "name": "Krzaczasta Grota p.2 - sala 3"
+    },
+    {
+      "id": 3624,
+      "name": "Krzaczasta Grota p.2 - sala 2"
+    },
+    {
+      "id": 3623,
+      "name": "Krzaczasta Grota p.2 - sala 1"
+    },
+    {
+      "id": 3622,
+      "name": "Krzaczasta Grota p.1 - sala 3"
+    },
+    {
+      "id": 3621,
+      "name": "Krzaczasta Grota p.1 - sala 2"
+    },
+    {
+      "id": 3620,
+      "name": "Krzaczasta Grota p.1 - sala 1"
+    },
+    {
+      "id": 3616,
+      "name": "Jaskinia Korzennego Czaru p.3"
+    },
+    {
+      "id": 3615,
+      "name": "Jaskinia Korzennego Czaru p.2 - sala 2"
+    },
+    {
+      "id": 3614,
+      "name": "Jaskinia Korzennego Czaru p.2 - sala 1"
+    },
+    {
+      "id": 3613,
+      "name": "Jaskinia Korzennego Czaru p.1 - sala 4"
+    },
+    {
+      "id": 3612,
+      "name": "Jaskinia Korzennego Czaru p.1 - sala 3"
+    },
+    {
+      "id": 3611,
+      "name": "Jaskinia Korzennego Czaru p.1 - sala 2"
+    },
+    {
+      "id": 3610,
+      "name": "Jaskinia Korzennego Czaru p.1 - sala 1"
+    },
+    {
+      "id": 3609,
+      "name": "Rezydencja Vonikur - lewe skrzydło"
+    },
+    {
+      "id": 3608,
+      "name": "Rezydencja Vonikur - piwniczka"
+    },
+    {
+      "id": 3607,
+      "name": "Rezydencja Vonikur - prawe skrzydło"
+    },
+    {
+      "id": 3598,
+      "name": "Piaskowa Gęstwina"
+    },
+    {
+      "id": 3597,
+      "name": "Źródło Zakorzenionego Ludu"
+    },
+    {
+      "id": 3596,
+      "name": "Regiel Zabłąkanych"
+    },
+    {
+      "id": 3595,
+      "name": "Wąwóz Zakorzenionych Dusz"
+    },
+    {
+      "id": 3594,
+      "name": "Urwisko Zdrewniałych"
+    },
+    {
+      "id": 3592,
+      "name": "Kwatera 50"
+    },
+    {
+      "id": 3591,
+      "name": "Kwatera 49"
+    },
+    {
+      "id": 3590,
+      "name": "Kwatera 48"
+    },
+    {
+      "id": 3589,
+      "name": "Kwatera 47"
+    },
+    {
+      "id": 3588,
+      "name": "Kwatera 46"
+    },
+    {
+      "id": 3587,
+      "name": "Kwatera 45"
+    },
+    {
+      "id": 3586,
+      "name": "Kwatera 44"
+    },
+    {
+      "id": 3585,
+      "name": "Kwatera 43"
+    },
+    {
+      "id": 3584,
+      "name": "Kwatera 42"
+    },
+    {
+      "id": 3583,
+      "name": "Kwatera 41"
+    },
+    {
+      "id": 3582,
+      "name": "Kwatera 40"
+    },
+    {
+      "id": 3581,
+      "name": "Kwatera 39"
+    },
+    {
+      "id": 3580,
+      "name": "Kwatera 38"
+    },
+    {
+      "id": 3579,
+      "name": "Kwatera 37"
+    },
+    {
+      "id": 3578,
+      "name": "Kwatera 36"
+    },
+    {
+      "id": 3577,
+      "name": "Kwatera 35"
+    },
+    {
+      "id": 3576,
+      "name": "Kwatera 34"
+    },
+    {
+      "id": 3575,
+      "name": "Kwatera 33"
+    },
+    {
+      "id": 3574,
+      "name": "Kwatera 32"
+    },
+    {
+      "id": 3573,
+      "name": "Kwatera 31"
+    },
+    {
+      "id": 3572,
+      "name": "Kwatera 30"
+    },
+    {
+      "id": 3571,
+      "name": "Kwatera 29"
+    },
+    {
+      "id": 3570,
+      "name": "Kwatera 28"
+    },
+    {
+      "id": 3569,
+      "name": "Kwatera 27"
+    },
+    {
+      "id": 3568,
+      "name": "Kwatera 26"
+    },
+    {
+      "id": 3567,
+      "name": "Kwatera 25"
+    },
+    {
+      "id": 3566,
+      "name": "Kwatera 24"
+    },
+    {
+      "id": 3565,
+      "name": "Kwatera 23"
+    },
+    {
+      "id": 3564,
+      "name": "Kwatera 22"
+    },
+    {
+      "id": 3563,
+      "name": "Kwatera 21"
+    },
+    {
+      "id": 3562,
+      "name": "Kwatera 20"
+    },
+    {
+      "id": 3561,
+      "name": "Kwatera 19"
+    },
+    {
+      "id": 3560,
+      "name": "Kwatera 18"
+    },
+    {
+      "id": 3559,
+      "name": "Kwatera 17"
+    },
+    {
+      "id": 3558,
+      "name": "Kwatera 16"
+    },
+    {
+      "id": 3557,
+      "name": "Kwatera 15"
+    },
+    {
+      "id": 3556,
+      "name": "Kwatera 14"
+    },
+    {
+      "id": 3555,
+      "name": "Kwatera 13"
+    },
+    {
+      "id": 3554,
+      "name": "Kwatera 12"
+    },
+    {
+      "id": 3553,
+      "name": "Kwatera 11"
+    },
+    {
+      "id": 3552,
+      "name": "Kwatera 10"
+    },
+    {
+      "id": 3551,
+      "name": "Kwatera 9"
+    },
+    {
+      "id": 3550,
+      "name": "Kwatera 8"
+    },
+    {
+      "id": 3549,
+      "name": "Kwatera 7"
+    },
+    {
+      "id": 3548,
+      "name": "Kwatera 6"
+    },
+    {
+      "id": 3547,
+      "name": "Kwatera 5"
+    },
+    {
+      "id": 3546,
+      "name": "Kwatera 4"
+    },
+    {
+      "id": 3545,
+      "name": "Kwatera 3"
+    },
+    {
+      "id": 3544,
+      "name": "Kwatera 2"
+    },
+    {
+      "id": 3543,
+      "name": "Kwatera Thorpa 4"
+    },
+    {
+      "id": 3542,
+      "name": "Kwatera Thorpa 3"
+    },
+    {
+      "id": 3541,
+      "name": "Kwatera Thorpa 2"
+    },
+    {
+      "id": 3535,
+      "name": "Przełęcz Krwistego Posłańca"
+    },
+    {
+      "id": 3534,
+      "name": "Las Pamięci Nikantosa"
+    },
+    {
+      "id": 3533,
+      "name": "Przepaść Aguti"
+    },
+    {
+      "id": 3530,
+      "name": "Firnowa Grota p.2 s.1"
+    },
+    {
+      "id": 3516,
+      "name": "Gammel Khazad Gravkammer"
+    },
+    {
+      "id": 3513,
+      "name": "Kwatera 1"
+    },
+    {
+      "id": 3512,
+      "name": "Kwatera Thorpa 1"
+    },
+    {
+      "id": 3511,
+      "name": "Kwatery u Morcera"
+    },
+    {
+      "id": 3510,
+      "name": "Dom Tozruka"
+    },
+    {
+      "id": 3509,
+      "name": "Dom Jakiego"
+    },
+    {
+      "id": 3508,
+      "name": "Dom Ulryka - sala zgromadzeń"
+    },
+    {
+      "id": 3507,
+      "name": "Dom Ulryka"
+    },
+    {
+      "id": 3506,
+      "name": "Dom Reby"
+    },
+    {
+      "id": 3505,
+      "name": "Dom Ypsliego"
+    },
+    {
+      "id": 3504,
+      "name": "Dom Merakliego"
+    },
+    {
+      "id": 3503,
+      "name": "Thorpela wschodnia"
+    },
+    {
+      "id": 3502,
+      "name": "Thorpela zachodnia"
+    },
+    {
+      "id": 3501,
+      "name": "Browar Bimberara - magazyn"
+    },
+    {
+      "id": 3500,
+      "name": "Browar Bimberara - garkuchnia"
+    },
+    {
+      "id": 3499,
+      "name": "Browar Bimberara - warzelnia"
+    },
+    {
+      "id": 3480,
+      "name": "Kuźnia Giriela - pracownia"
+    },
+    {
+      "id": 3479,
+      "name": "Kuźnia Giriela - warsztat"
+    },
+    {
+      "id": 3478,
+      "name": "Kuźnia Giriela - manufaktura"
+    },
+    {
+      "id": 3477,
+      "name": "Tymczasowa Pracownia Kowali"
+    },
+    {
+      "id": 3476,
+      "name": "Chwilowe Schronienie Browarników"
+    },
+    {
+      "id": 3473,
+      "name": "Opuszczony Szyb"
+    },
+    {
+      "id": 3472,
+      "name": "Szlak Thorpa p.6"
+    },
+    {
+      "id": 3471,
+      "name": "Szlak Thorpa p.5"
+    },
+    {
+      "id": 3470,
+      "name": "Szlak Thorpa p.4"
+    },
+    {
+      "id": 3469,
+      "name": "Szlak Thorpa p.3"
+    },
+    {
+      "id": 3468,
+      "name": "Szlak Thorpa p.2"
+    },
+    {
+      "id": 3467,
+      "name": "Szlak Thorpa p.1"
+    },
+    {
+      "id": 3466,
+      "name": "Grota Samotnych Dusz p.6"
+    },
+    {
+      "id": 3465,
+      "name": "Grota Samotnych Dusz p.5"
+    },
+    {
+      "id": 3464,
+      "name": "Grota Samotnych Dusz p.4"
+    },
+    {
+      "id": 3460,
+      "name": "Trakt Moradrana"
+    },
+    {
+      "id": 3459,
+      "name": "Mirvenis-Adur"
+    },
+    {
+      "id": 3457,
+      "name": "Grota Samotnych Dusz p.3 - sala wyjściowa"
+    },
+    {
+      "id": 3442,
+      "name": "Grota Pragnolli p.3"
+    },
+    {
+      "id": 3441,
+      "name": "Grota Pragnolli p.2 - sala 2"
+    },
+    {
+      "id": 3440,
+      "name": "Grota Pragnolli p.2"
+    },
+    {
+      "id": 3439,
+      "name": "Grota Pragnolli p.1 - sala 2"
+    },
+    {
+      "id": 3438,
+      "name": "Grota Pragnolli p.1"
+    },
+    {
+      "id": 3437,
+      "name": "Jaskinia Gnollich Szamanów - komnata Kozuga"
+    },
+    {
+      "id": 3436,
+      "name": "Jaskinia Gnollich Szamanów p.3"
+    },
+    {
+      "id": 3409,
+      "name": "Ukryta Grota Morskich Diabłów - magazyn"
+    },
+    {
+      "id": 3406,
+      "name": "Podziemny Magazyn"
+    },
+    {
+      "id": 3405,
+      "name": "Mury Wschodnie"
+    },
+    {
+      "id": 3404,
+      "name": "Korytarz Wschodni"
+    },
+    {
+      "id": 3403,
+      "name": "Mury Zachodnie"
+    },
+    {
+      "id": 3402,
+      "name": "Polana Ścierwojadów"
+    },
+    {
+      "id": 3375,
+      "name": "Dom Tane - strych"
+    },
+    {
+      "id": 3370,
+      "name": "Świątynia Mzintlavy"
+    },
+    {
+      "id": 3361,
+      "name": "Pradawne Wzgórze Przodków"
+    },
+    {
+      "id": 3358,
+      "name": "Grobowiec Zapomnianych"
+    },
+    {
+      "id": 3357,
+      "name": "Składzik beczek"
+    },
+    {
+      "id": 3343,
+      "name": "Wylęgarnia"
+    },
+    {
+      "id": 3342,
+      "name": "Magazyn Krasnoludów - piwnica"
+    },
+    {
+      "id": 3341,
+      "name": "Świątynia Hebrehotha - sala czciciela"
+    },
+    {
+      "id": 3340,
+      "name": "Świątynia Hebrehotha - sala ofiary"
+    },
+    {
+      "id": 3339,
+      "name": "Świątynia Hebrehotha - przedsionek"
+    },
+    {
+      "id": 3338,
+      "name": "Grota Poświęcenia"
+    },
+    {
+      "id": 3337,
+      "name": "Jaskinia Próby"
+    },
+    {
+      "id": 3336,
+      "name": "Jaskinia Odwagi"
+    },
+    {
+      "id": 3335,
+      "name": "Jaskinia Smoczej Paszczy p.2"
+    },
+    {
+      "id": 3334,
+      "name": "Jaskinia Smoczej Paszczy p.1"
+    },
+    {
+      "id": 3333,
+      "name": "Jaskinia Szczęk"
+    },
+    {
+      "id": 3332,
+      "name": "Jaskinia Piaskowej Burzy s.2"
+    },
+    {
+      "id": 3331,
+      "name": "Jaskinia Piaskowej Burzy s.1"
+    },
+    {
+      "id": 3330,
+      "name": "Jaskinia Sępa s.1"
+    },
+    {
+      "id": 3329,
+      "name": "Jaskinia Sępa s.2"
+    },
+    {
+      "id": 3328,
+      "name": "Skały Umarłych"
+    },
+    {
+      "id": 3327,
+      "name": "Urwisko Vapora"
+    },
+    {
+      "id": 3326,
+      "name": "Smocze Skalisko"
+    },
+    {
+      "id": 3325,
+      "name": "Pustynia Shaiharrud - wschód"
+    },
+    {
+      "id": 3324,
+      "name": "Namiot Błogosławionych"
+    },
+    {
+      "id": 3323,
+      "name": "Namiot Pustynnych Smoków"
+    },
+    {
+      "id": 3322,
+      "name": "Jurta Nomadzka"
+    },
+    {
+      "id": 3321,
+      "name": "Jurta Chaegda"
+    },
+    {
+      "id": 3320,
+      "name": "Sępiarnia"
+    },
+    {
+      "id": 3319,
+      "name": "Namiot Gwardii Smokoszczękich"
+    },
+    {
+      "id": 3318,
+      "name": "Jurta Czcicieli"
+    },
+    {
+      "id": 3317,
+      "name": "Namiot Naznaczonych"
+    },
+    {
+      "id": 3316,
+      "name": "Namiot Piechoty Piłowej"
+    },
+    {
+      "id": 3315,
+      "name": "Pustynia Shaiharrud - zachód"
+    },
+    {
+      "id": 3313,
+      "name": "Sala Zrujnowanej Świątyni"
+    },
+    {
+      "id": 3312,
+      "name": "Sekretne Przejście Kapłanów"
+    },
+    {
+      "id": 3300,
+      "name": "Czeluść Ognistej Pożogi"
+    },
+    {
+      "id": 3271,
+      "name": "Pokój Aury"
+    },
+    {
+      "id": 3265,
+      "name": "Cenotaf Berserkerów p.2"
+    },
+    {
+      "id": 3264,
+      "name": "Cenotaf Berserkerów p.1"
+    },
+    {
+      "id": 3263,
+      "name": "Namiot ubogich ludzi"
+    },
+    {
+      "id": 3248,
+      "name": "Zapomniana kopalnia p.3"
+    },
+    {
+      "id": 3247,
+      "name": "Zapomniana kopalnia p.2"
+    },
+    {
+      "id": 3246,
+      "name": "Zapomniana kopalnia p.1"
+    },
+    {
+      "id": 3220,
+      "name": "Ukryta Grota Morskich Diabłów - korytarz"
+    },
+    {
+      "id": 3209,
+      "name": "Bagna Umarłych"
+    },
+    {
+      "id": 3152,
+      "name": "Tajemniczy tunel"
+    },
+    {
+      "id": 3150,
+      "name": "Karczma pod Liściem Dębu - piwnica"
+    },
+    {
+      "id": 3149,
+      "name": "Jaskinia Pogardy"
+    },
+    {
+      "id": 3138,
+      "name": "Gnijące Topielisko"
+    },
+    {
+      "id": 3137,
+      "name": "Zatrute Torfowiska"
+    },
+    {
+      "id": 3136,
+      "name": "Grzęzawisko Rozpaczy"
+    },
+    {
+      "id": 3135,
+      "name": "Dolina Pełznącego Krzyku"
+    },
+    {
+      "id": 3134,
+      "name": "Gildia Nerthusa p.1"
+    },
+    {
+      "id": 3133,
+      "name": "Karczma pod Liściem Dębu - sala do kostkowania"
+    },
+    {
+      "id": 3132,
+      "name": "Karczma pod Liściem Dębu"
+    },
+    {
+      "id": 3131,
+      "name": "Gildia Nerthusa - sala obrad"
+    },
+    {
+      "id": 3130,
+      "name": "Gildia Nerthusa - przedsionek"
+    },
+    {
+      "id": 3104,
+      "name": "Wyspa Wiśni"
+    },
+    {
+      "id": 3100,
+      "name": "Złote Szczyty"
+    },
+    {
+      "id": 3091,
+      "name": "Sekretna sala"
+    },
+    {
+      "id": 3090,
+      "name": "Zasypana piwnica"
+    },
+    {
+      "id": 3087,
+      "name": "Ukryty labirynt"
+    },
+    {
+      "id": 3086,
+      "name": "Ukryte przejście"
+    },
+    {
+      "id": 3085,
+      "name": "Zaklęte Jezioro Nimf"
+    },
+    {
+      "id": 3079,
+      "name": "Jaskinia demona"
+    },
+    {
+      "id": 3076,
+      "name": "Pokój 15"
+    },
+    {
+      "id": 3075,
+      "name": "Pokój 14"
+    },
+    {
+      "id": 3074,
+      "name": "Pokój 13"
+    },
+    {
+      "id": 3045,
+      "name": "Ukryty korytarz"
+    },
+    {
+      "id": 3043,
+      "name": "Zachodni Tunel Jaźni"
+    },
+    {
+      "id": 3042,
+      "name": "Wschodni Tunel Jaźni"
+    },
+    {
+      "id": 3041,
+      "name": "Korytarz Porzuconych Marzeń"
+    },
+    {
+      "id": 3040,
+      "name": "Korytarz Porzuconych Nadziei"
+    },
+    {
+      "id": 3039,
+      "name": "Grobowiec Seta"
+    },
+    {
+      "id": 3038,
+      "name": "Katakumby Poległych Legionistów"
+    },
+    {
+      "id": 3037,
+      "name": "Katakumby Krwawych Wypraw"
+    },
+    {
+      "id": 3036,
+      "name": "Katakumby Opętanych Dusz"
+    },
+    {
+      "id": 3035,
+      "name": "Katakumby Gwałtownej Śmierci"
+    },
+    {
+      "id": 3034,
+      "name": "Katakumby Odnalezionych Skrytobójców"
+    },
+    {
+      "id": 3033,
+      "name": "Komnaty Bezdusznych - sala 2"
+    },
+    {
+      "id": 3032,
+      "name": "Komnaty Bezdusznych - sala 1"
+    },
+    {
+      "id": 3031,
+      "name": "Pustynne Katakumby - sala 2"
+    },
+    {
+      "id": 3030,
+      "name": "Pustynne Katakumby - sala 1"
+    },
+    {
+      "id": 3029,
+      "name": "Pustynne Katakumby"
+    },
+    {
+      "id": 3025,
+      "name": "Jaskinia Gnomów"
+    },
+    {
+      "id": 2987,
+      "name": "Odnoga kanału"
+    },
+    {
+      "id": 2983,
+      "name": "Podziemia - p.3"
+    },
+    {
+      "id": 2979,
+      "name": "Podziemia - p.2"
+    },
+    {
+      "id": 2971,
+      "name": "Podziemia - p.1"
+    },
+    {
+      "id": 2966,
+      "name": "Podziemia - p.3"
+    },
+    {
+      "id": 2965,
+      "name": "Podziemia - p.3"
+    },
+    {
+      "id": 2962,
+      "name": "Odnoga kanału"
+    },
+    {
+      "id": 2959,
+      "name": "Podziemia - p.2"
+    },
+    {
+      "id": 2956,
+      "name": "Podziemia - p.1"
+    },
+    {
+      "id": 2951,
+      "name": "Pizzeria - piwnica"
+    },
+    {
+      "id": 2950,
+      "name": "Pizzeria"
+    },
+    {
+      "id": 2919,
+      "name": "Dom Anulisa"
+    },
+    {
+      "id": 2902,
+      "name": "Grota Porośniętych Stalagmitów - sala boczna"
+    },
+    {
+      "id": 2890,
+      "name": "Korytarz pod Eder"
+    },
+    {
+      "id": 2889,
+      "name": "Piwnica rudery"
+    },
+    {
+      "id": 2888,
+      "name": "Rudera"
+    },
+    {
+      "id": 2886,
+      "name": "Grobowiec Rodziny Tywelta p.2"
+    },
+    {
+      "id": 2885,
+      "name": "Grobowiec Rodziny Tywelta p.1"
+    },
+    {
+      "id": 2884,
+      "name": "Grobowiec Rodziny Tywelta"
+    },
+    {
+      "id": 2883,
+      "name": "Ostoja Marzeń (wersja przed questami)"
+    },
+    {
+      "id": 2882,
+      "name": "Dom Torkina - strych (wersja przed questami)"
+    },
+    {
+      "id": 2881,
+      "name": "Dom Torkina (wersja przed questami)"
+    },
+    {
+      "id": 2880,
+      "name": "Krypta Rodu Heregata p.2 - prawe skrzydło"
+    },
+    {
+      "id": 2879,
+      "name": "Krypta Rodu Heregata p.2 - lewe skrzydło"
+    },
+    {
+      "id": 2878,
+      "name": "Krypta Rodu Heregata p.1"
+    },
+    {
+      "id": 2877,
+      "name": "Krypta Rodu Heregata"
+    },
+    {
+      "id": 2873,
+      "name": "Ruchome Piaski"
+    },
+    {
+      "id": 2872,
+      "name": "Piachy Zniewolonych"
+    },
+    {
+      "id": 2871,
+      "name": "Dolina Pustynnych Kręgów"
+    },
+    {
+      "id": 2870,
+      "name": "Dolina Suchych Łez"
+    },
+    {
+      "id": 2869,
+      "name": "Ciche Rumowiska"
+    },
+    {
+      "id": 2868,
+      "name": "Ruiny Pustynnych Burz"
+    },
+    {
+      "id": 2867,
+      "name": "Złote Piaski"
+    },
+    {
+      "id": 2866,
+      "name": "Oaza Siedmiu Wichrów"
+    },
+    {
+      "id": 2865,
+      "name": "Płaskowyż Arpan"
+    },
+    {
+      "id": 2864,
+      "name": "Sucha Dolina"
+    },
+    {
+      "id": 2828,
+      "name": "Lisia jama"
+    },
+    {
+      "id": 2825,
+      "name": "Las Milczących Cieni"
+    },
+    {
+      "id": 2818,
+      "name": "Piwnica pod Domem Schadzek"
+    },
+    {
+      "id": 2817,
+      "name": "Grota Wiedźmiej Złośliwości"
+    },
+    {
+      "id": 2790,
+      "name": "Jaskinia Medytacji Tududu"
+    },
+    {
+      "id": 2783,
+      "name": "Mrowisko p.2"
+    },
+    {
+      "id": 2778,
+      "name": "Wąwóz Trolla"
+    },
+    {
+      "id": 2776,
+      "name": "Dom Torkina - strych"
+    },
+    {
+      "id": 2775,
+      "name": "Dom Torkina"
+    },
+    {
+      "id": 2774,
+      "name": "Ostoja Marzeń"
+    },
+    {
+      "id": 2768,
+      "name": "Zapomniane Sztolnie p.2"
+    },
+    {
+      "id": 2767,
+      "name": "Zapomniane Sztolnie p.1"
+    },
+    {
+      "id": 2766,
+      "name": "Ołtarz Pajęczej Bogini"
+    },
+    {
+      "id": 2758,
+      "name": "Sala Tronowa"
+    },
+    {
+      "id": 2738,
+      "name": "Przedsionek Złych Goblinów"
+    },
+    {
+      "id": 2734,
+      "name": "Wesołe Miasteczko"
+    },
+    {
+      "id": 2733,
+      "name": "Zrujnowana Wieża"
+    },
+    {
+      "id": 2732,
+      "name": "Podziemne Przejście p.2"
+    },
+    {
+      "id": 2731,
+      "name": "Podziemne Przejście p.1"
+    },
+    {
+      "id": 2730,
+      "name": "Opuszczony Bastion"
+    },
+    {
+      "id": 2729,
+      "name": "Lazurytowa Grota p.4"
+    },
+    {
+      "id": 2722,
+      "name": "Przejście południowo-zachodnie"
+    },
+    {
+      "id": 2721,
+      "name": "Zachodnie skrzydło murów"
+    },
+    {
+      "id": 2720,
+      "name": "Strażnica północno-zachodnia"
+    },
+    {
+      "id": 2719,
+      "name": "Archiwa"
+    },
+    {
+      "id": 2718,
+      "name": "Wschodnie skrzydło murów"
+    },
+    {
+      "id": 2717,
+      "name": "Przejście północno-wschodnie"
+    },
+    {
+      "id": 2716,
+      "name": "Przejście południowo-wschodnie"
+    },
+    {
+      "id": 2715,
+      "name": "Składy"
+    },
+    {
+      "id": 2714,
+      "name": "Zaplecze"
+    },
+    {
+      "id": 2713,
+      "name": "Strażnica południowo-wschodnia"
+    },
+    {
+      "id": 2712,
+      "name": "Strażnica południowo-zachodnia"
+    },
+    {
+      "id": 2711,
+      "name": "Strażnica północno-wschodnia"
+    },
+    {
+      "id": 2710,
+      "name": "Kordegarda"
+    },
+    {
+      "id": 2709,
+      "name": "Izba wytrzeźwień"
+    },
+    {
+      "id": 2668,
+      "name": "Mansarda Vincenta"
+    },
+    {
+      "id": 2667,
+      "name": "Pod Rozbrykanym Niziołkiem - piętro"
+    },
+    {
+      "id": 2666,
+      "name": "Pod Rozbrykanym Niziołkiem - piwnica"
+    },
+    {
+      "id": 2665,
+      "name": "Pod Rozbrykanym Niziołkiem"
+    },
+    {
+      "id": 2663,
+      "name": "Jaskinia Łowców p.2"
+    },
+    {
+      "id": 2662,
+      "name": "Dom Huslina p.1"
+    },
+    {
+      "id": 2661,
+      "name": "Dom Unila p.1"
+    },
+    {
+      "id": 2659,
+      "name": "Dom Eldrika p.1"
+    },
+    {
+      "id": 2646,
+      "name": "Namiot Vari Krugera"
+    },
+    {
+      "id": 2622,
+      "name": "Dom Befry p.1"
+    },
+    {
+      "id": 2620,
+      "name": "Dom Befry"
+    },
+    {
+      "id": 2562,
+      "name": "Jaskinia Łez"
+    },
+    {
+      "id": 2547,
+      "name": "Klasztor Różanitów - skarbczyk"
+    },
+    {
+      "id": 2546,
+      "name": "Nekropolia Karka-han"
+    },
+    {
+      "id": 2538,
+      "name": "Wilcza Nora p.2"
+    },
+    {
+      "id": 2537,
+      "name": "Wilcza Nora p.1"
+    },
+    {
+      "id": 2536,
+      "name": "Warczące Osuwiska"
+    },
+    {
+      "id": 2535,
+      "name": "Ogrza Kawerna p.2"
+    },
+    {
+      "id": 2534,
+      "name": "Ratusz Ithan - więzienie"
+    },
+    {
+      "id": 2533,
+      "name": "Zapomniane Sztolnie p.3"
+    },
+    {
+      "id": 2532,
+      "name": "Schowek na Łupy"
+    },
+    {
+      "id": 2531,
+      "name": "Skład Grabieżców"
+    },
+    {
+      "id": 2530,
+      "name": "Kamienna Kryjówka"
+    },
+    {
+      "id": 2529,
+      "name": "Kopiec Mrówek p.1"
+    },
+    {
+      "id": 2528,
+      "name": "Mrowisko p.1"
+    },
+    {
+      "id": 2527,
+      "name": "Ogrza Kawerna p.1"
+    },
+    {
+      "id": 2526,
+      "name": "Ogrza Kawerna p.3"
+    },
+    {
+      "id": 2524,
+      "name": "Pagórki Łupieżców"
+    },
+    {
+      "id": 2523,
+      "name": "Kopiec Mrówek"
+    },
+    {
+      "id": 2522,
+      "name": "Mrowisko"
+    },
+    {
+      "id": 2521,
+      "name": "Siedlisko Nietoperzy p.3 - sala 2"
+    },
+    {
+      "id": 2520,
+      "name": "Leśny Bród"
+    },
+    {
+      "id": 2519,
+      "name": "Kopalnia Dogoran p.3"
+    },
+    {
+      "id": 2518,
+      "name": "Kopalnia Dogoran p.2"
+    },
+    {
+      "id": 2517,
+      "name": "Kopalnia Dogoran p.1"
+    },
+    {
+      "id": 2516,
+      "name": "Tunel pod Skałą p.3"
+    },
+    {
+      "id": 2515,
+      "name": "Tunel pod Skałą p.2"
+    },
+    {
+      "id": 2513,
+      "name": "Tunel pod Skałą p.1"
+    },
+    {
+      "id": 2511,
+      "name": "Klasztor Różanitów - piwniczka"
+    },
+    {
+      "id": 2510,
+      "name": "Klasztor Różanitów - klatka schodowa płd.-zach.p.2"
+    },
+    {
+      "id": 2509,
+      "name": "Klasztor Różanitów - dzwonnica"
+    },
+    {
+      "id": 2508,
+      "name": "Klasztor Różanitów - magazyn ksiąg"
+    },
+    {
+      "id": 2507,
+      "name": "Klasztor Różanitów - klatka schodowa płd.-zach.p.1"
+    },
+    {
+      "id": 2506,
+      "name": "Klasztor Różanitów - warsztat"
+    },
+    {
+      "id": 2505,
+      "name": "Klasztor Różanitów - klatka schodowa płd.-wsch.p.1"
+    },
+    {
+      "id": 2504,
+      "name": "Klasztor Różanitów - lawaterz"
+    },
+    {
+      "id": 2503,
+      "name": "Klasztor Różanitów - klasztorna piekarnia"
+    },
+    {
+      "id": 2502,
+      "name": "Klasztor Różanitów - klasztorny browar"
+    },
+    {
+      "id": 2501,
+      "name": "Klasztor Różanitów - pomieszczenia gospodarcze"
+    },
+    {
+      "id": 2500,
+      "name": "Klasztor Różanitów - korytarz wejściowy"
+    },
+    {
+      "id": 2499,
+      "name": "Klasztor Różanitów - dormitoria"
+    },
+    {
+      "id": 2498,
+      "name": "Klasztor Różanitów - refektarz"
+    },
+    {
+      "id": 2497,
+      "name": "Klasztor Różanitów - fraternia"
+    },
+    {
+      "id": 2496,
+      "name": "Klasztor Różanitów - kapitularz"
+    },
+    {
+      "id": 2495,
+      "name": "Klasztor Różanitów - strych p.2"
+    },
+    {
+      "id": 2494,
+      "name": "Klasztor Różanitów - strych p.1"
+    },
+    {
+      "id": 2493,
+      "name": "Klasztor Różanitów - wieża płn.-wsch. p.1"
+    },
+    {
+      "id": 2492,
+      "name": "Klasztor Różanitów - klatka schodowa płn.-wsch.p.1"
+    },
+    {
+      "id": 2491,
+      "name": "Kopiec Mrówek p.2"
+    },
+    {
+      "id": 2490,
+      "name": "Klasztor Różanitów - cela opata"
+    },
+    {
+      "id": 2489,
+      "name": "Klasztor Różanitów - wieża płn.-zach. p.2"
+    },
+    {
+      "id": 2488,
+      "name": "Klasztor Różanitów - wieża płn.-zach. p.1"
+    },
+    {
+      "id": 2487,
+      "name": "Klasztor Różanitów - klatka schodowa płn.-zach.p.3"
+    },
+    {
+      "id": 2486,
+      "name": "Klasztor Różanitów - klatka schodowa płn.-zach.p.2"
+    },
+    {
+      "id": 2485,
+      "name": "Klasztor Różanitów - klatka schodowa płn.-zach.p.1"
+    },
+    {
+      "id": 2484,
+      "name": "Tawerna pod Szemrzącą Beczułką"
+    },
+    {
+      "id": 2483,
+      "name": "Dom Felikssiana p.1"
+    },
+    {
+      "id": 2482,
+      "name": "Dom Angussa - pracownia"
+    },
+    {
+      "id": 2430,
+      "name": "Szopa"
+    },
+    {
+      "id": 2428,
+      "name": "Ognista Rozpadlina"
+    },
+    {
+      "id": 2392,
+      "name": "Dom Trajnaloka p.1"
+    },
+    {
+      "id": 2391,
+      "name": "Klasztor Różanitów - wirydarz"
+    },
+    {
+      "id": 2360,
+      "name": "Dom Lussa - piwnica"
+    },
+    {
+      "id": 2357,
+      "name": "Korytarz Zagubionych Marzeń"
+    },
+    {
+      "id": 2356,
+      "name": "Sala Mroźnych Strzał"
+    },
+    {
+      "id": 2355,
+      "name": "Przejście Władców Mrozu"
+    },
+    {
+      "id": 2354,
+      "name": "Sala Mroźnych Szeptów"
+    },
+    {
+      "id": 2353,
+      "name": "Sala Lodowej Magii"
+    },
+    {
+      "id": 2352,
+      "name": "Ciemnica Szubrawców p.1 - sala 3"
+    },
+    {
+      "id": 2351,
+      "name": "Ciemnica Szubrawców p.1 - sala 2"
+    },
+    {
+      "id": 2350,
+      "name": "Ciemnica Szubrawców p.1 - sala 1"
+    },
+    {
+      "id": 2349,
+      "name": "Pracownia Bonifacego p.1"
+    },
+    {
+      "id": 2348,
+      "name": "Pracownia Bonifacego - przyziemie"
+    },
+    {
+      "id": 2347,
+      "name": "Kamienica Nitrusa - piwnica"
+    },
+    {
+      "id": 2346,
+      "name": "Kuźnia na Rozstajach - piwnica"
+    },
+    {
+      "id": 2345,
+      "name": "Kuźnia na Rozstajach p.1"
+    },
+    {
+      "id": 2344,
+      "name": "Kuźnia na Rozstajach"
+    },
+    {
+      "id": 2343,
+      "name": "Wrak statku"
+    },
+    {
+      "id": 2342,
+      "name": "Dom Mikliniosa - przyziemie"
+    },
+    {
+      "id": 2341,
+      "name": "Dom Mikliniosa p.1"
+    },
+    {
+      "id": 2337,
+      "name": "Klasztor Różanitów - świątynia"
+    },
+    {
+      "id": 2330,
+      "name": "Grota Rybiego Oka"
+    },
+    {
+      "id": 2324,
+      "name": "Stukot Widmowych Kół"
+    },
+    {
+      "id": 2320,
+      "name": "Uroczysko Wodnika"
+    },
+    {
+      "id": 2317,
+      "name": "Namiot Bandytów"
+    },
+    {
+      "id": 2310,
+      "name": "Moczary Rybiego Oka"
+    },
+    {
+      "id": 2308,
+      "name": "Stary Kupiecki Trakt"
+    },
+    {
+      "id": 2220,
+      "name": "Lecznica dla zwierząt p.1"
+    },
+    {
+      "id": 2219,
+      "name": "Lecznica dla zwierząt - piwnica"
+    },
+    {
+      "id": 2218,
+      "name": "Dom Toksyniusza p.1"
+    },
+    {
+      "id": 2217,
+      "name": "Dom Toksyniusza"
+    },
+    {
+      "id": 2215,
+      "name": "Dom Salome - piwnica"
+    },
+    {
+      "id": 2214,
+      "name": "Dom Salome p.1"
+    },
+    {
+      "id": 2213,
+      "name": "Dom Salome"
+    },
+    {
+      "id": 2211,
+      "name": "Dom Szagarata p.1"
+    },
+    {
+      "id": 2210,
+      "name": "Dom Cedrika p.1"
+    },
+    {
+      "id": 2207,
+      "name": "Dom Syntii i Leona p.1"
+    },
+    {
+      "id": 2206,
+      "name": "Dom Syntii i Leona"
+    },
+    {
+      "id": 2205,
+      "name": "Dom Sary p.1"
+    },
+    {
+      "id": 2204,
+      "name": "Dom Idalii - piwnica"
+    },
+    {
+      "id": 2203,
+      "name": "Dom Wei p.1"
+    },
+    {
+      "id": 2199,
+      "name": "Dom Cedrika"
+    },
+    {
+      "id": 2198,
+      "name": "Dom Barabasza p.1"
+    },
+    {
+      "id": 2197,
+      "name": "Dom Barabasza"
+    },
+    {
+      "id": 2186,
+      "name": "Katakumby Rozkoszy"
+    },
+    {
+      "id": 2183,
+      "name": "Skrawek Raju"
+    },
+    {
+      "id": 2181,
+      "name": "Dom Hernaka - stodoła"
+    },
+    {
+      "id": 2180,
+      "name": "Dom Hernaka"
+    },
+    {
+      "id": 2177,
+      "name": "Austeria Karibiego - Rozkosz nad Rozkoszami"
+    },
+    {
+      "id": 2172,
+      "name": "Sowie Lochy"
+    },
+    {
+      "id": 2171,
+      "name": "Sztab Dowódczy"
+    },
+    {
+      "id": 2170,
+      "name": "Baszta Sowy p.2"
+    },
+    {
+      "id": 2169,
+      "name": "Baszta Sowy p.1"
+    },
+    {
+      "id": 2168,
+      "name": "Baszta Sowy"
+    },
+    {
+      "id": 2167,
+      "name": "Baszta Puszczyka p.1"
+    },
+    {
+      "id": 2166,
+      "name": "Baszta Puszczyka"
+    },
+    {
+      "id": 2165,
+      "name": "Baszta Puchacza p.2"
+    },
+    {
+      "id": 2164,
+      "name": "Baszta Puchacza p.1"
+    },
+    {
+      "id": 2163,
+      "name": "Baszta Puchacza"
+    },
+    {
+      "id": 2158,
+      "name": "Drukarnia Zenka - piwnica"
+    },
+    {
+      "id": 2157,
+      "name": "Drukarnia Zenka p.1"
+    },
+    {
+      "id": 2156,
+      "name": "Drukarnia Zenka"
+    },
+    {
+      "id": 2141,
+      "name": "Szlachecka izba 2"
+    },
+    {
+      "id": 2140,
+      "name": "Izba 203"
+    },
+    {
+      "id": 2139,
+      "name": "Izba 202"
+    },
+    {
+      "id": 2138,
+      "name": "Izba 201"
+    },
+    {
+      "id": 2137,
+      "name": "Izba 103"
+    },
+    {
+      "id": 2136,
+      "name": "Izba 102"
+    },
+    {
+      "id": 2135,
+      "name": "Szlachecka izba 1"
+    },
+    {
+      "id": 2134,
+      "name": "Izba 101"
+    },
+    {
+      "id": 2133,
+      "name": "Austeria Karibiego p.2"
+    },
+    {
+      "id": 2132,
+      "name": "Austeria Karibiego p.1"
+    },
+    {
+      "id": 2131,
+      "name": "Austeria Karibiego"
+    },
+    {
+      "id": 2125,
+      "name": "Warsztat Drowina - piwnica"
+    },
+    {
+      "id": 2124,
+      "name": "Warsztat Drowina"
+    },
+    {
+      "id": 2123,
+      "name": "Dom Drowina - piwnica"
+    },
+    {
+      "id": 2122,
+      "name": "Dom Drowina p.1"
+    },
+    {
+      "id": 2121,
+      "name": "Dom Drowina"
+    },
+    {
+      "id": 2120,
+      "name": "Karmazynowa sala"
+    },
+    {
+      "id": 2077,
+      "name": "Baszta Nietoperzy"
+    },
+    {
+      "id": 2076,
+      "name": "Baszta Koci Łeb"
+    },
+    {
+      "id": 2075,
+      "name": "Mury - kwatera główna"
+    },
+    {
+      "id": 2073,
+      "name": "Mury - zbrojownia"
+    },
+    {
+      "id": 2072,
+      "name": "Mury - skrzydło wschodnie"
+    },
+    {
+      "id": 2071,
+      "name": "Mury - skrzydło północne"
+    },
+    {
+      "id": 2070,
+      "name": "Mury - skrzydło zachodnie"
+    },
+    {
+      "id": 2063,
+      "name": "Przysiółek Valmirów"
+    },
+    {
+      "id": 2062,
+      "name": "Dom Gepperta - pokój"
+    },
+    {
+      "id": 2061,
+      "name": "Dom Gepperta - warsztat"
+    },
+    {
+      "id": 2060,
+      "name": "Dom Vincenta - piwnica"
+    },
+    {
+      "id": 2059,
+      "name": "Dom Vincenta p.1"
+    },
+    {
+      "id": 2058,
+      "name": "Dom Vincenta"
+    },
+    {
+      "id": 2056,
+      "name": "Szczerba Samobójców"
+    },
+    {
+      "id": 2053,
+      "name": "Dom Paniki i Llacha"
+    },
+    {
+      "id": 2046,
+      "name": "Dom Buddenbrooków"
+    },
+    {
+      "id": 2044,
+      "name": "Oberża pod Złotym Kłosem - piwnica"
+    },
+    {
+      "id": 2043,
+      "name": "Oberża pod Złotym Kłosem p.2"
+    },
+    {
+      "id": 2042,
+      "name": "Magazyn p.1"
+    },
+    {
+      "id": 2041,
+      "name": "Magazyn"
+    },
+    {
+      "id": 2040,
+      "name": "Oberża pod Złotym Kłosem p.1"
+    },
+    {
+      "id": 2039,
+      "name": "Oberża pod Złotym Kłosem"
+    },
+    {
+      "id": 2038,
+      "name": "Dom Mazteni i Ułtana p.2"
+    },
+    {
+      "id": 2037,
+      "name": "Dom Mazteni i Ułtana p.1"
+    },
+    {
+      "id": 2036,
+      "name": "Dom Mazteni i Ułtana"
+    },
+    {
+      "id": 2035,
+      "name": "Młyn p.2"
+    },
+    {
+      "id": 2034,
+      "name": "Młyn p.1"
+    },
+    {
+      "id": 2033,
+      "name": "Młyn"
+    },
+    {
+      "id": 2032,
+      "name": "Piekarnia p.1"
+    },
+    {
+      "id": 2031,
+      "name": "Piekarnia"
+    },
+    {
+      "id": 2029,
+      "name": "Łany Zboża"
+    },
+    {
+      "id": 2028,
+      "name": "Dolina Potoku Śmierci"
+    },
+    {
+      "id": 2024,
+      "name": "Grota Jaszczurzych Koszmarów p.2"
+    },
+    {
+      "id": 2023,
+      "name": "Grota Jaszczurzych Koszmarów p.3"
+    },
+    {
+      "id": 2021,
+      "name": "Podziemne Źródło"
+    },
+    {
+      "id": 2020,
+      "name": "Grań Gawronich Piór"
+    },
+    {
+      "id": 2018,
+      "name": "Dom Etrefana p.2"
+    },
+    {
+      "id": 2017,
+      "name": "Dom Etrefana p.1"
+    },
+    {
+      "id": 2016,
+      "name": "Dom Etrefana - pracownia"
+    },
+    {
+      "id": 2015,
+      "name": "Zbójecka spiżarnia - zbrojownia"
+    },
+    {
+      "id": 2014,
+      "name": "Zbójecka spiżarnia p.1"
+    },
+    {
+      "id": 2013,
+      "name": "Zbójecka spiżarnia - przyziemie"
+    },
+    {
+      "id": 2012,
+      "name": "Zbójecka spiżarnia"
+    },
+    {
+      "id": 2011,
+      "name": "Dom Artenii i Tafina - piwnica"
+    },
+    {
+      "id": 2010,
+      "name": "Dom Erniego p.1"
+    },
+    {
+      "id": 2007,
+      "name": "Karczma pod Chimerą p.1"
+    },
+    {
+      "id": 2006,
+      "name": "Karczma pod Chimerą"
+    },
+    {
+      "id": 2002,
+      "name": "Kurnik"
+    },
+    {
+      "id": 1991,
+      "name": "Dom Żaka p.1"
+    },
+    {
+      "id": 1990,
+      "name": "Dom Żaka"
+    },
+    {
+      "id": 1987,
+      "name": "Targ Poszukiwaczy Przygód"
+    },
+    {
+      "id": 1985,
+      "name": "Żołnierski Korytarz"
+    },
+    {
+      "id": 1983,
+      "name": "Koszary - piwnica"
+    },
+    {
+      "id": 1982,
+      "name": "Koszary - gabinet kapitana"
+    },
+    {
+      "id": 1981,
+      "name": "Koszary p.1"
+    },
+    {
+      "id": 1980,
+      "name": "Koszary"
+    },
+    {
+      "id": 1977,
+      "name": "Wnętrze drzewa"
+    },
+    {
+      "id": 1975,
+      "name": "Wrzosowiska"
+    },
+    {
+      "id": 1972,
+      "name": "Rezydencja Tussal p.1 - gabinet"
+    },
+    {
+      "id": 1971,
+      "name": "Rezydencja Tussal p.1 - sypialnia"
+    },
+    {
+      "id": 1970,
+      "name": "Rezydencja Tussal"
+    },
+    {
+      "id": 1966,
+      "name": "Gildia Wynalazców - opuszczona czytelnia"
+    },
+    {
+      "id": 1964,
+      "name": "Gildia Wynalazców - pracownia Netheralena"
+    },
+    {
+      "id": 1962,
+      "name": "Gildia Wynalazców - laboratorium Tii Rumore"
+    },
+    {
+      "id": 1961,
+      "name": "Gildia Wynalazców - aula uniwersytecka"
+    },
+    {
+      "id": 1960,
+      "name": "Gildia Wynalazców"
+    },
+    {
+      "id": 1955,
+      "name": "Namiot Amry"
+    },
+    {
+      "id": 1950,
+      "name": "Gildia Teologów - przejście do jaskiń"
+    },
+    {
+      "id": 1948,
+      "name": "Gildia Teologów - biuro inkwizytora"
+    },
+    {
+      "id": 1947,
+      "name": "Jaskinia wiedźmy"
+    },
+    {
+      "id": 1946,
+      "name": "Namiot wiedźmy"
+    },
+    {
+      "id": 1945,
+      "name": "Opuszczony dom"
+    },
+    {
+      "id": 1944,
+      "name": "Dom Gindera p.1"
+    },
+    {
+      "id": 1943,
+      "name": "Dom Barnesa - skład"
+    },
+    {
+      "id": 1942,
+      "name": "Dom Barnesa - pracownia"
+    },
+    {
+      "id": 1941,
+      "name": "Dom Barnesa - kuchnia"
+    },
+    {
+      "id": 1940,
+      "name": "Dom Barnesa p.1"
+    },
+    {
+      "id": 1939,
+      "name": "Dom Barnesa"
+    },
+    {
+      "id": 1936,
+      "name": "Dom Enoliana - spiżarnia"
+    },
+    {
+      "id": 1935,
+      "name": "Dom Enoliana p.1"
+    },
+    {
+      "id": 1934,
+      "name": "Dom Alabraskana - piwnica"
+    },
+    {
+      "id": 1933,
+      "name": "Dom Alabraskana p.1"
+    },
+    {
+      "id": 1931,
+      "name": "Dom Rozalii - piwnica"
+    },
+    {
+      "id": 1930,
+      "name": "Dom Rozalii p.1"
+    },
+    {
+      "id": 1929,
+      "name": "Dom Rozalii"
+    },
+    {
+      "id": 1926,
+      "name": "Altepetl Mahoptekan"
+    },
+    {
+      "id": 1925,
+      "name": "Stajnie"
+    },
+    {
+      "id": 1924,
+      "name": "Dolina Chmur"
+    },
+    {
+      "id": 1923,
+      "name": "Dom Zbigniewa p.1"
+    },
+    {
+      "id": 1922,
+      "name": "Dom Zbigniewa"
+    },
+    {
+      "id": 1921,
+      "name": "Dom Benia i Zgryzeldy"
+    },
+    {
+      "id": 1920,
+      "name": "Pracownia Toksyniusza"
+    },
+    {
+      "id": 1918,
+      "name": "Dom Mafki i Hieronima - piwnica"
+    },
+    {
+      "id": 1917,
+      "name": "Dom Mafki i Hieronima p.1"
+    },
+    {
+      "id": 1916,
+      "name": "Dom Mafki i Hieronima"
+    },
+    {
+      "id": 1915,
+      "name": "Dom rodziny Martel - piwnica"
+    },
+    {
+      "id": 1914,
+      "name": "Dom rodziny Martel p.1"
+    },
+    {
+      "id": 1913,
+      "name": "Dom rodziny Martel"
+    },
+    {
+      "id": 1912,
+      "name": "Zalana Grota"
+    },
+    {
+      "id": 1909,
+      "name": "Mieszkanie kowala Kalpusa p.1"
+    },
+    {
+      "id": 1908,
+      "name": "Warsztat kowala Kalpusa"
+    },
+    {
+      "id": 1907,
+      "name": "Namiot kościarza"
+    },
+    {
+      "id": 1906,
+      "name": "Gildia Teologów - pracownia historyka"
+    },
+    {
+      "id": 1905,
+      "name": "Gildia Teologów - pracownia archeologa"
+    },
+    {
+      "id": 1904,
+      "name": "Gildia Teologów - archiwum"
+    },
+    {
+      "id": 1903,
+      "name": "Gildia Teologów - korytarz za ołtarzem"
+    },
+    {
+      "id": 1902,
+      "name": "Gildia Teologów"
+    },
+    {
+      "id": 1901,
+      "name": "Niecka Xiuh Atl"
+    },
+    {
+      "id": 1899,
+      "name": "Goblińskie lokum - siedziba"
+    },
+    {
+      "id": 1898,
+      "name": "Goblińskie Lokum"
+    },
+    {
+      "id": 1897,
+      "name": "Dom Maryśki - piwnica"
+    },
+    {
+      "id": 1896,
+      "name": "Dom rzeźnika - piwnica"
+    },
+    {
+      "id": 1895,
+      "name": "Dom rzeźnika p.1"
+    },
+    {
+      "id": 1894,
+      "name": "Dom rzeźnika"
+    },
+    {
+      "id": 1889,
+      "name": "Dom płatnerza p.1"
+    },
+    {
+      "id": 1888,
+      "name": "Pracownia płatnerza - skład"
+    },
+    {
+      "id": 1887,
+      "name": "Pracownia płatnerza"
+    },
+    {
+      "id": 1886,
+      "name": "Dom płatnerza - piwnica p.2"
+    },
+    {
+      "id": 1885,
+      "name": "Dom płatnerza - piwnica"
+    },
+    {
+      "id": 1884,
+      "name": "Dom płatnerza"
+    },
+    {
+      "id": 1883,
+      "name": "Dom Menarika"
+    },
+    {
+      "id": 1881,
+      "name": "Lochy miejskie - podziemia"
+    },
+    {
+      "id": 1880,
+      "name": "Lochy miejskie"
+    },
+    {
+      "id": 1879,
+      "name": "Kopalnia Faluntamir p.3 - sala 2"
+    },
+    {
+      "id": 1878,
+      "name": "Kopalnia Faluntamir p.2 - sala 2"
+    },
+    {
+      "id": 1865,
+      "name": "Sklep Garka"
+    },
+    {
+      "id": 1863,
+      "name": "Dom Zeiny"
+    },
+    {
+      "id": 1850,
+      "name": "Lokum krasnoludów - piwnica p.2"
+    },
+    {
+      "id": 1849,
+      "name": "Lokum krasnoludów - piwnica p.1"
+    },
+    {
+      "id": 1847,
+      "name": "Lokum krasnoludów p.1"
+    },
+    {
+      "id": 1846,
+      "name": "Lokum krasnoludów"
+    },
+    {
+      "id": 1845,
+      "name": "Dom Johana p.1"
+    },
+    {
+      "id": 1844,
+      "name": "Dom Johana - piwnica"
+    },
+    {
+      "id": 1843,
+      "name": "Dom Johana"
+    },
+    {
+      "id": 1839,
+      "name": "Gildia Nerthusa - sala prelekcyjna"
+    },
+    {
+      "id": 1838,
+      "name": "Gildia Nerthusa - biblioteka"
+    },
+    {
+      "id": 1837,
+      "name": "Warsztat miecznika - piwnica"
+    },
+    {
+      "id": 1836,
+      "name": "Warsztat miecznika"
+    },
+    {
+      "id": 1833,
+      "name": "Dom Remiusza p.1"
+    },
+    {
+      "id": 1832,
+      "name": "Kamienica Slina - piwnica"
+    },
+    {
+      "id": 1831,
+      "name": "Kamienica Slina - pokój"
+    },
+    {
+      "id": 1830,
+      "name": "Kamienica Slina p.1"
+    },
+    {
+      "id": 1829,
+      "name": "Kamienica Slina"
+    },
+    {
+      "id": 1828,
+      "name": "Kamienica Newalda p.1"
+    },
+    {
+      "id": 1827,
+      "name": "Mieszkanie sztygara"
+    },
+    {
+      "id": 1826,
+      "name": "Rozładownia"
+    },
+    {
+      "id": 1825,
+      "name": "Dom Kaliposa - piwnica"
+    },
+    {
+      "id": 1824,
+      "name": "Dom Kaliposa - strych"
+    },
+    {
+      "id": 1823,
+      "name": "Dom Kaliposa p.1"
+    },
+    {
+      "id": 1822,
+      "name": "Gildia Kupców - piwnica"
+    },
+    {
+      "id": 1820,
+      "name": "Magazyn - piwnica"
+    },
+    {
+      "id": 1819,
+      "name": "Magazyn p.1"
+    },
+    {
+      "id": 1818,
+      "name": "Magazyn"
+    },
+    {
+      "id": 1817,
+      "name": "Dom Inetora p.1"
+    },
+    {
+      "id": 1816,
+      "name": "Dom Inetora"
+    },
+    {
+      "id": 1815,
+      "name": "Pracownia Inetora p.1"
+    },
+    {
+      "id": 1814,
+      "name": "Dom Aurelii i Dionizego p.1"
+    },
+    {
+      "id": 1813,
+      "name": "Dom Aurelii i Dionizego"
+    },
+    {
+      "id": 1812,
+      "name": "Dom Kalicji i Apoksa - piwnica"
+    },
+    {
+      "id": 1811,
+      "name": "Dom Lenki - piwnica"
+    },
+    {
+      "id": 1810,
+      "name": "Dom Lenki p.1"
+    },
+    {
+      "id": 1809,
+      "name": "Dom Lenki"
+    },
+    {
+      "id": 1808,
+      "name": "Kamienica Kandelia - strych"
+    },
+    {
+      "id": 1807,
+      "name": "Kamienica Kandelia - piwnica"
+    },
+    {
+      "id": 1806,
+      "name": "Kamienica Kandelia p.1"
+    },
+    {
+      "id": 1805,
+      "name": "Kamienica Kandelia"
+    },
+    {
+      "id": 1804,
+      "name": "Skład surowców - piwnica"
+    },
+    {
+      "id": 1803,
+      "name": "Skład surowców"
+    },
+    {
+      "id": 1802,
+      "name": "Skład Kluspa"
+    },
+    {
+      "id": 1801,
+      "name": "Huta żelaza"
+    },
+    {
+      "id": 1800,
+      "name": "Migotliwa Pieczara"
+    },
+    {
+      "id": 1799,
+      "name": "Opuszczony dom p.1"
+    },
+    {
+      "id": 1798,
+      "name": "Opuszczony dom"
+    },
+    {
+      "id": 1793,
+      "name": "Namiot leśniczego"
+    },
+    {
+      "id": 1792,
+      "name": "Dom Aberyta - piwnica"
+    },
+    {
+      "id": 1791,
+      "name": "Południowa strażnica Dwóch Koron p.3"
+    },
+    {
+      "id": 1790,
+      "name": "Dom Maryśki"
+    },
+    {
+      "id": 1789,
+      "name": "Dom Kluspa p.1"
+    },
+    {
+      "id": 1788,
+      "name": "Mistyczny Bór"
+    },
+    {
+      "id": 1787,
+      "name": "Rezydencja Vonikur p.2"
+    },
+    {
+      "id": 1782,
+      "name": "Kamienica Mirutki"
+    },
+    {
+      "id": 1772,
+      "name": "Teatr Monticolo - garderoba"
+    },
+    {
+      "id": 1771,
+      "name": "Teatr Monticolo - garderoba"
+    },
+    {
+      "id": 1770,
+      "name": "Teatr Monticolo - garderoba"
+    },
+    {
+      "id": 1769,
+      "name": "Teatr Monticolo - zaplecze"
+    },
+    {
+      "id": 1768,
+      "name": "Teatr Monticolo"
+    },
+    {
+      "id": 1766,
+      "name": "Jaskinia - kapliczka"
+    },
+    {
+      "id": 1765,
+      "name": "Jaskinia - pracownia"
+    },
+    {
+      "id": 1764,
+      "name": "Jaskinia"
+    },
+    {
+      "id": 1761,
+      "name": "Bagnista Dolina Dusz"
+    },
+    {
+      "id": 1760,
+      "name": "Kaplica"
+    },
+    {
+      "id": 1759,
+      "name": "Dom Jofusa p.1"
+    },
+    {
+      "id": 1755,
+      "name": "Pokój 12"
+    },
+    {
+      "id": 1754,
+      "name": "Pokój 11"
+    },
+    {
+      "id": 1746,
+      "name": "Grota Caerbannoga"
+    },
+    {
+      "id": 1745,
+      "name": "Jaskinia Caerbannoga"
+    },
+    {
+      "id": 1744,
+      "name": "Wyspa Wraków"
+    },
+    {
+      "id": 1743,
+      "name": "Wyspa Magradit"
+    },
+    {
+      "id": 1742,
+      "name": "Wyspa Caneum"
+    },
+    {
+      "id": 1741,
+      "name": "Wyspa Rem"
+    },
+    {
+      "id": 1740,
+      "name": "Wyspa Ingotia"
+    },
+    {
+      "id": 1739,
+      "name": "Archipelag Bremus An"
+    },
+    {
+      "id": 1738,
+      "name": "Agia Triada"
+    },
+    {
+      "id": 1737,
+      "name": "Posłaniec Śmierci"
+    },
+    {
+      "id": 1736,
+      "name": "Sala Lodowych Iglic"
+    },
+    {
+      "id": 1735,
+      "name": "Lodowa Wyrwa p.2"
+    },
+    {
+      "id": 1734,
+      "name": "Lodowa Wyrwa p.1 s.2"
+    },
+    {
+      "id": 1733,
+      "name": "Lodowa Wyrwa p.1 s.1"
+    },
+    {
+      "id": 1730,
+      "name": "Cmentarzysko Szerpów"
+    },
+    {
+      "id": 1720,
+      "name": "Uniwersytet płd. - aula"
+    },
+    {
+      "id": 1719,
+      "name": "Pustelnia Wojownika p.2"
+    },
+    {
+      "id": 1718,
+      "name": "Pustelnia Wojownika p.1"
+    },
+    {
+      "id": 1716,
+      "name": "Karmazynowa siedziba - piwnica"
+    },
+    {
+      "id": 1715,
+      "name": "Karmazynowa siedziba"
+    },
+    {
+      "id": 1713,
+      "name": "Magazyn Berserkerów"
+    },
+    {
+      "id": 1712,
+      "name": "Grobowiec Przodków"
+    },
+    {
+      "id": 1711,
+      "name": "Czarcie Oparzeliska"
+    },
+    {
+      "id": 1710,
+      "name": "Rezydencja Vonikur - biblioteczka"
+    },
+    {
+      "id": 1709,
+      "name": "Rezydencja Vonikur - kuchnia"
+    },
+    {
+      "id": 1707,
+      "name": "Rezydencja Vonikur"
+    },
+    {
+      "id": 1702,
+      "name": "Posterunek - piwnica"
+    },
+    {
+      "id": 1701,
+      "name": "Posterunek"
+    },
+    {
+      "id": 1698,
+      "name": "Dom Konstantego i Forsycji p.1"
+    },
+    {
+      "id": 1697,
+      "name": "Dom Konstantego i Forsycji"
+    },
+    {
+      "id": 1696,
+      "name": "Kamienica Vilgara"
+    },
+    {
+      "id": 1688,
+      "name": "Pieczara Niepogody p.5"
+    },
+    {
+      "id": 1675,
+      "name": "Szumiąca Gęstwina"
+    },
+    {
+      "id": 1674,
+      "name": "Więzienie Nithal"
+    },
+    {
+      "id": 1670,
+      "name": "Pieczara Niepogody p.2 - sala 2"
+    },
+    {
+      "id": 1668,
+      "name": "Pieczara Niepogody p.4"
+    },
+    {
+      "id": 1667,
+      "name": "Pieczara Niepogody p.3"
+    },
+    {
+      "id": 1665,
+      "name": "Pieczara Niepogody p.2 - sala 1"
+    },
+    {
+      "id": 1664,
+      "name": "Pieczara Niepogody p.1"
+    },
+    {
+      "id": 1663,
+      "name": "Skalne Cmentarzysko p.3 - wnęka"
+    },
+    {
+      "id": 1654,
+      "name": "Jaskinia Gnollich Szamanów p.1"
+    },
+    {
+      "id": 1631,
+      "name": "Kwatera rozbójników"
+    },
+    {
+      "id": 1630,
+      "name": "Dom Lorenzo - składzik"
+    },
+    {
+      "id": 1629,
+      "name": "Dom Lorenzo"
+    },
+    {
+      "id": 1628,
+      "name": "Dom Danillo"
+    },
+    {
+      "id": 1627,
+      "name": "Dom Łasicy"
+    },
+    {
+      "id": 1626,
+      "name": "Opuszczony dom"
+    },
+    {
+      "id": 1625,
+      "name": "Tajemnicze przejście"
+    },
+    {
+      "id": 1624,
+      "name": "Opuszczony dom - piwnica p.1"
+    },
+    {
+      "id": 1623,
+      "name": "Opuszczony dom - piwnica"
+    },
+    {
+      "id": 1620,
+      "name": "Wyspa Rem"
+    },
+    {
+      "id": 1614,
+      "name": "Kanały pod Portem Tuzmer"
+    },
+    {
+      "id": 1612,
+      "name": "Magazyn"
+    },
+    {
+      "id": 1611,
+      "name": "Kuchnia polowa"
+    },
+    {
+      "id": 1610,
+      "name": "Namiot"
+    },
+    {
+      "id": 1609,
+      "name": "Namiot"
+    },
+    {
+      "id": 1608,
+      "name": "Namiot kapitana"
+    },
+    {
+      "id": 1606,
+      "name": "Latarnia p.2"
+    },
+    {
+      "id": 1605,
+      "name": "Latarnia p.1"
+    },
+    {
+      "id": 1604,
+      "name": "Latarnia"
+    },
+    {
+      "id": 1603,
+      "name": "Dom Leinne - piwniczka"
+    },
+    {
+      "id": 1602,
+      "name": "Dom Leinne"
+    },
+    {
+      "id": 1600,
+      "name": "Kamienica Bursztynek"
+    },
+    {
+      "id": 1599,
+      "name": "Dom Jallosa"
+    },
+    {
+      "id": 1597,
+      "name": "Dom Adanny p.1"
+    },
+    {
+      "id": 1596,
+      "name": "Miejska Biblioteka"
+    },
+    {
+      "id": 1595,
+      "name": "Lecznica dla zwierząt"
+    },
+    {
+      "id": 1594,
+      "name": "Dom Adanny"
+    },
+    {
+      "id": 1590,
+      "name": "Dom Rongo"
+    },
+    {
+      "id": 1589,
+      "name": "Pusty dom"
+    },
+    {
+      "id": 1582,
+      "name": "Dom Hawaikiego - piwnica"
+    },
+    {
+      "id": 1581,
+      "name": "Dom Hawaikiego p.1"
+    },
+    {
+      "id": 1580,
+      "name": "Dom Hawaikiego"
+    },
+    {
+      "id": 1579,
+      "name": "Dom Tane - piwnica"
+    },
+    {
+      "id": 1578,
+      "name": "Dom Tane"
+    },
+    {
+      "id": 1577,
+      "name": "Dom Leksosa p.1"
+    },
+    {
+      "id": 1576,
+      "name": "Dom Leksosa"
+    },
+    {
+      "id": 1575,
+      "name": "Mury zachodnie Tuzmer"
+    },
+    {
+      "id": 1574,
+      "name": "Dom Flopka"
+    },
+    {
+      "id": 1573,
+      "name": "Posterunek p.1"
+    },
+    {
+      "id": 1572,
+      "name": "Posterunek"
+    },
+    {
+      "id": 1571,
+      "name": "Dom Wirkliusza Runaberda - piwnica"
+    },
+    {
+      "id": 1570,
+      "name": "Dom Wirkliusza Runaberda p.1"
+    },
+    {
+      "id": 1569,
+      "name": "Dom Wirkliusza Runaberda"
+    },
+    {
+      "id": 1568,
+      "name": "Pokój Grety"
+    },
+    {
+      "id": 1567,
+      "name": "Dom Horsfei"
+    },
+    {
+      "id": 1566,
+      "name": "Dom Senekjusza"
+    },
+    {
+      "id": 1565,
+      "name": "Dom Losso Minewita p.1"
+    },
+    {
+      "id": 1564,
+      "name": "Dom Losso Minewita"
+    },
+    {
+      "id": 1563,
+      "name": "Apartament 110"
+    },
+    {
+      "id": 1562,
+      "name": "Apartament 109"
+    },
+    {
+      "id": 1561,
+      "name": "Apartament 108"
+    },
+    {
+      "id": 1560,
+      "name": "Apartament 107"
+    },
+    {
+      "id": 1559,
+      "name": "Apartament 106"
+    },
+    {
+      "id": 1558,
+      "name": "Apartament 10"
+    },
+    {
+      "id": 1557,
+      "name": "Apartament 9"
+    },
+    {
+      "id": 1556,
+      "name": "Apartament 8"
+    },
+    {
+      "id": 1555,
+      "name": "Apartament 7"
+    },
+    {
+      "id": 1554,
+      "name": "Apartament 105"
+    },
+    {
+      "id": 1553,
+      "name": "Apartament 104"
+    },
+    {
+      "id": 1552,
+      "name": "Apartament 103"
+    },
+    {
+      "id": 1551,
+      "name": "Apartament 102"
+    },
+    {
+      "id": 1550,
+      "name": "Apartament 101"
+    },
+    {
+      "id": 1549,
+      "name": "Apartament 5"
+    },
+    {
+      "id": 1548,
+      "name": "Apartament 4"
+    },
+    {
+      "id": 1547,
+      "name": "Apartament 3"
+    },
+    {
+      "id": 1546,
+      "name": "Apartament 2"
+    },
+    {
+      "id": 1545,
+      "name": "Apartament 1"
+    },
+    {
+      "id": 1544,
+      "name": "Apartament 6"
+    },
+    {
+      "id": 1543,
+      "name": "Zajazd pod Różą Wiatrów - kawiarnia"
+    },
+    {
+      "id": 1542,
+      "name": "Zajazd pod Różą Wiatrów p.2"
+    },
+    {
+      "id": 1541,
+      "name": "Zajazd pod Różą Wiatrów p.1"
+    },
+    {
+      "id": 1539,
+      "name": "Zajazd pod Różą Wiatrów"
+    },
+    {
+      "id": 1538,
+      "name": "Cela gladiatora 6"
+    },
+    {
+      "id": 1537,
+      "name": "Cela gladiatora 5"
+    },
+    {
+      "id": 1536,
+      "name": "Cela gladiatora 4"
+    },
+    {
+      "id": 1535,
+      "name": "Cela gladiatora 3"
+    },
+    {
+      "id": 1534,
+      "name": "Cela gladiatora 2"
+    },
+    {
+      "id": 1533,
+      "name": "Duża cela gladiatora 3"
+    },
+    {
+      "id": 1532,
+      "name": "Duża cela gladiatora 2"
+    },
+    {
+      "id": 1531,
+      "name": "Łaźnia p.1"
+    },
+    {
+      "id": 1530,
+      "name": "Cela gladiatora 1"
+    },
+    {
+      "id": 1529,
+      "name": "Duża cela gladiatora 1"
+    },
+    {
+      "id": 1528,
+      "name": "Ukryta Grota Morskich Diabłów - arsenał"
+    },
+    {
+      "id": 1527,
+      "name": "Ukryta Grota Morskich Diabłów - siedziba"
+    },
+    {
+      "id": 1526,
+      "name": "Ukryta Grota Morskich Diabłów - skarbiec"
+    },
+    {
+      "id": 1525,
+      "name": "Ukryta Grota Morskich Diabłów"
+    },
+    {
+      "id": 1524,
+      "name": "Arena Gladiatorów - piwnica"
+    },
+    {
+      "id": 1523,
+      "name": "Arena Gladiatorów p.1"
+    },
+    {
+      "id": 1522,
+      "name": "Arena"
+    },
+    {
+      "id": 1521,
+      "name": "Wartownia p.1"
+    },
+    {
+      "id": 1520,
+      "name": "Wartownia"
+    },
+    {
+      "id": 1518,
+      "name": "Magistrat - skarbiec"
+    },
+    {
+      "id": 1517,
+      "name": "Magistrat p.2"
+    },
+    {
+      "id": 1516,
+      "name": "Magistrat p.1"
+    },
+    {
+      "id": 1507,
+      "name": "Łaźnia damska - szatnia"
+    },
+    {
+      "id": 1506,
+      "name": "Łaźnia męska - szatnia"
+    },
+    {
+      "id": 1505,
+      "name": "Dom Toramidamusa - piwnica"
+    },
+    {
+      "id": 1504,
+      "name": "Łaźnia - piwnica"
+    },
+    {
+      "id": 1503,
+      "name": "Łaźnia - część męska"
+    },
+    {
+      "id": 1502,
+      "name": "Łaźnia - część damska"
+    },
+    {
+      "id": 1501,
+      "name": "Dom Mei Shang Lii - piwnica"
+    },
+    {
+      "id": 1500,
+      "name": "Dom Mei Shang Lii p.1"
+    },
+    {
+      "id": 1499,
+      "name": "Dom Mei Shang Lii"
+    },
+    {
+      "id": 1498,
+      "name": "Dom Randala Rotguta p.1"
+    },
+    {
+      "id": 1497,
+      "name": "Dom Randala Rotguta"
+    },
+    {
+      "id": 1496,
+      "name": "Dom Toramidamusa p.1"
+    },
+    {
+      "id": 1495,
+      "name": "Dom Toramidamusa"
+    },
+    {
+      "id": 1494,
+      "name": "Dom dziadka Jeżyka"
+    },
+    {
+      "id": 1493,
+      "name": "Dom Telsara p.1"
+    },
+    {
+      "id": 1492,
+      "name": "Dom Telsara"
+    },
+    {
+      "id": 1491,
+      "name": "Dom Bernarda p.1"
+    },
+    {
+      "id": 1490,
+      "name": "Dom Bernarda"
+    },
+    {
+      "id": 1489,
+      "name": "Dom Seridiusza - piwnica"
+    },
+    {
+      "id": 1488,
+      "name": "Dom Seridiusza p.1"
+    },
+    {
+      "id": 1487,
+      "name": "Dom Seridiusza"
+    },
+    {
+      "id": 1486,
+      "name": "Przedsionek Mglistej Groty"
+    },
+    {
+      "id": 1485,
+      "name": "Oślizgłe Przejście - sala 1"
+    },
+    {
+      "id": 1484,
+      "name": "Oślizgłe Przejście - sala 2"
+    },
+    {
+      "id": 1483,
+      "name": "Dom Flarencji p.1"
+    },
+    {
+      "id": 1482,
+      "name": "Dom Flarencji"
+    },
+    {
+      "id": 1481,
+      "name": "Grota Błotnej Magii"
+    },
+    {
+      "id": 1480,
+      "name": "Grota Porośniętych Stalagmitów - sala główna"
+    },
+    {
+      "id": 1479,
+      "name": "Grota Porośniętych Stalagmitów - przejście"
+    },
+    {
+      "id": 1478,
+      "name": "Grota Porośniętych Stalagmitów - sala wyjściowa"
+    },
+    {
+      "id": 1477,
+      "name": "Jaszczurza Nora"
+    },
+    {
+      "id": 1476,
+      "name": "Mechata Jama p.1 - sala 2"
+    },
+    {
+      "id": 1475,
+      "name": "Mechata Jama p.2"
+    },
+    {
+      "id": 1474,
+      "name": "Mechata Jama p.1 - sala 1"
+    },
+    {
+      "id": 1473,
+      "name": "Siedziba Kapitana Portu"
+    },
+    {
+      "id": 1472,
+      "name": "Kapitanat Portu"
+    },
+    {
+      "id": 1471,
+      "name": "Opuszczona chata"
+    },
+    {
+      "id": 1470,
+      "name": "Błotna Grota p.2"
+    },
+    {
+      "id": 1469,
+      "name": "Błotna Grota p.1"
+    },
+    {
+      "id": 1468,
+      "name": "Grota Jaszczurzej Łuski"
+    },
+    {
+      "id": 1467,
+      "name": "Jaszczurze Korytarze p.1"
+    },
+    {
+      "id": 1466,
+      "name": "Jaszczurze Korytarze p.2"
+    },
+    {
+      "id": 1465,
+      "name": "Jaszczurze Korytarze p.3 - sala 1"
+    },
+    {
+      "id": 1464,
+      "name": "Jaszczurze Korytarze p.3 - sala 2"
+    },
+    {
+      "id": 1463,
+      "name": "Jaszczurze Korytarze p.3 - sala 3"
+    },
+    {
+      "id": 1462,
+      "name": "Jaszczurze Korytarze p.4 - sala 3"
+    },
+    {
+      "id": 1461,
+      "name": "Jaszczurze Korytarze p.4 - sala 2"
+    },
+    {
+      "id": 1460,
+      "name": "Jaszczurze Korytarze p.4 - sala 1"
+    },
+    {
+      "id": 1459,
+      "name": "Jaszczurze Korytarze p.5"
+    },
+    {
+      "id": 1458,
+      "name": "Mglisty Las"
+    },
+    {
+      "id": 1455,
+      "name": "Dom szkutnika Verne - piwnica"
+    },
+    {
+      "id": 1454,
+      "name": "Dom szkutnika Verne p.1"
+    },
+    {
+      "id": 1453,
+      "name": "Dom szkutnika Verne"
+    },
+    {
+      "id": 1452,
+      "name": "Mglista Grota - sala wyjściowa"
+    },
+    {
+      "id": 1451,
+      "name": "Mglista Grota p.2"
+    },
+    {
+      "id": 1450,
+      "name": "Mglista Grota p.1 - sala 2"
+    },
+    {
+      "id": 1449,
+      "name": "Skryty Azyl"
+    },
+    {
+      "id": 1448,
+      "name": "Złota Dąbrowa"
+    },
+    {
+      "id": 1447,
+      "name": "Piracka Kryjówka - piwnica"
+    },
+    {
+      "id": 1446,
+      "name": "Piracka Kryjówka"
+    },
+    {
+      "id": 1445,
+      "name": "Mglista Grota p.1 - sala 1"
+    },
+    {
+      "id": 1442,
+      "name": "Arena Gladiatorów"
+    },
+    {
+      "id": 1441,
+      "name": "Dom Mii p.1"
+    },
+    {
+      "id": 1440,
+      "name": "Dom Mii"
+    },
+    {
+      "id": 1439,
+      "name": "Kamienica Wernaidy p.1"
+    },
+    {
+      "id": 1438,
+      "name": "Kamienica Wernaidy"
+    },
+    {
+      "id": 1437,
+      "name": "Dom Klacynii - piwnica"
+    },
+    {
+      "id": 1436,
+      "name": "Dom Klacynii p.1"
+    },
+    {
+      "id": 1435,
+      "name": "Dom Klacynii"
+    },
+    {
+      "id": 1434,
+      "name": "Dom Aurusa p.1"
+    },
+    {
+      "id": 1433,
+      "name": "Dom Aurusa"
+    },
+    {
+      "id": 1430,
+      "name": "Dom Krosnego p.1"
+    },
+    {
+      "id": 1429,
+      "name": "Dom Krosnego"
+    },
+    {
+      "id": 1428,
+      "name": "Dom Anecji p.1"
+    },
+    {
+      "id": 1427,
+      "name": "Dom Anecji"
+    },
+    {
+      "id": 1423,
+      "name": "Gildia Kupiecka - piwnica"
+    },
+    {
+      "id": 1422,
+      "name": "Gildia Kupiecka p.1"
+    },
+    {
+      "id": 1421,
+      "name": "Gildia Kupiecka"
+    },
+    {
+      "id": 1417,
+      "name": "Chata Ficjusza"
+    },
+    {
+      "id": 1416,
+      "name": "Dom rybaka Yarte - piwnica"
+    },
+    {
+      "id": 1415,
+      "name": "Dom rybaka Yarte"
+    },
+    {
+      "id": 1414,
+      "name": "Siedziba Straży Portowej p.1"
+    },
+    {
+      "id": 1413,
+      "name": "Siedziba Straży Portowej"
+    },
+    {
+      "id": 1412,
+      "name": "Siedziba Straży Portowej - zbrojownia"
+    },
+    {
+      "id": 1411,
+      "name": "Dom kaletnika Jędrzeja - piwnica"
+    },
+    {
+      "id": 1410,
+      "name": "Dom kaletnika Jędrzeja p.1"
+    },
+    {
+      "id": 1409,
+      "name": "Dom kaletnika Jędrzeja"
+    },
+    {
+      "id": 1408,
+      "name": "Dom Jankerta - piwnica"
+    },
+    {
+      "id": 1407,
+      "name": "Dom Samiry - piwnica"
+    },
+    {
+      "id": 1406,
+      "name": "Dom Samiry p.1"
+    },
+    {
+      "id": 1405,
+      "name": "Dom Samiry"
+    },
+    {
+      "id": 1404,
+      "name": "Pokój 206"
+    },
+    {
+      "id": 1403,
+      "name": "Pokój 205"
+    },
+    {
+      "id": 1402,
+      "name": "Pokój 204"
+    },
+    {
+      "id": 1401,
+      "name": "Pokój 103"
+    },
+    {
+      "id": 1400,
+      "name": "Pokój 102"
+    },
+    {
+      "id": 1399,
+      "name": "Zawodzące Kaskady"
+    },
+    {
+      "id": 1398,
+      "name": "Pokój 101"
+    },
+    {
+      "id": 1395,
+      "name": "Stare lokum bandytów p.1"
+    },
+    {
+      "id": 1390,
+      "name": "Stare lokum bandytów"
+    },
+    {
+      "id": 1389,
+      "name": "Tawerna pod Bosmańskim Biczem p.2"
+    },
+    {
+      "id": 1388,
+      "name": "Tawerna pod Bosmańskim Biczem p.1"
+    },
+    {
+      "id": 1387,
+      "name": "Skały Mroźnych Śpiewów"
+    },
+    {
+      "id": 1386,
+      "name": "Dom sir Glusmoronka p.1"
+    },
+    {
+      "id": 1385,
+      "name": "Dom sir Glusmoronka"
+    },
+    {
+      "id": 1384,
+      "name": "Tawerna pod Bosmańskim Biczem - piwnica"
+    },
+    {
+      "id": 1383,
+      "name": "Tawerna pod Bosmańskim Biczem"
+    },
+    {
+      "id": 1382,
+      "name": "Dom Parmina"
+    },
+    {
+      "id": 1381,
+      "name": "Dom Jankerta p.1"
+    },
+    {
+      "id": 1380,
+      "name": "Dom Jankerta"
+    },
+    {
+      "id": 1379,
+      "name": "Magazyn"
+    },
+    {
+      "id": 1378,
+      "name": "Dom Patercji - piwnica"
+    },
+    {
+      "id": 1377,
+      "name": "Dom Patercji p.1"
+    },
+    {
+      "id": 1376,
+      "name": "Dom Patercji"
+    },
+    {
+      "id": 1375,
+      "name": "Dom Gopisa - piwnica"
+    },
+    {
+      "id": 1374,
+      "name": "Dom Gopisa"
+    },
+    {
+      "id": 1373,
+      "name": "Dom Zimpo - strych"
+    },
+    {
+      "id": 1372,
+      "name": "Dom Zimpo"
+    },
+    {
+      "id": 1371,
+      "name": "Sierociniec - kuchnia"
+    },
+    {
+      "id": 1370,
+      "name": "Sierociniec p.1"
+    },
+    {
+      "id": 1369,
+      "name": "Sierociniec"
+    },
+    {
+      "id": 1359,
+      "name": "Rozgrabione Ruiny - wieża"
+    },
+    {
+      "id": 1358,
+      "name": "Przybytek Bogini Wojny"
+    },
+    {
+      "id": 1355,
+      "name": "Grota Samotnych Dusz p.3"
+    },
+    {
+      "id": 1354,
+      "name": "Grota Samotnych Dusz p.2"
+    },
+    {
+      "id": 1353,
+      "name": "Grota Samotnych Dusz p.1"
+    },
+    {
+      "id": 1352,
+      "name": "Piekielna Sala Ognia"
+    },
+    {
+      "id": 1345,
+      "name": "Korsarska Nora - statek"
+    },
+    {
+      "id": 1344,
+      "name": "Korsarska Nora - wschodni przełaz"
+    },
+    {
+      "id": 1343,
+      "name": "Korsarska Nora - zachodni przełaz"
+    },
+    {
+      "id": 1342,
+      "name": "Korsarska Nora - sala 6"
+    },
+    {
+      "id": 1341,
+      "name": "Korsarska Nora - sala 5"
+    },
+    {
+      "id": 1340,
+      "name": "Korsarska Nora - sala 4"
+    },
+    {
+      "id": 1339,
+      "name": "Korsarska Nora - sala 3"
+    },
+    {
+      "id": 1338,
+      "name": "Korsarska Nora - sala 2"
+    },
+    {
+      "id": 1337,
+      "name": "Korsarska Nora - sala 1"
+    },
+    {
+      "id": 1336,
+      "name": "Jaskinia Hoskarii"
+    },
+    {
+      "id": 1335,
+      "name": "Tawerna pod Beczką Śledzi - mieszkanie"
+    },
+    {
+      "id": 1334,
+      "name": "Tawerna pod Beczką Śledzi p.1"
+    },
+    {
+      "id": 1333,
+      "name": "Tawerna pod Beczką Śledzi"
+    },
+    {
+      "id": 1332,
+      "name": "Dom Rajwosa p.1"
+    },
+    {
+      "id": 1331,
+      "name": "Dom Rajwosa"
+    },
+    {
+      "id": 1330,
+      "name": "Dom Hengadze p.1"
+    },
+    {
+      "id": 1329,
+      "name": "Dom Hengadze"
+    },
+    {
+      "id": 1328,
+      "name": "Dom Piwocji - piwnica"
+    },
+    {
+      "id": 1327,
+      "name": "Dom Piwocji p.1"
+    },
+    {
+      "id": 1326,
+      "name": "Dom Piwocji"
+    },
+    {
+      "id": 1325,
+      "name": "Zapomniany Święty Gaj p.3"
+    },
+    {
+      "id": 1324,
+      "name": "Zapomniany Święty Gaj p.2"
+    },
+    {
+      "id": 1323,
+      "name": "Zapomniany Święty Gaj p.1"
+    },
+    {
+      "id": 1322,
+      "name": "Laboratorium Adariel"
+    },
+    {
+      "id": 1320,
+      "name": "Dom Erkora - piwnica"
+    },
+    {
+      "id": 1319,
+      "name": "Dom Erkora p.1"
+    },
+    {
+      "id": 1318,
+      "name": "Dom Erkora"
+    },
+    {
+      "id": 1315,
+      "name": "Lochy Tristam"
+    },
+    {
+      "id": 1314,
+      "name": "Dom Keftii p.1"
+    },
+    {
+      "id": 1313,
+      "name": "Magistrat"
+    },
+    {
+      "id": 1312,
+      "name": "Dom Keftii"
+    },
+    {
+      "id": 1308,
+      "name": "Magazyn mioteł"
+    },
+    {
+      "id": 1307,
+      "name": "Dom czarnej magii"
+    },
+    {
+      "id": 1306,
+      "name": "Dom starej czarownicy"
+    },
+    {
+      "id": 1305,
+      "name": "Dom Adariel"
+    },
+    {
+      "id": 1304,
+      "name": "Dom nawiedzonej wiedźmy"
+    },
+    {
+      "id": 1303,
+      "name": "Dom Amry"
+    },
+    {
+      "id": 1302,
+      "name": "Opuszczone więzienie"
+    },
+    {
+      "id": 1301,
+      "name": "Dom Atalii"
+    },
+    {
+      "id": 1300,
+      "name": "Splugawiona kaplica"
+    },
+    {
+      "id": 1299,
+      "name": "Ograbiona świątynia"
+    },
+    {
+      "id": 1298,
+      "name": "Splądrowana kaplica"
+    },
+    {
+      "id": 1297,
+      "name": "Tristam"
+    },
+    {
+      "id": 1296,
+      "name": "Ognista Studnia p.5"
+    },
+    {
+      "id": 1295,
+      "name": "Ognista Studnia p.6"
+    },
+    {
+      "id": 1294,
+      "name": "Sabatowe Góry"
+    },
+    {
+      "id": 1293,
+      "name": "Upiorna Droga"
+    },
+    {
+      "id": 1292,
+      "name": "Grań Romtyn p.5"
+    },
+    {
+      "id": 1291,
+      "name": "Chodnik Mrinding p.6"
+    },
+    {
+      "id": 1290,
+      "name": "Ochnowa Pieczara p.4 - sala 2"
+    },
+    {
+      "id": 1289,
+      "name": "Podziemne Rozpadliny p.2"
+    },
+    {
+      "id": 1288,
+      "name": "Podziemne Rozpadliny p.3"
+    },
+    {
+      "id": 1287,
+      "name": "Podziemne Rozpadliny p.4"
+    },
+    {
+      "id": 1286,
+      "name": "Podziemne Rozpadliny p.5"
+    },
+    {
+      "id": 1285,
+      "name": "Osada Mulusów"
+    },
+    {
+      "id": 1283,
+      "name": "Dom latarnika p.1"
+    },
+    {
+      "id": 1282,
+      "name": "Dom latarnika"
+    },
+    {
+      "id": 1281,
+      "name": "Magazyn"
+    },
+    {
+      "id": 1280,
+      "name": "Stajnia"
+    },
+    {
+      "id": 1279,
+      "name": "Stodoła"
+    },
+    {
+      "id": 1278,
+      "name": "Dom stajennego p.1"
+    },
+    {
+      "id": 1277,
+      "name": "Dom stajennego"
+    },
+    {
+      "id": 1276,
+      "name": "Kuźnia Worundriela p.7 - sala 4"
+    },
+    {
+      "id": 1275,
+      "name": "Kuźnia Worundriela p.7 - sala 3"
+    },
+    {
+      "id": 1274,
+      "name": "Kuźnia Worundriela p.7 - sala 2"
+    },
+    {
+      "id": 1273,
+      "name": "Kuźnia Worundriela p.7 - sala 1"
+    },
+    {
+      "id": 1272,
+      "name": "Kopalnia Giriel-uzbad p.6"
+    },
+    {
+      "id": 1271,
+      "name": "Kopalnia Giriel-uzbad p.5"
+    },
+    {
+      "id": 1268,
+      "name": "Grota Gerden p.3"
+    },
+    {
+      "id": 1267,
+      "name": "Dzikie Pagórki"
+    },
+    {
+      "id": 1266,
+      "name": "Zacisk p.5"
+    },
+    {
+      "id": 1265,
+      "name": "Zacisk p.6"
+    },
+    {
+      "id": 1264,
+      "name": "Jaskinia Dzikich Kotów"
+    },
+    {
+      "id": 1263,
+      "name": "Tygrysia Polana"
+    },
+    {
+      "id": 1262,
+      "name": "Latarniane Wybrzeże"
+    },
+    {
+      "id": 1261,
+      "name": "Ochnowa Pieczara p.4 - sala 1"
+    },
+    {
+      "id": 1260,
+      "name": "Kopalnia Thudul-ultok p.4 - sala 2"
+    },
+    {
+      "id": 1259,
+      "name": "Kopalnia Thudul-ultok p.4 - sala 1"
+    },
+    {
+      "id": 1258,
+      "name": "Rachminowa Jaskinia p.7 - bezdenna głębia"
+    },
+    {
+      "id": 1256,
+      "name": "Chodniki Erebeth p.4 - sala 2"
+    },
+    {
+      "id": 1255,
+      "name": "Chodniki Erebeth p.4 - sala 1"
+    },
+    {
+      "id": 1254,
+      "name": "Kopalnia Henon-dun p.4"
+    },
+    {
+      "id": 1253,
+      "name": "Wąski chodnik p.4"
+    },
+    {
+      "id": 1252,
+      "name": "Rachminowa Jaskinia p.5"
+    },
+    {
+      "id": 1251,
+      "name": "Rachminowa Jaskinia p.4 - przepaście"
+    },
+    {
+      "id": 1250,
+      "name": "Rachminowa Jaskinia p.4"
+    },
+    {
+      "id": 1249,
+      "name": "Rachminowa Jaskinia p.3"
+    },
+    {
+      "id": 1247,
+      "name": "Chata Króla Rybaka - piwnica"
+    },
+    {
+      "id": 1246,
+      "name": "Chata Króla Rybaka"
+    },
+    {
+      "id": 1245,
+      "name": "Chata Lomalandiego"
+    },
+    {
+      "id": 1244,
+      "name": "Gildia Magów - pokój Olimpiodora"
+    },
+    {
+      "id": 1241,
+      "name": "Gildia Magów - korytarz"
+    },
+    {
+      "id": 1240,
+      "name": "Gildia Magów"
+    },
+    {
+      "id": 1235,
+      "name": "Prochownia"
+    },
+    {
+      "id": 1233,
+      "name": "Wioska Rybacka"
+    },
+    {
+      "id": 1226,
+      "name": "Kuźnia Kendala p.1"
+    },
+    {
+      "id": 1225,
+      "name": "Skład Kendala"
+    },
+    {
+      "id": 1224,
+      "name": "Kuźnia Kendala"
+    },
+    {
+      "id": 1222,
+      "name": "Siedziba goblinów - piwnica"
+    },
+    {
+      "id": 1221,
+      "name": "Siedziba goblinów p.1"
+    },
+    {
+      "id": 1220,
+      "name": "Siedziba goblinów"
+    },
+    {
+      "id": 1219,
+      "name": "Prastara Puszcza"
+    },
+    {
+      "id": 1217,
+      "name": "Pokład Szarej Mewy"
+    },
+    {
+      "id": 1215,
+      "name": "Siedziba Straży Bramy p.1"
+    },
+    {
+      "id": 1214,
+      "name": "Siedziba Straży Bramy - loch"
+    },
+    {
+      "id": 1213,
+      "name": "Siedziba Straży Bramy"
+    },
+    {
+      "id": 1212,
+      "name": "Magazyn rodziny Balko"
+    },
+    {
+      "id": 1211,
+      "name": "Gospodarstwo Balko - piwnica"
+    },
+    {
+      "id": 1210,
+      "name": "Gospodarstwo Balko"
+    },
+    {
+      "id": 1209,
+      "name": "Dom Cynamonii"
+    },
+    {
+      "id": 1208,
+      "name": "Gospodarstwo Erdy p.1"
+    },
+    {
+      "id": 1207,
+      "name": "Gospodarstwo Erdy"
+    },
+    {
+      "id": 1206,
+      "name": "Dom Namianaszi p.1"
+    },
+    {
+      "id": 1205,
+      "name": "Dom Namianaszi"
+    },
+    {
+      "id": 1204,
+      "name": "Firnowa Grota p.2"
+    },
+    {
+      "id": 1203,
+      "name": "Magazyn rybny"
+    },
+    {
+      "id": 1202,
+      "name": "Wiedźmie Kotłowisko"
+    },
+    {
+      "id": 1201,
+      "name": "Porzucone laboratorium"
+    },
+    {
+      "id": 1200,
+      "name": "Kanciapa woźnego"
+    },
+    {
+      "id": 1199,
+      "name": "Szkolna biblioteka"
+    },
+    {
+      "id": 1197,
+      "name": "Szkoła - piwnica"
+    },
+    {
+      "id": 1193,
+      "name": "Firnowa Grota p.1"
+    },
+    {
+      "id": 1192,
+      "name": "Zasypane Ograbar-dun"
+    },
+    {
+      "id": 1191,
+      "name": "Magazyn Orfelii"
+    },
+    {
+      "id": 1190,
+      "name": "Dom Orfelii p.1"
+    },
+    {
+      "id": 1189,
+      "name": "Dom Orfelii"
+    },
+    {
+      "id": 1188,
+      "name": "Dom Alfreda p.1"
+    },
+    {
+      "id": 1187,
+      "name": "Dom Alfreda"
+    },
+    {
+      "id": 1186,
+      "name": "Magazyn z rybami Alfreda"
+    },
+    {
+      "id": 1185,
+      "name": "Dom Alfreda - piwnica"
+    },
+    {
+      "id": 1184,
+      "name": "Pracownia krawiecka Sericji i Callusa"
+    },
+    {
+      "id": 1183,
+      "name": "Pracownia krawiecka Sericji i Callusa p.1"
+    },
+    {
+      "id": 1182,
+      "name": "Dom Sericji i Callusa p.1"
+    },
+    {
+      "id": 1181,
+      "name": "Dom Sericji i Callusa"
+    },
+    {
+      "id": 1180,
+      "name": "Dom Sinis"
+    },
+    {
+      "id": 1179,
+      "name": "Dom Sinis p.1"
+    },
+    {
+      "id": 1178,
+      "name": "Magazyn Trosa"
+    },
+    {
+      "id": 1177,
+      "name": "Dom Trosa i Idai - piwnica"
+    },
+    {
+      "id": 1176,
+      "name": "Dom Trosa i Idai p.1"
+    },
+    {
+      "id": 1175,
+      "name": "Dom Trosa i Idai"
+    },
+    {
+      "id": 1174,
+      "name": "Dom Dereka i Karapo - piwnica"
+    },
+    {
+      "id": 1173,
+      "name": "Dom Dereka i Karapo p.1"
+    },
+    {
+      "id": 1172,
+      "name": "Dom Dereka i Karapo"
+    },
+    {
+      "id": 1166,
+      "name": "Kamienica Newalda"
+    },
+    {
+      "id": 1158,
+      "name": "Gildia Kupców p.1"
+    },
+    {
+      "id": 1157,
+      "name": "Gildia Kupców"
+    },
+    {
+      "id": 1156,
+      "name": "Kamienica Kleofasa p.1"
+    },
+    {
+      "id": 1155,
+      "name": "Kamienica Kleofasa"
+    },
+    {
+      "id": 1154,
+      "name": "Stare Sioło"
+    },
+    {
+      "id": 1153,
+      "name": "Kamienna Strażnica - zach. baszta p.2"
+    },
+    {
+      "id": 1152,
+      "name": "Kamienna Strażnica - zach. baszta p.1"
+    },
+    {
+      "id": 1151,
+      "name": "Kamienna Strażnica - Sanktuarium"
+    },
+    {
+      "id": 1150,
+      "name": "Kamienna Strażnica - Sala Chwały"
+    },
+    {
+      "id": 1149,
+      "name": "Kamienna Strażnica - tunel"
+    },
+    {
+      "id": 1148,
+      "name": "Kamienna Strażnica - wsch. baszta skalna sala p.0"
+    },
+    {
+      "id": 1147,
+      "name": "Kamienna Strażnica - wsch. baszta zasypany tunel"
+    },
+    {
+      "id": 1146,
+      "name": "Kamienna Strażnica - wsch. baszta skalna sala p.1"
+    },
+    {
+      "id": 1145,
+      "name": "Kamienna Strażnica - wsch. baszta p.1"
+    },
+    {
+      "id": 1144,
+      "name": "Kamienna Strażnica - wsch. baszta p.2"
+    },
+    {
+      "id": 1142,
+      "name": "Arachnitopia p.5"
+    },
+    {
+      "id": 1141,
+      "name": "Trupia Przełęcz"
+    },
+    {
+      "id": 1140,
+      "name": "Arachnitopia p.4"
+    },
+    {
+      "id": 1139,
+      "name": "Zakon Białej Lilii - katakumby"
+    },
+    {
+      "id": 1138,
+      "name": "Arachnitopia p.3"
+    },
+    {
+      "id": 1137,
+      "name": "Księżycowe Wzniesienie"
+    },
+    {
+      "id": 1136,
+      "name": "Arachnitopia p.2"
+    },
+    {
+      "id": 1132,
+      "name": "Arachnitopia p.1"
+    },
+    {
+      "id": 1131,
+      "name": "Pajęczy Las"
+    },
+    {
+      "id": 1130,
+      "name": "Jaskinia Lodowego Czaru"
+    },
+    {
+      "id": 1126,
+      "name": "MAPKI EVENTOWE"
+    },
+    {
+      "id": 1125,
+      "name": "Sklep z winem - piwnica p.2"
+    },
+    {
+      "id": 1124,
+      "name": "Sklep z winem - piwnica p.1"
+    },
+    {
+      "id": 1123,
+      "name": "Sklep z winem"
+    },
+    {
+      "id": 1122,
+      "name": "Dom Rumiry i Dobromira - piwnica"
+    },
+    {
+      "id": 1121,
+      "name": "Dom Rumiry i Dobromira p.1"
+    },
+    {
+      "id": 1120,
+      "name": "Dom Rumiry i Dobromira"
+    },
+    {
+      "id": 1119,
+      "name": "Dom Wazira - piwnica"
+    },
+    {
+      "id": 1118,
+      "name": "Dom Wazira p.1"
+    },
+    {
+      "id": 1117,
+      "name": "Dom Wazira"
+    },
+    {
+      "id": 1116,
+      "name": "Głuchy Las"
+    },
+    {
+      "id": 1115,
+      "name": "Rozległa Równina"
+    },
+    {
+      "id": 1111,
+      "name": "Zapomniany Las"
+    },
+    {
+      "id": 1110,
+      "name": "Podmokła Grota - sala 2"
+    },
+    {
+      "id": 1109,
+      "name": "Podmokła Grota - sala 1"
+    },
+    {
+      "id": 1108,
+      "name": "Leśna Przełęcz"
+    },
+    {
+      "id": 1099,
+      "name": "Kaplica Światłości"
+    },
+    {
+      "id": 1096,
+      "name": "Chata Fanii i Arheniusa"
+    },
+    {
+      "id": 1095,
+      "name": "Chata Multinii i Szeptusa"
+    },
+    {
+      "id": 1092,
+      "name": "Domek Enyi"
+    },
+    {
+      "id": 1091,
+      "name": "Chata Letanii i Flaviusa"
+    },
+    {
+      "id": 1090,
+      "name": "Wóz Ksenii i Brunona"
+    },
+    {
+      "id": 1084,
+      "name": "Święty Zagajnik"
+    },
+    {
+      "id": 1082,
+      "name": "Wóz Alizy i Thorna"
+    },
+    {
+      "id": 1071,
+      "name": "Wóz kapeli"
+    },
+    {
+      "id": 1069,
+      "name": "Ratusz Thuzal - sala dzwonów"
+    },
+    {
+      "id": 1068,
+      "name": "Ratusz Thuzal - sala bankietowa"
+    },
+    {
+      "id": 1067,
+      "name": "Ratusz Thuzal"
+    },
+    {
+      "id": 1066,
+      "name": "Wóz starego Fonsa i Perhany"
+    },
+    {
+      "id": 1064,
+      "name": "Wóz Vadomy"
+    },
+    {
+      "id": 1062,
+      "name": "Wilczy Szpic"
+    },
+    {
+      "id": 1060,
+      "name": "Kryjówka Dzikich Kotów"
+    },
+    {
+      "id": 1058,
+      "name": "Ustronie Widzących Drzew"
+    },
+    {
+      "id": 1057,
+      "name": "Skalista Wyżyna"
+    },
+    {
+      "id": 1054,
+      "name": "Przejście astronoma"
+    },
+    {
+      "id": 1051,
+      "name": "Grota pod Basztą"
+    },
+    {
+      "id": 1049,
+      "name": "Baszta"
+    },
+    {
+      "id": 1048,
+      "name": "Baszta p.1"
+    },
+    {
+      "id": 1047,
+      "name": "Baszta p.2"
+    },
+    {
+      "id": 1045,
+      "name": "Apartament 305"
+    },
+    {
+      "id": 1044,
+      "name": "Apartament 309"
+    },
+    {
+      "id": 1043,
+      "name": "Apartament 307"
+    },
+    {
+      "id": 1041,
+      "name": "Apartament 302"
+    },
+    {
+      "id": 1040,
+      "name": "Apartament 205"
+    },
+    {
+      "id": 1039,
+      "name": "Apartament 202"
+    },
+    {
+      "id": 1038,
+      "name": "Apartament 101"
+    },
+    {
+      "id": 1037,
+      "name": "Komnata 113"
+    },
+    {
+      "id": 1036,
+      "name": "Komnata 112"
+    },
+    {
+      "id": 1035,
+      "name": "Komnata 111"
+    },
+    {
+      "id": 1034,
+      "name": "Komnata 106"
+    },
+    {
+      "id": 1033,
+      "name": "Komnata 105"
+    },
+    {
+      "id": 1032,
+      "name": "Komnata 104"
+    },
+    {
+      "id": 1026,
+      "name": "Magazyn win p.1"
+    },
+    {
+      "id": 1025,
+      "name": "Ratusz Nithal - gabinet burmistrza"
+    },
+    {
+      "id": 1024,
+      "name": "Ratusz Nithal - skarbiec"
+    },
+    {
+      "id": 1023,
+      "name": "Ratusz Nithal - muzeum p.2"
+    },
+    {
+      "id": 1022,
+      "name": "Ratusz Nithal - muzeum p.1"
+    },
+    {
+      "id": 1021,
+      "name": "Ratusz Nithal"
+    },
+    {
+      "id": 1020,
+      "name": "Izba 25"
+    },
+    {
+      "id": 1019,
+      "name": "Pokój 20"
+    },
+    {
+      "id": 1018,
+      "name": "Pokój 19"
+    },
+    {
+      "id": 1017,
+      "name": "Pokój 18"
+    },
+    {
+      "id": 1016,
+      "name": "Pokój 17"
+    },
+    {
+      "id": 1015,
+      "name": "Pokój 16"
+    },
+    {
+      "id": 1014,
+      "name": "Pokój 15"
+    },
+    {
+      "id": 1013,
+      "name": "Pokój 14"
+    },
+    {
+      "id": 1012,
+      "name": "Pokój 13"
+    },
+    {
+      "id": 1011,
+      "name": "Pokój 12"
+    },
+    {
+      "id": 1010,
+      "name": "Pokój 11"
+    },
+    {
+      "id": 1009,
+      "name": "Pokój 10"
+    },
+    {
+      "id": 1008,
+      "name": "Zajazd pod Tęczowym Żukiem p.2"
+    },
+    {
+      "id": 1007,
+      "name": "Pokój 9"
+    },
+    {
+      "id": 1006,
+      "name": "Pokój 8"
+    },
+    {
+      "id": 1005,
+      "name": "Pokój 7"
+    },
+    {
+      "id": 1004,
+      "name": "Pokój 6"
+    },
+    {
+      "id": 1003,
+      "name": "Pokój 5"
+    },
+    {
+      "id": 1002,
+      "name": "Pokój 4"
+    },
+    {
+      "id": 1001,
+      "name": "Pokój 3"
+    },
+    {
+      "id": 1000,
+      "name": "Pokój 2"
+    },
+    {
+      "id": 999,
+      "name": "Pokój 1"
+    },
+    {
+      "id": 997,
+      "name": "Izba 24"
+    },
+    {
+      "id": 996,
+      "name": "Izba 23"
+    },
+    {
+      "id": 995,
+      "name": "Izba 22"
+    },
+    {
+      "id": 994,
+      "name": "Izba 21"
+    },
+    {
+      "id": 993,
+      "name": "Izba 20"
+    },
+    {
+      "id": 992,
+      "name": "Izba 19"
+    },
+    {
+      "id": 991,
+      "name": "Izba 18"
+    },
+    {
+      "id": 990,
+      "name": "Izba 17"
+    },
+    {
+      "id": 989,
+      "name": "Izba 16"
+    },
+    {
+      "id": 988,
+      "name": "Izba 15"
+    },
+    {
+      "id": 987,
+      "name": "Izba 14"
+    },
+    {
+      "id": 986,
+      "name": "Izba 13"
+    },
+    {
+      "id": 985,
+      "name": "Izba 12"
+    },
+    {
+      "id": 984,
+      "name": "Izba 11"
+    },
+    {
+      "id": 983,
+      "name": "Izba 6"
+    },
+    {
+      "id": 982,
+      "name": "Izba 5"
+    },
+    {
+      "id": 981,
+      "name": "Knajpa pod Czarnym Tulipanem p.2 - arena"
+    },
+    {
+      "id": 980,
+      "name": "Knajpa pod Czarnym Tulipanem p.2"
+    },
+    {
+      "id": 979,
+      "name": "Kanały Nithal"
+    },
+    {
+      "id": 978,
+      "name": "Zejście do kanałów"
+    },
+    {
+      "id": 972,
+      "name": "Szlamowe Kanały"
+    },
+    {
+      "id": 970,
+      "name": "Wilcza Grota"
+    },
+    {
+      "id": 967,
+      "name": "Szkoła"
+    },
+    {
+      "id": 966,
+      "name": "Zewnętrzne mury Nithal"
+    },
+    {
+      "id": 965,
+      "name": "Mury Nithal - Baszta Koronna"
+    },
+    {
+      "id": 964,
+      "name": "Mury Nithal - Baszta Trwała"
+    },
+    {
+      "id": 963,
+      "name": "Południowe mury Nithal - część zachodnia"
+    },
+    {
+      "id": 962,
+      "name": "Południowe mury Nithal - część wschodnia"
+    },
+    {
+      "id": 961,
+      "name": "Mury Nithal - Baszta Kolcza"
+    },
+    {
+      "id": 960,
+      "name": "Wschodnie mury Nithal"
+    },
+    {
+      "id": 959,
+      "name": "Mury Nithal - Baszta Ogniowa"
+    },
+    {
+      "id": 958,
+      "name": "Północne mury Nithal - część wschodnia"
+    },
+    {
+      "id": 957,
+      "name": "Gildia Kupców - piwnica"
+    },
+    {
+      "id": 956,
+      "name": "Gildia Kupców p.2"
+    },
+    {
+      "id": 955,
+      "name": "Gildia Kupców p.1"
+    },
+    {
+      "id": 954,
+      "name": "Gildia Kupców - część wschodnia"
+    },
+    {
+      "id": 953,
+      "name": "Gildia Kupców - część północna"
+    },
+    {
+      "id": 952,
+      "name": "Gildia Kupców - część zachodnia"
+    },
+    {
+      "id": 950,
+      "name": "Apartament 308"
+    },
+    {
+      "id": 949,
+      "name": "Apartament 303"
+    },
+    {
+      "id": 948,
+      "name": "Apartament 306"
+    },
+    {
+      "id": 947,
+      "name": "Apartament 304"
+    },
+    {
+      "id": 946,
+      "name": "Apartament 301"
+    },
+    {
+      "id": 945,
+      "name": "Apartament 300"
+    },
+    {
+      "id": 944,
+      "name": "Apartament 203"
+    },
+    {
+      "id": 943,
+      "name": "Apartament 201"
+    },
+    {
+      "id": 942,
+      "name": "Apartament 204"
+    },
+    {
+      "id": 941,
+      "name": "Apartament 200"
+    },
+    {
+      "id": 940,
+      "name": "Apartament 100"
+    },
+    {
+      "id": 939,
+      "name": "Komnata 110"
+    },
+    {
+      "id": 938,
+      "name": "Komnata 109"
+    },
+    {
+      "id": 937,
+      "name": "Komnata 108"
+    },
+    {
+      "id": 936,
+      "name": "Komnata 103"
+    },
+    {
+      "id": 935,
+      "name": "Komnata 102"
+    },
+    {
+      "id": 934,
+      "name": "Komnata 101"
+    },
+    {
+      "id": 933,
+      "name": "Komnata 107"
+    },
+    {
+      "id": 932,
+      "name": "Komnata 100"
+    },
+    {
+      "id": 931,
+      "name": "Zajazd pod Złamanym Dukatem - piwnica"
+    },
+    {
+      "id": 930,
+      "name": "Zajazd pod Złamanym Dukatem p.3 - część wschodnia"
+    },
+    {
+      "id": 929,
+      "name": "Zajazd pod Złamanym Dukatem p.3 - część zachodnia"
+    },
+    {
+      "id": 928,
+      "name": "Zajazd pod Złamanym Dukatem p.2 - część wschodnia"
+    },
+    {
+      "id": 927,
+      "name": "Zajazd pod Złamanym Dukatem p.2 - część zachodnia"
+    },
+    {
+      "id": 926,
+      "name": "Zajazd pod Złamanym Dukatem p.1"
+    },
+    {
+      "id": 925,
+      "name": "Zajazd pod Złamanym Dukatem - pokój właściciela"
+    },
+    {
+      "id": 924,
+      "name": "Zajazd pod Złamanym Dukatem - kuchnia"
+    },
+    {
+      "id": 923,
+      "name": "Zajazd pod Złamanym Dukatem"
+    },
+    {
+      "id": 921,
+      "name": "Rezydencja Trafalgar - tajemniczy pokój"
+    },
+    {
+      "id": 920,
+      "name": "Rezydencja Trafalgar - piwnica p.2"
+    },
+    {
+      "id": 919,
+      "name": "Rezydencja Trafalgar - piwnica p.1"
+    },
+    {
+      "id": 917,
+      "name": "Rezydencja Trafalgar p.2"
+    },
+    {
+      "id": 916,
+      "name": "Rezydencja Trafalgar p.1"
+    },
+    {
+      "id": 915,
+      "name": "Rezydencja Trafalgar"
+    },
+    {
+      "id": 914,
+      "name": "Wschodnia piwnica świątynna p.3"
+    },
+    {
+      "id": 913,
+      "name": "Wschodnia piwnica świątynna p.2"
+    },
+    {
+      "id": 911,
+      "name": "Wschodnia piwnica świątynna p.1"
+    },
+    {
+      "id": 910,
+      "name": "Zachodnia piwnica świątynna p.2"
+    },
+    {
+      "id": 909,
+      "name": "Zachodnia piwnica świątynna p.1"
+    },
+    {
+      "id": 908,
+      "name": "Świątynia Czterech Bóstw"
+    },
+    {
+      "id": 907,
+      "name": "Uniwersytet płd. - piwnica p.2"
+    },
+    {
+      "id": 906,
+      "name": "Uniwersytet płd. - piwnica p.1"
+    },
+    {
+      "id": 905,
+      "name": "Aula Akademii Filmowej"
+    },
+    {
+      "id": 904,
+      "name": "Uniwersytet płd. - biblioteka manuskryptów"
+    },
+    {
+      "id": 903,
+      "name": "Uniwersytet płd."
+    },
+    {
+      "id": 901,
+      "name": "Ukryty Kanion"
+    },
+    {
+      "id": 900,
+      "name": "Dziki Zagajnik"
+    },
+    {
+      "id": 899,
+      "name": "Uniwersytet płn. p.1 - chemia zaplecze"
+    },
+    {
+      "id": 898,
+      "name": "Uniwersytet płn. - zaplecze"
+    },
+    {
+      "id": 897,
+      "name": "Uniwersytet płn. - piwnica p.2"
+    },
+    {
+      "id": 896,
+      "name": "Uniwersytet płn. - piwnica p.1"
+    },
+    {
+      "id": 895,
+      "name": "Uniwersytet płn. p.3 - prawo"
+    },
+    {
+      "id": 894,
+      "name": "Uniwersytet płn. p.3 - sztuka"
+    },
+    {
+      "id": 893,
+      "name": "Uniwersytet płn. p.2"
+    },
+    {
+      "id": 892,
+      "name": "Uniwersytet płn. p.1 - gabinety"
+    },
+    {
+      "id": 891,
+      "name": "Uniwersytet płn. p.1 - chemia"
+    },
+    {
+      "id": 890,
+      "name": "Uniwersytet płn."
+    },
+    {
+      "id": 886,
+      "name": "Gospodarstwo Łucji i Jana - piwnica piekarni"
+    },
+    {
+      "id": 885,
+      "name": "Gospodarstwo Łucji i Jana - piwnica"
+    },
+    {
+      "id": 884,
+      "name": "Gospodarstwo Łucji i Jana - strych"
+    },
+    {
+      "id": 883,
+      "name": "Gospodarstwo Łucji i Jana p.1 - sypialnia"
+    },
+    {
+      "id": 882,
+      "name": "Gospodarstwo Łucji i Jana p.1"
+    },
+    {
+      "id": 881,
+      "name": "Gospodarstwo Łucji i Jana - piekarnia"
+    },
+    {
+      "id": 880,
+      "name": "Gospodarstwo Łucji i Jana"
+    },
+    {
+      "id": 879,
+      "name": "Zakon Białej Lilii - piwnica"
+    },
+    {
+      "id": 878,
+      "name": "Chlew"
+    },
+    {
+      "id": 877,
+      "name": "Stodoła p.1"
+    },
+    {
+      "id": 876,
+      "name": "Stodoła"
+    },
+    {
+      "id": 875,
+      "name": "Drewutnia"
+    },
+    {
+      "id": 874,
+      "name": "Drewutnia - piwnica"
+    },
+    {
+      "id": 870,
+      "name": "Cytadela - przejście"
+    },
+    {
+      "id": 869,
+      "name": "Cytadela - kuchnia"
+    },
+    {
+      "id": 868,
+      "name": "Cytadela p.3"
+    },
+    {
+      "id": 867,
+      "name": "Cytadela p.2"
+    },
+    {
+      "id": 866,
+      "name": "Cytadela p.1"
+    },
+    {
+      "id": 865,
+      "name": "Cytadela"
+    },
+    {
+      "id": 864,
+      "name": "Akademia wojskowa - piwnica p.2"
+    },
+    {
+      "id": 863,
+      "name": "Akademia wojskowa - piwnica p.1"
+    },
+    {
+      "id": 862,
+      "name": "Akademia wojskowa p.1"
+    },
+    {
+      "id": 861,
+      "name": "Akademia wojskowa - stajnia"
+    },
+    {
+      "id": 860,
+      "name": "Dormitorium - przejście do świątyni"
+    },
+    {
+      "id": 859,
+      "name": "Dormitorium - piwnica p.3"
+    },
+    {
+      "id": 858,
+      "name": "Dormitorium - piwnica p.2"
+    },
+    {
+      "id": 857,
+      "name": "Dormitorium - piwnica p.1"
+    },
+    {
+      "id": 856,
+      "name": "Dormitorium - spiżarnia"
+    },
+    {
+      "id": 855,
+      "name": "Dormitorium - kuchnia"
+    },
+    {
+      "id": 854,
+      "name": "Dormitorium - część westalek p.1"
+    },
+    {
+      "id": 853,
+      "name": "Dormitorium - część westalek"
+    },
+    {
+      "id": 852,
+      "name": "Dormitorium - część akolitów p.1"
+    },
+    {
+      "id": 851,
+      "name": "Dormitorium - część akolitów"
+    },
+    {
+      "id": 850,
+      "name": "Zakon Białej Lilii - siedziba kapłanek"
+    },
+    {
+      "id": 849,
+      "name": "Labirynt Wyklętych p.2 - sala 2"
+    },
+    {
+      "id": 848,
+      "name": "Labirynt Wyklętych p.2 - sala 1"
+    },
+    {
+      "id": 847,
+      "name": "Labirynt Wyklętych p.1"
+    },
+    {
+      "id": 846,
+      "name": "Pieczara Czaszek"
+    },
+    {
+      "id": 845,
+      "name": "Baszta Wilczych Kłów"
+    },
+    {
+      "id": 844,
+      "name": "Dom Chlasta - piwnica"
+    },
+    {
+      "id": 843,
+      "name": "Dom Chlasta p.1"
+    },
+    {
+      "id": 842,
+      "name": "Dom Chlasta"
+    },
+    {
+      "id": 841,
+      "name": "Knajpa pod Czarnym Tulipanem - pokój Lucji"
+    },
+    {
+      "id": 840,
+      "name": "Izba 10"
+    },
+    {
+      "id": 839,
+      "name": "Izba 9"
+    },
+    {
+      "id": 838,
+      "name": "Izba 8"
+    },
+    {
+      "id": 837,
+      "name": "Izba 7"
+    },
+    {
+      "id": 836,
+      "name": "Izba 4"
+    },
+    {
+      "id": 835,
+      "name": "Izba 3"
+    },
+    {
+      "id": 834,
+      "name": "Izba 2"
+    },
+    {
+      "id": 833,
+      "name": "Izba 1"
+    },
+    {
+      "id": 832,
+      "name": "Knajpa pod Czarnym Tulipanem - piwnica p.2"
+    },
+    {
+      "id": 831,
+      "name": "Knajpa pod Czarnym Tulipanem - piwnica p.1"
+    },
+    {
+      "id": 830,
+      "name": "Knajpa pod Czarnym Tulipanem p.1"
+    },
+    {
+      "id": 829,
+      "name": "Knajpa pod Czarnym Tulipanem"
+    },
+    {
+      "id": 828,
+      "name": "Izba chorych - piwniczne przejście - piwnica"
+    },
+    {
+      "id": 827,
+      "name": "Izba chorych - piwniczne przejście"
+    },
+    {
+      "id": 826,
+      "name": "Izba chorych płd. - piwnica p.1"
+    },
+    {
+      "id": 825,
+      "name": "Izba chorych płd. p.2"
+    },
+    {
+      "id": 824,
+      "name": "Izba chorych płd. p.1"
+    },
+    {
+      "id": 823,
+      "name": "Izba chorych płd."
+    },
+    {
+      "id": 822,
+      "name": "Izba chorych płn. - piwnica p.3"
+    },
+    {
+      "id": 821,
+      "name": "Izba chorych płn. - piwnica p.2"
+    },
+    {
+      "id": 820,
+      "name": "Izba chorych płn. - piwnica p.1"
+    },
+    {
+      "id": 819,
+      "name": "Izba chorych płn. p.2"
+    },
+    {
+      "id": 818,
+      "name": "Izba chorych płn. p.1"
+    },
+    {
+      "id": 817,
+      "name": "Izba chorych płn."
+    },
+    {
+      "id": 816,
+      "name": "Lazurytowa Grota p.3 - sala 2"
+    },
+    {
+      "id": 815,
+      "name": "Lazurytowa Grota p.2"
+    },
+    {
+      "id": 814,
+      "name": "Lazurytowa Grota p.1"
+    },
+    {
+      "id": 813,
+      "name": "Kamienica Pireza - gołębnik"
+    },
+    {
+      "id": 812,
+      "name": "Kamienica Pireza p.2"
+    },
+    {
+      "id": 811,
+      "name": "Kamienica Pireza p.1"
+    },
+    {
+      "id": 810,
+      "name": "Kamienica Pireza"
+    },
+    {
+      "id": 809,
+      "name": "Kopalnia Krynii Lufis"
+    },
+    {
+      "id": 808,
+      "name": "Kamienica Krynii Lufis - piwnica p.3"
+    },
+    {
+      "id": 807,
+      "name": "Kamienica Krynii Lufis - piwnica p.2"
+    },
+    {
+      "id": 806,
+      "name": "Kamienica Krynii Lufis - piwnica p.1"
+    },
+    {
+      "id": 805,
+      "name": "Kamienica Krynii Lufis p.3"
+    },
+    {
+      "id": 804,
+      "name": "Kamienica Krynii Lufis p.2"
+    },
+    {
+      "id": 803,
+      "name": "Kamienica Krynii Lufis p.1"
+    },
+    {
+      "id": 802,
+      "name": "Kamienica Krynii Lufis"
+    },
+    {
+      "id": 800,
+      "name": "Kamienica Cecylii - pokój Elizki"
+    },
+    {
+      "id": 799,
+      "name": "Kamienica Cecylii p.3"
+    },
+    {
+      "id": 798,
+      "name": "Kamienica Cecylii p.2"
+    },
+    {
+      "id": 797,
+      "name": "Kamienica Cecylii p.1"
+    },
+    {
+      "id": 796,
+      "name": "Kamienica Cecylii"
+    },
+    {
+      "id": 795,
+      "name": "Kamienica Nandraroka - piwnica p.2"
+    },
+    {
+      "id": 794,
+      "name": "Kamienica Nandraroka - piwnica p.1"
+    },
+    {
+      "id": 793,
+      "name": "Kamienica Nandraroka p.2"
+    },
+    {
+      "id": 792,
+      "name": "Kamienica Nandraroka p.1"
+    },
+    {
+      "id": 791,
+      "name": "Kamienica Nandraroka"
+    },
+    {
+      "id": 790,
+      "name": "Dom Rezarda - piwnica p.3"
+    },
+    {
+      "id": 789,
+      "name": "Dom Rezarda - piwnica p.2"
+    },
+    {
+      "id": 788,
+      "name": "Dom Rezarda - piwnica p.1"
+    },
+    {
+      "id": 787,
+      "name": "Dom Rezarda - biblioteka"
+    },
+    {
+      "id": 786,
+      "name": "Dom Rezarda - kuchnia"
+    },
+    {
+      "id": 785,
+      "name": "Dom Rezarda"
+    },
+    {
+      "id": 784,
+      "name": "Kamienica Rewii - piwnica"
+    },
+    {
+      "id": 783,
+      "name": "Kamienica Rewii p.1"
+    },
+    {
+      "id": 782,
+      "name": "Kamienica Rewii"
+    },
+    {
+      "id": 781,
+      "name": "Kwatera żołnierska - piwnica"
+    },
+    {
+      "id": 780,
+      "name": "Kwatera żołnierska p.1"
+    },
+    {
+      "id": 779,
+      "name": "Kwatera żołnierska"
+    },
+    {
+      "id": 778,
+      "name": "Kwatera żołnierska - piwnica"
+    },
+    {
+      "id": 777,
+      "name": "Kwatera żołnierska p.2"
+    },
+    {
+      "id": 776,
+      "name": "Kwatera żołnierska p.1"
+    },
+    {
+      "id": 775,
+      "name": "Kwatera żołnierska"
+    },
+    {
+      "id": 774,
+      "name": "Kwatera żołnierska - piwnica p.2"
+    },
+    {
+      "id": 773,
+      "name": "Kwatera żołnierska - piwnica p.1"
+    },
+    {
+      "id": 772,
+      "name": "Kwatera żołnierska p.2"
+    },
+    {
+      "id": 771,
+      "name": "Kwatera żołnierska p.1"
+    },
+    {
+      "id": 770,
+      "name": "Kwatera żołnierska"
+    },
+    {
+      "id": 768,
+      "name": "Kamienica Lukrecji p.1"
+    },
+    {
+      "id": 767,
+      "name": "Kamienica Lukrecji"
+    },
+    {
+      "id": 766,
+      "name": "Ratusz Ithan p.1"
+    },
+    {
+      "id": 765,
+      "name": "Ratusz Ithan - skarbiec"
+    },
+    {
+      "id": 764,
+      "name": "Kamienica Tanenbara - piwnica"
+    },
+    {
+      "id": 763,
+      "name": "Kamienica Tanenbara p.2"
+    },
+    {
+      "id": 762,
+      "name": "Kamienica Tanenbara p.1"
+    },
+    {
+      "id": 761,
+      "name": "Kamienica Tanenbara"
+    },
+    {
+      "id": 760,
+      "name": "Kamienica Uliany i Arsena - piwnica p.2"
+    },
+    {
+      "id": 758,
+      "name": "Kamienica Miona p.2"
+    },
+    {
+      "id": 757,
+      "name": "Kamienica Miona p.1"
+    },
+    {
+      "id": 756,
+      "name": "Kamienica Miona"
+    },
+    {
+      "id": 755,
+      "name": "Kamienica Broka - piwnica"
+    },
+    {
+      "id": 754,
+      "name": "Kamienica Broka - strych"
+    },
+    {
+      "id": 753,
+      "name": "Kamienica Broka p.2"
+    },
+    {
+      "id": 752,
+      "name": "Kamienica Broka p.1"
+    },
+    {
+      "id": 751,
+      "name": "Kamienica Broka"
+    },
+    {
+      "id": 750,
+      "name": "Kamienica Tamena - piwnica"
+    },
+    {
+      "id": 749,
+      "name": "Kamienica Tamena p.2"
+    },
+    {
+      "id": 748,
+      "name": "Kamienica Tamena p.1"
+    },
+    {
+      "id": 747,
+      "name": "Kamienica Tamena"
+    },
+    {
+      "id": 745,
+      "name": "Kamienica Nitrusa p.2"
+    },
+    {
+      "id": 744,
+      "name": "Kamienica Nitrusa p.1"
+    },
+    {
+      "id": 743,
+      "name": "Kamienica Nitrusa"
+    },
+    {
+      "id": 742,
+      "name": "Kamienica Prokusi p.2"
+    },
+    {
+      "id": 741,
+      "name": "Kamienica Prokusi p.1"
+    },
+    {
+      "id": 740,
+      "name": "Kamienica Prokusi"
+    },
+    {
+      "id": 739,
+      "name": "Kamienica Andronikusa - strych"
+    },
+    {
+      "id": 738,
+      "name": "Kamienica Andronikusa p.1"
+    },
+    {
+      "id": 737,
+      "name": "Kamienica Andronikusa"
+    },
+    {
+      "id": 736,
+      "name": "Kamienica Eklektusa - strych"
+    },
+    {
+      "id": 735,
+      "name": "Kamienica Eklektusa p.2"
+    },
+    {
+      "id": 734,
+      "name": "Kamienica Eklektusa p.1"
+    },
+    {
+      "id": 733,
+      "name": "Kamienica Eklektusa"
+    },
+    {
+      "id": 732,
+      "name": "Zajazd pod Tęczowym Żukiem p.1"
+    },
+    {
+      "id": 731,
+      "name": "Winnica Meflakasti"
+    },
+    {
+      "id": 730,
+      "name": "Zachodnia Rubież"
+    },
+    {
+      "id": 727,
+      "name": "Podmokła Dolina"
+    },
+    {
+      "id": 726,
+      "name": "Morwowe Przejście"
+    },
+    {
+      "id": 725,
+      "name": "Las Goblinów"
+    },
+    {
+      "id": 721,
+      "name": "Wieża Zachodnia"
+    },
+    {
+      "id": 720,
+      "name": "Wieża Wschodnia"
+    },
+    {
+      "id": 719,
+      "name": "Wieża Strażnicza"
+    },
+    {
+      "id": 718,
+      "name": "Mały Barak"
+    },
+    {
+      "id": 717,
+      "name": "Mała Twierdza p.1"
+    },
+    {
+      "id": 716,
+      "name": "Mała Twierdza - sala główna"
+    },
+    {
+      "id": 715,
+      "name": "Mała Twierdza - sala wejściowa"
+    },
+    {
+      "id": 713,
+      "name": "Kamienica Uliany i Arsena - piwnica p.1"
+    },
+    {
+      "id": 712,
+      "name": "Opuszczona Twierdza"
+    },
+    {
+      "id": 711,
+      "name": "Arachnidowa Grota p.3"
+    },
+    {
+      "id": 710,
+      "name": "Arachnidowa Grota p.2"
+    },
+    {
+      "id": 709,
+      "name": "Arachnidowa Grota p.1"
+    },
+    {
+      "id": 708,
+      "name": "Zaginiona Dolina"
+    },
+    {
+      "id": 707,
+      "name": "Ruiny Szabrowników"
+    },
+    {
+      "id": 705,
+      "name": "Zapomniany Grobowiec p.5"
+    },
+    {
+      "id": 704,
+      "name": "Zapomniany Grobowiec p.4"
+    },
+    {
+      "id": 703,
+      "name": "Zapomniany Grobowiec p.3"
+    },
+    {
+      "id": 702,
+      "name": "Zapomniany Grobowiec p.2"
+    },
+    {
+      "id": 701,
+      "name": "Sosnowe Odludzie"
+    },
+    {
+      "id": 700,
+      "name": "Pokój 226"
+    },
+    {
+      "id": 699,
+      "name": "Pokój 225"
+    },
+    {
+      "id": 698,
+      "name": "Pokój 224"
+    },
+    {
+      "id": 697,
+      "name": "Pokój 223"
+    },
+    {
+      "id": 696,
+      "name": "Pokój 222"
+    },
+    {
+      "id": 695,
+      "name": "Pokój 221"
+    },
+    {
+      "id": 694,
+      "name": "Pokój 220"
+    },
+    {
+      "id": 693,
+      "name": "Pokój 219"
+    },
+    {
+      "id": 692,
+      "name": "Pokój 218"
+    },
+    {
+      "id": 691,
+      "name": "Pokój 217"
+    },
+    {
+      "id": 690,
+      "name": "Pokój 216"
+    },
+    {
+      "id": 689,
+      "name": "Pokój 215"
+    },
+    {
+      "id": 688,
+      "name": "Pokój 213"
+    },
+    {
+      "id": 687,
+      "name": "Pokój 212"
+    },
+    {
+      "id": 686,
+      "name": "Pokój 211"
+    },
+    {
+      "id": 685,
+      "name": "Pokój 210"
+    },
+    {
+      "id": 684,
+      "name": "Pokój 209"
+    },
+    {
+      "id": 683,
+      "name": "Pokój 208"
+    },
+    {
+      "id": 682,
+      "name": "Pokój 207"
+    },
+    {
+      "id": 681,
+      "name": "Pokój 206"
+    },
+    {
+      "id": 680,
+      "name": "Pokój 205"
+    },
+    {
+      "id": 679,
+      "name": "Pokój 204"
+    },
+    {
+      "id": 678,
+      "name": "Pokój 203"
+    },
+    {
+      "id": 677,
+      "name": "Pokój 202"
+    },
+    {
+      "id": 676,
+      "name": "Pokój 214"
+    },
+    {
+      "id": 675,
+      "name": "Pokój 112"
+    },
+    {
+      "id": 674,
+      "name": "Pokój 124"
+    },
+    {
+      "id": 673,
+      "name": "Pokój 123"
+    },
+    {
+      "id": 672,
+      "name": "Pokój 122"
+    },
+    {
+      "id": 671,
+      "name": "Pokój 121"
+    },
+    {
+      "id": 670,
+      "name": "Pokój 120"
+    },
+    {
+      "id": 669,
+      "name": "Pokój 119"
+    },
+    {
+      "id": 668,
+      "name": "Pokój 118"
+    },
+    {
+      "id": 667,
+      "name": "Pokój 117"
+    },
+    {
+      "id": 666,
+      "name": "Pokój 116"
+    },
+    {
+      "id": 665,
+      "name": "Pokój 115"
+    },
+    {
+      "id": 664,
+      "name": "Pokój 114"
+    },
+    {
+      "id": 663,
+      "name": "Pokój 201"
+    },
+    {
+      "id": 662,
+      "name": "Pokój 111"
+    },
+    {
+      "id": 661,
+      "name": "Pokój 110"
+    },
+    {
+      "id": 660,
+      "name": "Pokój 109"
+    },
+    {
+      "id": 659,
+      "name": "Pokój 108"
+    },
+    {
+      "id": 658,
+      "name": "Pokój 107"
+    },
+    {
+      "id": 657,
+      "name": "Pokój 106"
+    },
+    {
+      "id": 656,
+      "name": "Pokój 105"
+    },
+    {
+      "id": 655,
+      "name": "Pokój 104"
+    },
+    {
+      "id": 654,
+      "name": "Pokój 103"
+    },
+    {
+      "id": 653,
+      "name": "Pokój 102"
+    },
+    {
+      "id": 652,
+      "name": "Pokój 113"
+    },
+    {
+      "id": 651,
+      "name": "Pokój 12"
+    },
+    {
+      "id": 650,
+      "name": "Pokój 11"
+    },
+    {
+      "id": 649,
+      "name": "Pokój 10"
+    },
+    {
+      "id": 648,
+      "name": "Pokój 9"
+    },
+    {
+      "id": 647,
+      "name": "Pokój 8"
+    },
+    {
+      "id": 646,
+      "name": "Pokój 7"
+    },
+    {
+      "id": 645,
+      "name": "Pokój 101"
+    },
+    {
+      "id": 644,
+      "name": "Pokój 6"
+    },
+    {
+      "id": 643,
+      "name": "Pokój 5"
+    },
+    {
+      "id": 642,
+      "name": "Pokój 4"
+    },
+    {
+      "id": 641,
+      "name": "Pokój 3"
+    },
+    {
+      "id": 640,
+      "name": "Pokój 2"
+    },
+    {
+      "id": 639,
+      "name": "Pokój 1"
+    },
+    {
+      "id": 638,
+      "name": "Zajazd u Makiny - strych"
+    },
+    {
+      "id": 637,
+      "name": "Zajazd u Makiny p.2"
+    },
+    {
+      "id": 636,
+      "name": "Zajazd u Makiny p.1"
+    },
+    {
+      "id": 635,
+      "name": "Dom Uzdrowień"
+    },
+    {
+      "id": 634,
+      "name": "Przejście Myśliwych p.2"
+    },
+    {
+      "id": 633,
+      "name": "Przejście Myśliwych p.1"
+    },
+    {
+      "id": 632,
+      "name": "Las Tropicieli"
+    },
+    {
+      "id": 631,
+      "name": "Dziewicza Knieja"
+    },
+    {
+      "id": 630,
+      "name": "Port Tuzmer"
+    },
+    {
+      "id": 629,
+      "name": "Mieszkanie właściciela zajazdu p.1"
+    },
+    {
+      "id": 628,
+      "name": "Zajazd pod Tęczowym Żukiem - piwnica"
+    },
+    {
+      "id": 627,
+      "name": "Zajazd pod Tęczowym Żukiem"
+    },
+    {
+      "id": 626,
+      "name": "Kamienica Uliany i Arsena p.2"
+    },
+    {
+      "id": 625,
+      "name": "Kamienica Uliany i Arsena p.1"
+    },
+    {
+      "id": 624,
+      "name": "Kamienica Uliany i Arsena"
+    },
+    {
+      "id": 623,
+      "name": "Dom Almonda p.1"
+    },
+    {
+      "id": 622,
+      "name": "Dom Almonda"
+    },
+    {
+      "id": 620,
+      "name": "Dom Edny - piwnica p.1"
+    },
+    {
+      "id": 619,
+      "name": "Dom Edny"
+    },
+    {
+      "id": 618,
+      "name": "Młyn"
+    },
+    {
+      "id": 617,
+      "name": "Młyn p.1"
+    },
+    {
+      "id": 616,
+      "name": "Młyn p.2"
+    },
+    {
+      "id": 615,
+      "name": "Dom Rózi - piwnica"
+    },
+    {
+      "id": 614,
+      "name": "Dom Rózi p.1"
+    },
+    {
+      "id": 613,
+      "name": "Dom Rózi"
+    },
+    {
+      "id": 612,
+      "name": "Dom Młynarza p.1"
+    },
+    {
+      "id": 611,
+      "name": "Dom Młynarza"
+    },
+    {
+      "id": 610,
+      "name": "Dom Aukcyjny"
+    },
+    {
+      "id": 600,
+      "name": "Nizina Wieśniaków"
+    },
+    {
+      "id": 599,
+      "name": "Bagna Chojraków"
+    },
+    {
+      "id": 598,
+      "name": "Siedlisko Szczurów p.2"
+    },
+    {
+      "id": 597,
+      "name": "Siedlisko Szczurów p.1"
+    },
+    {
+      "id": 595,
+      "name": "Sala Zamarzniętych Kości"
+    },
+    {
+      "id": 594,
+      "name": "Przejście Zamarzniętych Kości"
+    },
+    {
+      "id": 593,
+      "name": "Sala Magicznego Mrozu"
+    },
+    {
+      "id": 592,
+      "name": "Przejście Magicznego Mrozu"
+    },
+    {
+      "id": 591,
+      "name": "Sala Lodowatego Wiatru"
+    },
+    {
+      "id": 590,
+      "name": "Przejście Lodowatego Wiatru"
+    },
+    {
+      "id": 589,
+      "name": "Tuzmer"
+    },
+    {
+      "id": 583,
+      "name": "Grota Malowanej Śmierci"
+    },
+    {
+      "id": 582,
+      "name": "Jaskinia Wilczego Zamętu p.2"
+    },
+    {
+      "id": 581,
+      "name": "Jaskinia Wilczego Zamętu p.1"
+    },
+    {
+      "id": 580,
+      "name": "Grota Dzikiego Kota"
+    },
+    {
+      "id": 576,
+      "name": "Zapomniana Ścieżyna"
+    },
+    {
+      "id": 575,
+      "name": "Podgrodzie Nithal"
+    },
+    {
+      "id": 574,
+      "name": "Nithal"
+    },
+    {
+      "id": 573,
+      "name": "Pokój 213"
+    },
+    {
+      "id": 572,
+      "name": "Pokój 212"
+    },
+    {
+      "id": 571,
+      "name": "Pokój 211"
+    },
+    {
+      "id": 570,
+      "name": "Pokój 210"
+    },
+    {
+      "id": 569,
+      "name": "Pokój 209"
+    },
+    {
+      "id": 568,
+      "name": "Pokój 208"
+    },
+    {
+      "id": 567,
+      "name": "Pokój 207"
+    },
+    {
+      "id": 566,
+      "name": "Pokój 206"
+    },
+    {
+      "id": 565,
+      "name": "Pokój 205"
+    },
+    {
+      "id": 564,
+      "name": "Pokój 204"
+    },
+    {
+      "id": 563,
+      "name": "Pokój 203"
+    },
+    {
+      "id": 562,
+      "name": "Pokój 202"
+    },
+    {
+      "id": 561,
+      "name": "Pokój 201"
+    },
+    {
+      "id": 560,
+      "name": "Apartament 106"
+    },
+    {
+      "id": 559,
+      "name": "Apartament 105"
+    },
+    {
+      "id": 558,
+      "name": "Apartament 104"
+    },
+    {
+      "id": 557,
+      "name": "Apartament 103"
+    },
+    {
+      "id": 556,
+      "name": "Apartament 102"
+    },
+    {
+      "id": 555,
+      "name": "Apartament 101"
+    },
+    {
+      "id": 553,
+      "name": "Zajazd Umbara p.1"
+    },
+    {
+      "id": 549,
+      "name": "Przedsionek Śmierci"
+    },
+    {
+      "id": 548,
+      "name": "Izba 16"
+    },
+    {
+      "id": 547,
+      "name": "Izba 15"
+    },
+    {
+      "id": 546,
+      "name": "Izba 14"
+    },
+    {
+      "id": 545,
+      "name": "Izba 13"
+    },
+    {
+      "id": 544,
+      "name": "Izba 12"
+    },
+    {
+      "id": 543,
+      "name": "Izba 11"
+    },
+    {
+      "id": 542,
+      "name": "Izba 10"
+    },
+    {
+      "id": 541,
+      "name": "Izba 9"
+    },
+    {
+      "id": 540,
+      "name": "Izba 8"
+    },
+    {
+      "id": 539,
+      "name": "Izba 7"
+    },
+    {
+      "id": 538,
+      "name": "Izba 6"
+    },
+    {
+      "id": 537,
+      "name": "Izba 5"
+    },
+    {
+      "id": 536,
+      "name": "Izba 4"
+    },
+    {
+      "id": 535,
+      "name": "Izba 3"
+    },
+    {
+      "id": 534,
+      "name": "Izba 2"
+    },
+    {
+      "id": 533,
+      "name": "Izba 1"
+    },
+    {
+      "id": 532,
+      "name": "Apartament 2"
+    },
+    {
+      "id": 531,
+      "name": "Apartament 1"
+    },
+    {
+      "id": 529,
+      "name": "Apartament 213"
+    },
+    {
+      "id": 528,
+      "name": "Apartament 212"
+    },
+    {
+      "id": 527,
+      "name": "Apartament 211"
+    },
+    {
+      "id": 526,
+      "name": "Apartament 210"
+    },
+    {
+      "id": 525,
+      "name": "Apartament 209"
+    },
+    {
+      "id": 524,
+      "name": "Apartament 208"
+    },
+    {
+      "id": 523,
+      "name": "Apartament 207"
+    },
+    {
+      "id": 522,
+      "name": "Apartament 206"
+    },
+    {
+      "id": 521,
+      "name": "Apartament 205"
+    },
+    {
+      "id": 520,
+      "name": "Apartament 204"
+    },
+    {
+      "id": 519,
+      "name": "Apartament 203"
+    },
+    {
+      "id": 518,
+      "name": "Apartament 202"
+    },
+    {
+      "id": 517,
+      "name": "Apartament 201"
+    },
+    {
+      "id": 516,
+      "name": "Apartament 112"
+    },
+    {
+      "id": 515,
+      "name": "Apartament 111"
+    },
+    {
+      "id": 514,
+      "name": "Apartament 110"
+    },
+    {
+      "id": 513,
+      "name": "Apartament 109"
+    },
+    {
+      "id": 512,
+      "name": "Apartament 108"
+    },
+    {
+      "id": 511,
+      "name": "Apartament 107"
+    },
+    {
+      "id": 510,
+      "name": "Apartament 106"
+    },
+    {
+      "id": 509,
+      "name": "Apartament 105"
+    },
+    {
+      "id": 508,
+      "name": "Apartament 104"
+    },
+    {
+      "id": 507,
+      "name": "Apartament 103"
+    },
+    {
+      "id": 506,
+      "name": "Apartament 102"
+    },
+    {
+      "id": 505,
+      "name": "Apartament 101"
+    },
+    {
+      "id": 504,
+      "name": "Alabastrowy Hotel - piwnica p.2"
+    },
+    {
+      "id": 503,
+      "name": "Alabastrowy Hotel - piwnica p.1"
+    },
+    {
+      "id": 502,
+      "name": "Piwnica Nufrexa"
+    },
+    {
+      "id": 501,
+      "name": "Dom Nufrexa"
+    },
+    {
+      "id": 500,
+      "name": "Liściaste Rozstaje"
+    },
+    {
+      "id": 499,
+      "name": "Pokój ergassaj 115"
+    },
+    {
+      "id": 498,
+      "name": "Pokój ergassaj 114"
+    },
+    {
+      "id": 497,
+      "name": "Pokój ergassaj 113"
+    },
+    {
+      "id": 496,
+      "name": "Pokój ergassaj 112"
+    },
+    {
+      "id": 495,
+      "name": "Pokój ergassaj 111"
+    },
+    {
+      "id": 494,
+      "name": "Pokój ergassaj 110"
+    },
+    {
+      "id": 493,
+      "name": "Pokój ergassaj 109"
+    },
+    {
+      "id": 492,
+      "name": "Pokój ergassaj 108"
+    },
+    {
+      "id": 491,
+      "name": "Pokój ergassaj 107"
+    },
+    {
+      "id": 490,
+      "name": "Pokój ergassaj 106"
+    },
+    {
+      "id": 489,
+      "name": "Pokój ergassaj 105"
+    },
+    {
+      "id": 488,
+      "name": "Pokój ergassaj 104"
+    },
+    {
+      "id": 487,
+      "name": "Pokój ergassaj 103"
+    },
+    {
+      "id": 486,
+      "name": "Pokój ergassaj 102"
+    },
+    {
+      "id": 485,
+      "name": "Pokój ergassaj 101"
+    },
+    {
+      "id": 484,
+      "name": "Pokój 239"
+    },
+    {
+      "id": 483,
+      "name": "Pokój 238"
+    },
+    {
+      "id": 482,
+      "name": "Pokój 237"
+    },
+    {
+      "id": 481,
+      "name": "Pokój 236"
+    },
+    {
+      "id": 480,
+      "name": "Pokój 235"
+    },
+    {
+      "id": 479,
+      "name": "Pokój 234"
+    },
+    {
+      "id": 478,
+      "name": "Pokój 233"
+    },
+    {
+      "id": 477,
+      "name": "Pokój 232"
+    },
+    {
+      "id": 476,
+      "name": "Pokój 231"
+    },
+    {
+      "id": 475,
+      "name": "Pokój 230"
+    },
+    {
+      "id": 474,
+      "name": "Pokój 229"
+    },
+    {
+      "id": 473,
+      "name": "Pokój 228"
+    },
+    {
+      "id": 472,
+      "name": "Pokój 227"
+    },
+    {
+      "id": 471,
+      "name": "Pokój 226"
+    },
+    {
+      "id": 470,
+      "name": "Pokój 225"
+    },
+    {
+      "id": 469,
+      "name": "Pokój 224"
+    },
+    {
+      "id": 468,
+      "name": "Pokój 223"
+    },
+    {
+      "id": 467,
+      "name": "Pokój 222"
+    },
+    {
+      "id": 466,
+      "name": "Pokój 221"
+    },
+    {
+      "id": 465,
+      "name": "Pokój 220"
+    },
+    {
+      "id": 464,
+      "name": "Pokój 219"
+    },
+    {
+      "id": 463,
+      "name": "Pokój 218"
+    },
+    {
+      "id": 462,
+      "name": "Pokój 217"
+    },
+    {
+      "id": 461,
+      "name": "Pokój 216"
+    },
+    {
+      "id": 460,
+      "name": "Pokój 215"
+    },
+    {
+      "id": 459,
+      "name": "Pokój 214"
+    },
+    {
+      "id": 458,
+      "name": "Pokój 213"
+    },
+    {
+      "id": 457,
+      "name": "Pokój 212"
+    },
+    {
+      "id": 456,
+      "name": "Pokój 211"
+    },
+    {
+      "id": 455,
+      "name": "Pokój 210"
+    },
+    {
+      "id": 454,
+      "name": "Pokój 209"
+    },
+    {
+      "id": 453,
+      "name": "Pokój 208"
+    },
+    {
+      "id": 452,
+      "name": "Pokój 207"
+    },
+    {
+      "id": 451,
+      "name": "Pokój 206"
+    },
+    {
+      "id": 450,
+      "name": "Pokój 205"
+    },
+    {
+      "id": 449,
+      "name": "Pokój 204"
+    },
+    {
+      "id": 448,
+      "name": "Pokój 203"
+    },
+    {
+      "id": 447,
+      "name": "Pokój 202"
+    },
+    {
+      "id": 446,
+      "name": "Pokój 201"
+    },
+    {
+      "id": 445,
+      "name": "Pokój 117"
+    },
+    {
+      "id": 444,
+      "name": "Pokój 116"
+    },
+    {
+      "id": 443,
+      "name": "Pokój 115"
+    },
+    {
+      "id": 442,
+      "name": "Pokój 114"
+    },
+    {
+      "id": 441,
+      "name": "Pokój 113"
+    },
+    {
+      "id": 440,
+      "name": "Pokój 112"
+    },
+    {
+      "id": 439,
+      "name": "Pokój 111"
+    },
+    {
+      "id": 438,
+      "name": "Pokój 110"
+    },
+    {
+      "id": 437,
+      "name": "Pokój 109"
+    },
+    {
+      "id": 436,
+      "name": "Pokój 108"
+    },
+    {
+      "id": 435,
+      "name": "Pokój 107"
+    },
+    {
+      "id": 434,
+      "name": "Pokój 106"
+    },
+    {
+      "id": 433,
+      "name": "Pokój 105"
+    },
+    {
+      "id": 432,
+      "name": "Pokój 104"
+    },
+    {
+      "id": 431,
+      "name": "Pokój 103"
+    },
+    {
+      "id": 430,
+      "name": "Apartament 102"
+    },
+    {
+      "id": 429,
+      "name": "Apartament 101"
+    },
+    {
+      "id": 427,
+      "name": "Pokój 214"
+    },
+    {
+      "id": 426,
+      "name": "Pokój 213"
+    },
+    {
+      "id": 425,
+      "name": "Pokój 212"
+    },
+    {
+      "id": 424,
+      "name": "Pokój 211"
+    },
+    {
+      "id": 423,
+      "name": "Pokój 210"
+    },
+    {
+      "id": 422,
+      "name": "Pokój 209"
+    },
+    {
+      "id": 421,
+      "name": "Pokój 208"
+    },
+    {
+      "id": 420,
+      "name": "Pokój 207"
+    },
+    {
+      "id": 419,
+      "name": "Pokój 206"
+    },
+    {
+      "id": 418,
+      "name": "Pokój 205"
+    },
+    {
+      "id": 417,
+      "name": "Pokój 204"
+    },
+    {
+      "id": 416,
+      "name": "Pokój 203"
+    },
+    {
+      "id": 415,
+      "name": "Pokój 202"
+    },
+    {
+      "id": 414,
+      "name": "Pokój 201"
+    },
+    {
+      "id": 413,
+      "name": "Izba 120"
+    },
+    {
+      "id": 412,
+      "name": "Izba 119"
+    },
+    {
+      "id": 411,
+      "name": "Izba 118"
+    },
+    {
+      "id": 410,
+      "name": "Izba 117"
+    },
+    {
+      "id": 409,
+      "name": "Izba 116"
+    },
+    {
+      "id": 408,
+      "name": "Izba 115"
+    },
+    {
+      "id": 407,
+      "name": "Izba 114"
+    },
+    {
+      "id": 406,
+      "name": "Izba 112"
+    },
+    {
+      "id": 405,
+      "name": "Izba 110"
+    },
+    {
+      "id": 404,
+      "name": "Izba 108"
+    },
+    {
+      "id": 403,
+      "name": "Izba 106"
+    },
+    {
+      "id": 402,
+      "name": "Izba 104"
+    },
+    {
+      "id": 401,
+      "name": "Izba 102"
+    },
+    {
+      "id": 400,
+      "name": "Izba 113"
+    },
+    {
+      "id": 399,
+      "name": "Izba 111"
+    },
+    {
+      "id": 398,
+      "name": "Izba 109"
+    },
+    {
+      "id": 397,
+      "name": "Izba 107"
+    },
+    {
+      "id": 396,
+      "name": "Izba 105"
+    },
+    {
+      "id": 395,
+      "name": "Izba 103"
+    },
+    {
+      "id": 394,
+      "name": "Izba 101"
+    },
+    {
+      "id": 393,
+      "name": "Biuro p.112"
+    },
+    {
+      "id": 392,
+      "name": "Biuro p.111"
+    },
+    {
+      "id": 391,
+      "name": "Biuro p.110"
+    },
+    {
+      "id": 390,
+      "name": "Biuro p.109"
+    },
+    {
+      "id": 389,
+      "name": "Biuro p.108"
+    },
+    {
+      "id": 388,
+      "name": "Biuro p.107"
+    },
+    {
+      "id": 387,
+      "name": "Biuro p.106"
+    },
+    {
+      "id": 386,
+      "name": "Biuro p.105"
+    },
+    {
+      "id": 385,
+      "name": "Biuro p.104"
+    },
+    {
+      "id": 384,
+      "name": "Biuro lux p.103"
+    },
+    {
+      "id": 383,
+      "name": "Biuro lux p.102"
+    },
+    {
+      "id": 382,
+      "name": "Biuro lux p.101"
+    },
+    {
+      "id": 381,
+      "name": "Ratusz Karka-han - prawe skrzydło"
+    },
+    {
+      "id": 380,
+      "name": "Baraki pokój 12"
+    },
+    {
+      "id": 379,
+      "name": "Baraki pokój 11"
+    },
+    {
+      "id": 378,
+      "name": "Baraki pokój 10"
+    },
+    {
+      "id": 377,
+      "name": "Baraki pokój 9"
+    },
+    {
+      "id": 376,
+      "name": "Baraki pokój 8"
+    },
+    {
+      "id": 375,
+      "name": "Baraki pokój 7"
+    },
+    {
+      "id": 374,
+      "name": "Baraki pokój 6"
+    },
+    {
+      "id": 373,
+      "name": "Baraki pokój 5"
+    },
+    {
+      "id": 372,
+      "name": "Baraki pokój 4"
+    },
+    {
+      "id": 371,
+      "name": "Baraki pokój 3"
+    },
+    {
+      "id": 370,
+      "name": "Baraki pokój 2"
+    },
+    {
+      "id": 369,
+      "name": "Baraki pokój 1"
+    },
+    {
+      "id": 368,
+      "name": "Zatopiony Szczyt"
+    },
+    {
+      "id": 361,
+      "name": "Gościniec Bardów"
+    },
+    {
+      "id": 359,
+      "name": "Lokum Złych Goblinów"
+    },
+    {
+      "id": 358,
+      "name": "Ruiny Wieży Magów - przedsionek"
+    },
+    {
+      "id": 357,
+      "name": "Kurhany Zwyciężonych"
+    },
+    {
+      "id": 356,
+      "name": "Osada Czerwonych Orków"
+    },
+    {
+      "id": 355,
+      "name": "Orcza Wyżyna"
+    },
+    {
+      "id": 354,
+      "name": "Zakon Białej Lilii - kaplica"
+    },
+    {
+      "id": 353,
+      "name": "Dom Tunii"
+    },
+    {
+      "id": 352,
+      "name": "Góralskie Przejście"
+    },
+    {
+      "id": 351,
+      "name": "Babi Wzgórek"
+    },
+    {
+      "id": 350,
+      "name": "Wyjący Wąwóz"
+    },
+    {
+      "id": 349,
+      "name": "Jezioro Ważek"
+    },
+    {
+      "id": 348,
+      "name": "Złudny Trakt"
+    },
+    {
+      "id": 347,
+      "name": "Lazurowe Wzgórze"
+    },
+    {
+      "id": 346,
+      "name": "Dom Kluspa - piwnica"
+    },
+    {
+      "id": 345,
+      "name": "Dom Kluspa"
+    },
+    {
+      "id": 344,
+      "name": "Kwieciste Przejście"
+    },
+    {
+      "id": 343,
+      "name": "Dom Torina p.1"
+    },
+    {
+      "id": 342,
+      "name": "Dom Torina"
+    },
+    {
+      "id": 341,
+      "name": "Jaskinia Gnollich Szamanów p.2"
+    },
+    {
+      "id": 340,
+      "name": "Jaskinia Magów"
+    },
+    {
+      "id": 339,
+      "name": "Gadzia Kotlina"
+    },
+    {
+      "id": 338,
+      "name": "Solny Szyb p.3"
+    },
+    {
+      "id": 337,
+      "name": "Solny Szyb p.2"
+    },
+    {
+      "id": 336,
+      "name": "Solny Szyb p.1"
+    },
+    {
+      "id": 333,
+      "name": "Wioska Gnolli"
+    },
+    {
+      "id": 332,
+      "name": "Selva Oscura"
+    },
+    {
+      "id": 331,
+      "name": "Iglaste Ścieżki"
+    },
+    {
+      "id": 330,
+      "name": "Zawiły Bór"
+    },
+    {
+      "id": 329,
+      "name": "Piętro Afrassy i Brasza"
+    },
+    {
+      "id": 328,
+      "name": "Dom Liszli i Semkosa"
+    },
+    {
+      "id": 327,
+      "name": "Dom Angussa"
+    },
+    {
+      "id": 326,
+      "name": "Dom Felkissiana"
+    },
+    {
+      "id": 325,
+      "name": "Dom Jemenossa"
+    },
+    {
+      "id": 324,
+      "name": "Alabastrowy Hotel"
+    },
+    {
+      "id": 323,
+      "name": "Dom Umplecji i Kiliona"
+    },
+    {
+      "id": 322,
+      "name": "Dom Krassa"
+    },
+    {
+      "id": 321,
+      "name": "Siedziba Ergassaj p.1"
+    },
+    {
+      "id": 320,
+      "name": "Siedziba Ergassaj"
+    },
+    {
+      "id": 319,
+      "name": "Pracownia Polassa"
+    },
+    {
+      "id": 318,
+      "name": "Dom Węży"
+    },
+    {
+      "id": 317,
+      "name": "Dom Walasara p.1"
+    },
+    {
+      "id": 316,
+      "name": "Dom Walasara"
+    },
+    {
+      "id": 315,
+      "name": "Dom Trajnaloka"
+    },
+    {
+      "id": 314,
+      "name": "Kuźnia Frassona"
+    },
+    {
+      "id": 313,
+      "name": "Sala Zgromadzeń"
+    },
+    {
+      "id": 312,
+      "name": "Dom Presztreka p.1"
+    },
+    {
+      "id": 311,
+      "name": "Dom Presztreka"
+    },
+    {
+      "id": 310,
+      "name": "Dom Saprasa"
+    },
+    {
+      "id": 309,
+      "name": "Dom Lassindy i Limerusa p.1"
+    },
+    {
+      "id": 308,
+      "name": "Dom Lassindy i Limerusa"
+    },
+    {
+      "id": 307,
+      "name": "Dom Essy i Frassona"
+    },
+    {
+      "id": 306,
+      "name": "Dom Lussa p.1"
+    },
+    {
+      "id": 305,
+      "name": "Dom Aberyta p.1"
+    },
+    {
+      "id": 304,
+      "name": "Dom Aberyta"
+    },
+    {
+      "id": 302,
+      "name": "Dom Kastora"
+    },
+    {
+      "id": 299,
+      "name": "Przełaz olbrzymów"
+    },
+    {
+      "id": 298,
+      "name": "Smocza Jaskinia"
+    },
+    {
+      "id": 297,
+      "name": "Dom Eldrika"
+    },
+    {
+      "id": 296,
+      "name": "Zajazd pod Zielonym Jednorożcem - piwnica"
+    },
+    {
+      "id": 295,
+      "name": "Zajazd pod Zielonym Jednorożcem p.1"
+    },
+    {
+      "id": 294,
+      "name": "Zajazd pod Zielonym Jednorożcem"
+    },
+    {
+      "id": 293,
+      "name": "Namiot pustelnika"
+    },
+    {
+      "id": 292,
+      "name": "Opactwo - piwnica"
+    },
+    {
+      "id": 291,
+      "name": "Opactwo p.1"
+    },
+    {
+      "id": 290,
+      "name": "Opactwo"
+    },
+    {
+      "id": 288,
+      "name": "Podziemna pasieka"
+    },
+    {
+      "id": 287,
+      "name": "Lodowa Sala"
+    },
+    {
+      "id": 286,
+      "name": "Śnieżna Grota p.3"
+    },
+    {
+      "id": 285,
+      "name": "Śnieżna Grota p.2"
+    },
+    {
+      "id": 284,
+      "name": "Śnieżna Grota p.1"
+    },
+    {
+      "id": 283,
+      "name": "Twierdza Magów"
+    },
+    {
+      "id": 282,
+      "name": "Szyb Mahnior p.4"
+    },
+    {
+      "id": 280,
+      "name": "Szyb Mahnior p.3"
+    },
+    {
+      "id": 279,
+      "name": "Szyb Mahnior p.2"
+    },
+    {
+      "id": 278,
+      "name": "Szyb Mahnior p.1"
+    },
+    {
+      "id": 276,
+      "name": "Radosna Polana"
+    },
+    {
+      "id": 275,
+      "name": "Zakurzone przejście"
+    },
+    {
+      "id": 274,
+      "name": "Dom Jofusa - piwnica"
+    },
+    {
+      "id": 273,
+      "name": "Dom Jofusa"
+    },
+    {
+      "id": 272,
+      "name": "Kopalnia Faluntamir p.4"
+    },
+    {
+      "id": 271,
+      "name": "Kopalnia Faluntamir p.3 - sala 1"
+    },
+    {
+      "id": 270,
+      "name": "Kopalnia Faluntamir p.2 - sala 1"
+    },
+    {
+      "id": 269,
+      "name": "Kopalnia Faluntamir p.1"
+    },
+    {
+      "id": 268,
+      "name": "Błędny Szlak"
+    },
+    {
+      "id": 258,
+      "name": "Przybytek Zakonu Białej Róży"
+    },
+    {
+      "id": 257,
+      "name": "Mythar"
+    },
+    {
+      "id": 256,
+      "name": "Dom Lussa"
+    },
+    {
+      "id": 253,
+      "name": "Smocze Góry"
+    },
+    {
+      "id": 252,
+      "name": "Fortyfikacja p.5"
+    },
+    {
+      "id": 251,
+      "name": "Fortyfikacja p.4"
+    },
+    {
+      "id": 250,
+      "name": "Fortyfikacja p.3"
+    },
+    {
+      "id": 249,
+      "name": "Fortyfikacja p.2"
+    },
+    {
+      "id": 248,
+      "name": "Fortyfikacja p.1"
+    },
+    {
+      "id": 247,
+      "name": "Fortyfikacja"
+    },
+    {
+      "id": 246,
+      "name": "Złowrogie Bagna"
+    },
+    {
+      "id": 244,
+      "name": "Fort Eder"
+    },
+    {
+      "id": 235,
+      "name": "Ratusz Karka-han"
+    },
+    {
+      "id": 234,
+      "name": "Pieczara Pajęczyn p.4"
+    },
+    {
+      "id": 233,
+      "name": "Pieczara Pajęczyn p.3"
+    },
+    {
+      "id": 232,
+      "name": "Pieczara Pajęczyn p.2"
+    },
+    {
+      "id": 231,
+      "name": "Pieczara Pajęczyn p.1"
+    },
+    {
+      "id": 229,
+      "name": "Las Dziwów"
+    },
+    {
+      "id": 226,
+      "name": "Cienisty Bór"
+    },
+    {
+      "id": 225,
+      "name": "Kamienne Lokum p.1"
+    },
+    {
+      "id": 224,
+      "name": "Kamienne Lokum"
+    },
+    {
+      "id": 223,
+      "name": "Słoneczna Wyżyna"
+    },
+    {
+      "id": 222,
+      "name": "Zasłonięte Jezioro"
+    },
+    {
+      "id": 221,
+      "name": "Dom Mrocznego Zgrzyta"
+    },
+    {
+      "id": 220,
+      "name": "Dom Mikliniosa"
+    },
+    {
+      "id": 219,
+      "name": "Dom Etrefana"
+    },
+    {
+      "id": 218,
+      "name": "Siedziba Maga - pracownia"
+    },
+    {
+      "id": 215,
+      "name": "Siedziba Maga"
+    },
+    {
+      "id": 214,
+      "name": "Spokojne Przejście"
+    },
+    {
+      "id": 208,
+      "name": "Karczma pod Złotą Wywerną p.2"
+    },
+    {
+      "id": 207,
+      "name": "Karczma pod Złotą Wywerną p.1"
+    },
+    {
+      "id": 206,
+      "name": "Karczma pod Złotą Wywerną"
+    },
+    {
+      "id": 202,
+      "name": "Pieczara Szaleńców - sala 4"
+    },
+    {
+      "id": 201,
+      "name": "Pieczara Szaleńców - sala 3"
+    },
+    {
+      "id": 200,
+      "name": "Pieczara Szaleńców - sala 2"
+    },
+    {
+      "id": 199,
+      "name": "Pieczara Szaleńców - sala 1"
+    },
+    {
+      "id": 197,
+      "name": "Grota Złoczyńców p.4"
+    },
+    {
+      "id": 196,
+      "name": "Grota Złoczyńców p.3"
+    },
+    {
+      "id": 195,
+      "name": "Grota Złoczyńców p.2"
+    },
+    {
+      "id": 194,
+      "name": "Grota Złoczyńców p.1"
+    },
+    {
+      "id": 193,
+      "name": "Stary magazyn - poddasze"
+    },
+    {
+      "id": 192,
+      "name": "Stary magazyn - piwnica"
+    },
+    {
+      "id": 191,
+      "name": "Stary magazyn"
+    },
+    {
+      "id": 190,
+      "name": "Siedziba Maga"
+    },
+    {
+      "id": 189,
+      "name": "Mroczna Pieczara p.0"
+    },
+    {
+      "id": 188,
+      "name": "Mroczna Pieczara p.1 - sala 2"
+    },
+    {
+      "id": 183,
+      "name": "Solna Grota p.2"
+    },
+    {
+      "id": 182,
+      "name": "Solna Grota p.1"
+    },
+    {
+      "id": 180,
+      "name": "Andarum Ilami"
+    },
+    {
+      "id": 179,
+      "name": "Mroczna Pieczara p.1 - sala 3"
+    },
+    {
+      "id": 177,
+      "name": "Mokra Grota p.2"
+    },
+    {
+      "id": 176,
+      "name": "Mokra Grota p.1"
+    },
+    {
+      "id": 175,
+      "name": "Przeklęty Zamek p.1"
+    },
+    {
+      "id": 174,
+      "name": "Przeklęty Zamek - sala zgromadzeń"
+    },
+    {
+      "id": 173,
+      "name": "Przeklęty Zamek - kanały"
+    },
+    {
+      "id": 172,
+      "name": "Przeklęty Zamek - zbrojownia"
+    },
+    {
+      "id": 171,
+      "name": "Przeklęty Zamek - podziemia południowe"
+    },
+    {
+      "id": 170,
+      "name": "Przeklęty Zamek - podziemia północne"
+    },
+    {
+      "id": 169,
+      "name": "Przeklęty Zamek - wejście wschodnie"
+    },
+    {
+      "id": 168,
+      "name": "Przeklęty Zamek - wejście północne"
+    },
+    {
+      "id": 167,
+      "name": "Przeklęty Zamek - wejście południowe"
+    },
+    {
+      "id": 166,
+      "name": "Dom Grambera"
+    },
+    {
+      "id": 165,
+      "name": "Magazyn Eder"
+    },
+    {
+      "id": 164,
+      "name": "Dom Schadzek p.1"
+    },
+    {
+      "id": 163,
+      "name": "Dom Schadzek"
+    },
+    {
+      "id": 162,
+      "name": "Dom Erniego"
+    },
+    {
+      "id": 161,
+      "name": "Pracownia Bonifacego"
+    },
+    {
+      "id": 160,
+      "name": "Dom Burmistrza p.1"
+    },
+    {
+      "id": 159,
+      "name": "Dom Burmistrza"
+    },
+    {
+      "id": 158,
+      "name": "Dom Artenii i Tafina p.1"
+    },
+    {
+      "id": 157,
+      "name": "Dom Artenii i Tafina"
+    },
+    {
+      "id": 156,
+      "name": "Krasowa Pieczara p.3"
+    },
+    {
+      "id": 155,
+      "name": "Krasowa Pieczara p.2"
+    },
+    {
+      "id": 154,
+      "name": "Krasowa Pieczara p.1"
+    },
+    {
+      "id": 150,
+      "name": "Zapomniany Szlak"
+    },
+    {
+      "id": 147,
+      "name": "Siedlisko Nietoperzy p.5"
+    },
+    {
+      "id": 146,
+      "name": "Siedlisko Nietoperzy p.4"
+    },
+    {
+      "id": 145,
+      "name": "Siedlisko Nietoperzy p.3 - sala 1"
+    },
+    {
+      "id": 144,
+      "name": "Siedlisko Nietoperzy p.2"
+    },
+    {
+      "id": 143,
+      "name": "Siedlisko Nietoperzy p.1"
+    },
+    {
+      "id": 142,
+      "name": "Mroczna Pieczara p.2"
+    },
+    {
+      "id": 141,
+      "name": "Mroczna Pieczara p.1 - sala 1"
+    },
+    {
+      "id": 140,
+      "name": "Mroczny Przesmyk"
+    },
+    {
+      "id": 138,
+      "name": "Porzucone Pasieki"
+    },
+    {
+      "id": 137,
+      "name": "Wioska Pszczelarzy"
+    },
+    {
+      "id": 136,
+      "name": "Przepastna Grota p.2"
+    },
+    {
+      "id": 135,
+      "name": "Przepastna Grota p.1"
+    },
+    {
+      "id": 134,
+      "name": "Pieczara Wiatru p.3"
+    },
+    {
+      "id": 133,
+      "name": "Pieczara Wiatru p.2"
+    },
+    {
+      "id": 132,
+      "name": "Pieczara Wiatru p.1"
+    },
+    {
+      "id": 131,
+      "name": "Górska Kopalnia"
+    },
+    {
+      "id": 130,
+      "name": "Górska Grota p.2"
+    },
+    {
+      "id": 129,
+      "name": "Górska Grota p.1"
+    },
+    {
+      "id": 128,
+      "name": "Zachodnie Rozdroża"
+    },
+    {
+      "id": 127,
+      "name": "Stare Wyrobisko p.5"
+    },
+    {
+      "id": 126,
+      "name": "Stare Wyrobisko p.4"
+    },
+    {
+      "id": 125,
+      "name": "Stare Wyrobisko p.3"
+    },
+    {
+      "id": 124,
+      "name": "Stare Wyrobisko p.2"
+    },
+    {
+      "id": 123,
+      "name": "Stare Wyrobisko p.1"
+    },
+    {
+      "id": 122,
+      "name": "Nawiedzony Jar"
+    },
+    {
+      "id": 121,
+      "name": "Góry Zrębowe"
+    },
+    {
+      "id": 120,
+      "name": "Świszcząca Grota p.4"
+    },
+    {
+      "id": 119,
+      "name": "Świszcząca Grota p.3"
+    },
+    {
+      "id": 118,
+      "name": "Świszcząca Grota p.2"
+    },
+    {
+      "id": 117,
+      "name": "Świszcząca Grota p.1"
+    },
+    {
+      "id": 116,
+      "name": "Zburzona Twierdza"
+    },
+    {
+      "id": 115,
+      "name": "Mokradła"
+    },
+    {
+      "id": 114,
+      "name": "Thuzal"
+    },
+    {
+      "id": 113,
+      "name": "Dom Remiusza - piwnica"
+    },
+    {
+      "id": 112,
+      "name": "Zapomniany Grobowiec p.1"
+    },
+    {
+      "id": 111,
+      "name": "Ghuli Mogilnik"
+    },
+    {
+      "id": 110,
+      "name": "Dolina Rozbójników"
+    },
+    {
+      "id": 109,
+      "name": "Dom Anzelma"
+    },
+    {
+      "id": 108,
+      "name": "Dom Hergata i Halfinii p.1"
+    },
+    {
+      "id": 107,
+      "name": "Dom Hergata i Halfinii"
+    },
+    {
+      "id": 106,
+      "name": "Pracownia Inetora"
+    },
+    {
+      "id": 105,
+      "name": "Dom Kalicji i Apoksa"
+    },
+    {
+      "id": 104,
+      "name": "Dom Kaliposa"
+    },
+    {
+      "id": 103,
+      "name": "Dom Roszana"
+    },
+    {
+      "id": 102,
+      "name": "Przeklęta Pieczara p.2"
+    },
+    {
+      "id": 101,
+      "name": "Przeklęta Pieczara p.1"
+    },
+    {
+      "id": 100,
+      "name": "Dom Remiusza"
+    },
+    {
+      "id": 98,
+      "name": "Podziemne Przejście - sala wyjściowa"
+    },
+    {
+      "id": 97,
+      "name": "Podziemne Przejście p.6 - sala 4"
+    },
+    {
+      "id": 96,
+      "name": "Podziemne Przejście p.6 - sala 3"
+    },
+    {
+      "id": 95,
+      "name": "Podziemne Przejście p.6 - sala 2"
+    },
+    {
+      "id": 94,
+      "name": "Podziemne Przejście p.6 - sala wyjściowa"
+    },
+    {
+      "id": 93,
+      "name": "Podziemne Przejście p.5"
+    },
+    {
+      "id": 92,
+      "name": "Podziemne Przejście p.4 - sala 3"
+    },
+    {
+      "id": 91,
+      "name": "Podziemne Przejście p.4 - sala 2"
+    },
+    {
+      "id": 90,
+      "name": "Podziemne Przejście p.4"
+    },
+    {
+      "id": 89,
+      "name": "Podziemne Przejście p.3"
+    },
+    {
+      "id": 88,
+      "name": "Podziemne Przejście p.2"
+    },
+    {
+      "id": 87,
+      "name": "Podziemne Przejście p.1"
+    },
+    {
+      "id": 84,
+      "name": "Wichrowe Szczyty"
+    },
+    {
+      "id": 82,
+      "name": "Dom Wei"
+    },
+    {
+      "id": 81,
+      "name": "Dom Sary - piwnica"
+    },
+    {
+      "id": 80,
+      "name": "Dom Sary"
+    },
+    {
+      "id": 79,
+      "name": "Dom Idalii p.1"
+    },
+    {
+      "id": 78,
+      "name": "Dom Idalii"
+    },
+    {
+      "id": 77,
+      "name": "Dom Alrika p.1"
+    },
+    {
+      "id": 76,
+      "name": "Dom Alrika"
+    },
+    {
+      "id": 74,
+      "name": "Zielna Grota p.1 - sala 2"
+    },
+    {
+      "id": 73,
+      "name": "Zielna Grota p.1 - sala 1"
+    },
+    {
+      "id": 72,
+      "name": "Dom Moliwii p.1"
+    },
+    {
+      "id": 71,
+      "name": "Dom Moliwii"
+    },
+    {
+      "id": 70,
+      "name": "Zajazd Umbara"
+    },
+    {
+      "id": 69,
+      "name": "Dom Szagarata"
+    },
+    {
+      "id": 68,
+      "name": "Dom Galisa"
+    },
+    {
+      "id": 67,
+      "name": "Dom Mira p.1"
+    },
+    {
+      "id": 66,
+      "name": "Dom Mira"
+    },
+    {
+      "id": 65,
+      "name": "Dom Alabraskana"
+    },
+    {
+      "id": 64,
+      "name": "Dom Enoliana"
+    },
+    {
+      "id": 63,
+      "name": "Karczma pod Fioletowym Kryształem p.1"
+    },
+    {
+      "id": 62,
+      "name": "Karczma pod Fioletowym Kryształem"
+    },
+    {
+      "id": 61,
+      "name": "Dom Jalena i Tafii p.1"
+    },
+    {
+      "id": 60,
+      "name": "Dom Jalena i Tafii"
+    },
+    {
+      "id": 59,
+      "name": "Dom Idropusa p.1"
+    },
+    {
+      "id": 58,
+      "name": "Dom Idropusa"
+    },
+    {
+      "id": 57,
+      "name": "Dom Gindera"
+    },
+    {
+      "id": 56,
+      "name": "Dom Paratoka p.1"
+    },
+    {
+      "id": 55,
+      "name": "Dom Paratoka"
+    },
+    {
+      "id": 54,
+      "name": "Kopalnia Latimeria p.3"
+    },
+    {
+      "id": 53,
+      "name": "Kopalnia Latimeria p.2"
+    },
+    {
+      "id": 52,
+      "name": "Kopalnia Latimeria p.1"
+    },
+    {
+      "id": 50,
+      "name": "Kopalnia Inlefi p.2"
+    },
+    {
+      "id": 49,
+      "name": "Kopalnia Inlefi p.1"
+    },
+    {
+      "id": 48,
+      "name": "Kopalnia Fretar - sala 3"
+    },
+    {
+      "id": 47,
+      "name": "Kopalnia Fretar - sala 2"
+    },
+    {
+      "id": 46,
+      "name": "Kopalnia Fretar - sala 1"
+    },
+    {
+      "id": 45,
+      "name": "Kopalnia Fretar p.3"
+    },
+    {
+      "id": 44,
+      "name": "Kopalnia Fretar p.2"
+    },
+    {
+      "id": 43,
+      "name": "Siedziba Kultystów"
+    },
+    {
+      "id": 42,
+      "name": "Karczma pod Posępnym Czerepem p.2"
+    },
+    {
+      "id": 41,
+      "name": "Karczma pod Posępnym Czerepem p.1"
+    },
+    {
+      "id": 40,
+      "name": "Karczma pod Posępnym Czerepem"
+    },
+    {
+      "id": 39,
+      "name": "Siedziba Kultystów - piwnica"
+    },
+    {
+      "id": 38,
+      "name": "Uroczysko"
+    },
+    {
+      "id": 37,
+      "name": "Brama Północy"
+    },
+    {
+      "id": 36,
+      "name": "Przedmieścia Karka-han"
+    },
+    {
+      "id": 35,
+      "name": "Karka-han"
+    },
+    {
+      "id": 34,
+      "name": "Dom Huslina"
+    },
+    {
+      "id": 33,
+      "name": "Eder"
+    },
+    {
+      "id": 32,
+      "name": "Piekielna Grota p.4"
+    },
+    {
+      "id": 31,
+      "name": "Piekielna Grota p.3 - sala 2"
+    },
+    {
+      "id": 30,
+      "name": "Piekielna Grota p.3 - sala 1"
+    },
+    {
+      "id": 29,
+      "name": "Piekielna Grota p.2"
+    },
+    {
+      "id": 28,
+      "name": "Piekielna Grota p.1"
+    },
+    {
+      "id": 27,
+      "name": "Dom Roana - piętro"
+    },
+    {
+      "id": 26,
+      "name": "Dom Roana"
+    },
+    {
+      "id": 24,
+      "name": "Granitowa Jaskinia p.2"
+    },
+    {
+      "id": 23,
+      "name": "Granitowa Jaskinia"
+    },
+    {
+      "id": 22,
+      "name": "Opuszczona Grota p.2"
+    },
+    {
+      "id": 21,
+      "name": "Opuszczona Grota - sala 2"
+    },
+    {
+      "id": 20,
+      "name": "Opuszczona Grota"
+    },
+    {
+      "id": 19,
+      "name": "Spustoszona jaskinia"
+    },
+    {
+      "id": 18,
+      "name": "Dom Unila"
+    },
+    {
+      "id": 17,
+      "name": "Zajazd u Makiny"
+    },
+    {
+      "id": 16,
+      "name": "Jaskinia Łowców p.0"
+    },
+    {
+      "id": 15,
+      "name": "Jaskinia Łowców p.1"
+    },
+    {
+      "id": 14,
+      "name": "Dom sióstr p.1"
+    },
+    {
+      "id": 13,
+      "name": "Dom sióstr"
+    },
+    {
+      "id": 12,
+      "name": "Stare Ruiny"
+    },
+    {
+      "id": 11,
+      "name": "Dolina Yss"
+    },
+    {
+      "id": 10,
+      "name": "Przełęcz Dwóch Koron"
+    },
+    {
+      "id": 9,
+      "name": "Werbin"
+    },
+    {
+      "id": 8,
+      "name": "Zniszczone Opactwo"
+    },
+    {
+      "id": 7,
+      "name": "Ratusz Ithan"
+    },
+    {
+      "id": 6,
+      "name": "Baraki p.1"
+    },
+    {
+      "id": 5,
+      "name": "Baraki"
+    },
+    {
+      "id": 4,
+      "name": "Przełęcz Łotrzyków"
+    },
+    {
+      "id": 3,
+      "name": "Orla Grań"
+    },
+    {
+      "id": 2,
+      "name": "Torneg"
+    },
+    {
+      "id": 1,
+      "name": "Ithan"
+    }
+  ]
