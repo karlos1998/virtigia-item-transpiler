@@ -23,7 +23,7 @@ interface ItemData {
     category: string;
     currency: "gold" | "unset";
     rarity: string;
-    price: string;
+    price: number;
     icon: string;
 }
 
@@ -85,6 +85,7 @@ const updateItemIfChanged = async (item: BaseItem, newAttributes: object, itemDa
     if (newAttributesString !== item.attributes) {
         logChange(item.id, item.attributes, newAttributesString);
         await pool.query("UPDATE base_items SET attributes = ?, category = ?, currency = ?, rarity = ? WHERE id = ?", [newAttributesString, itemData.category, itemData.currency, itemData.rarity, item.id]);
+        // await pool.query("UPDATE base_items SET price = ? WHERE id = ?", [itemData.price, item.id]);
     }
 };
 
@@ -149,14 +150,15 @@ const processBatch = async (batch: BaseItem[]) => {
 
         // if(id != 27035) continue;
 
+        const attributes = generateAttributes(stats);
         const itemData: ItemData = {
             createdAt: created_at,
             updatedAt: updated_at,
-            attributes: generateAttributes(stats),
-            category: categories[cl] || "unknown",
+            attributes,
+            category: categories[cl] || "neutrals",
             currency: "gold",
-            rarity: "common",
-            price: pr,
+            rarity: "rarity" in attributes ? attributes.rarity : "common",
+            price: parseInt(pr || '0') / Math.max(attributes.quantity ? parseInt(attributes.quantity) : 1, 1),
             icon,
             name,
             id,
@@ -164,7 +166,6 @@ const processBatch = async (batch: BaseItem[]) => {
 
         if (itemData.category === "golds") {
             itemData.currency = "unset";
-            itemData.price = "unset";
         }
 
 
@@ -187,7 +188,10 @@ const fetchItemsInBatches = async () => {
 
     while (hasMoreRecords) {
         try {
-            const [rows] = await pool.query<BaseItem[]>(`SELECT * FROM base_items LIMIT ? OFFSET ?`, [BATCH_SIZE, offset]);
+            const [rows] = await pool.query<BaseItem[]>(
+                "SELECT * FROM base_items WHERE `edited_manually` = 0 AND `stats` IS NOT NULL AND `stats` != '' LIMIT ? OFFSET ?",
+                [BATCH_SIZE, offset]
+            );
 
             if (Array.isArray(rows) && rows.length > 0) {
                 await processBatch(rows);

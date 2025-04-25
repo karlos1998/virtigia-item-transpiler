@@ -107,6 +107,9 @@ export const attributes = {
             case "curse": {
                 return `legendaryBon=["curseChanceAfterDoHit",9]`
             };
+            case "pushback": {
+                return `legendaryBon=["pushBack",8]`
+            };
         };
     },
     "lowreq": () => `isLowerLevelScroll=true`,
@@ -180,7 +183,7 @@ export const attributes = {
     "slow": (pointsData: string) => `enemyAttackSpeedReduction=${pointsData}`,
     "heal": (pointsData: string) => `combatHealthRestoration=${pointsData}`,
     "ammo": (quantityData: string) => `quantity=${quantityData}`,
-    "loot": (lootData: string) => `lootWith=${lootData}`,
+    // "loot": (lootData: string) => `lootWith=${lootData}`,
     "crit": (percentData: string) => `criticalChance=${percentData}`,
     "pdmg": (damageData: string) => `arrowPhysicalDamage=${damageData}`,
     "fire": (damageData: string) => `fireDamage=${damageData}`,
